@@ -2,7 +2,8 @@
 layout: post
 title:  "Confira programação completa do carnaval de Olinda 2024"
 categories: [ carnaval ]
-image: assets/images/img-carnaval-olinda-programacao.jpg
+image: assets/images/2024/02/img-carnaval-olinda-programacao.jpg
+date:   2024-02-03 00:04:00 -0300
 ---
 O Carnaval de Olinda é uma festa icônica que mescla tradição e inovação, e sua programação reflete essa diversidade. Com blocos de rua, maracatus, afoxés e frevos, a cidade se transforma em um palco vibrante de cultura e alegria. A programação inclui desde desfiles tradicionais até eventos contemporâneos, destacando a rica herança cultural da região. Os foliões podem esperar uma experiência única, onde a animação e a criatividade se unem em uma celebração inesquecível.
 

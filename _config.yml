@@ -26,6 +26,7 @@ authors:
     alexandre:
       name:           Alexandre Santos
       nickname:       Cabo Gato
+      socialName:     alexandre
       site:           
       avatar:         assets/images/autor1.png
       bio:            "Idealizador e fundador do correio olindense."
@@ -35,6 +36,8 @@ authors:
 
     elias:
       name:           Elias Barreto
+      nickname:       elias  
+      socialName:     elias
       site:           
       avatar:         assets/images/autor2.jpg
       bio:            "Engenheiro de software"

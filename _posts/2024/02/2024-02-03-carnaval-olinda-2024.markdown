@@ -2,7 +2,8 @@
 layout: post
 title:  "Carnaval de Olinda 2024: Celebração vibrante da identidade cultural"
 categories: [ carnaval ]
-image: assets/images/img-carnaval-olinda-2024.jpg
+image: assets/images/2024/02/img-carnaval-olinda-2024.jpg
+date:   2024-02-03 00:07:00 -0300
 ---
 
 Olinda, conhecida por seu Carnaval único e envolvente, está se preparando para mais uma festa memorável que reflete a alma pulsante da cidade. A abertura, marcada para 8 de fevereiro, trará um Cortejo Especial com os ilustres Patrimônios Vivos de Pernambuco: Homem da Meia-Noite, Elefante de Olinda, Pitombeira dos Quatro Cantos e a TCM Cariri Olindense. Às 17h, a concentração nos Quatro Cantos será seguida por um desfile pelas ruas do Sítio Histórico, passando pela Ribeira, Prefeitura, Pitombeira e encerrando no Carmo, onde, às 17h, Ed Carlos abrirá os shows.

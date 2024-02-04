@@ -2,7 +2,8 @@
 layout: post
 title:  "População de Olinda aprova detalhes do carnaval 2024"
 categories: [ carnaval ]
-image: assets/images/img-populacao-aprova-carnaval.jpg
+image: assets/images/2024/02/img-populacao-aprova-carnaval.jpg
+date:   2024-02-03 00:01:00 -0300
 ---
 Os detalhes do aguardado Carnaval 2024 foram lançados ontem (22) e já estão causando burburinho entre os moradores de Olinda. Em uma rápida incursão pelas redes sociais, fica evidente que a grande maioria dos internautas aplaudiu entusiasticamente a programação do palco principal no Carmo, assim como o tema escolhido e as merecidas homenagens aos protagonistas da folia.
 

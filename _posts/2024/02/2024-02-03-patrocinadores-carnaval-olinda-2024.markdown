@@ -2,7 +2,8 @@
 layout: post
 title:  "Grandes marcas apoiam o carnaval de Olinda 2024"
 categories: [ carnaval ]
-image: assets/images/img-patrocinadores-carnaval-olinda.jpeg
+image: assets/images/2024/02/img-patrocinadores-carnaval-olinda.jpeg
+date:   2024-02-03 00:03:00 -0300
 ---
 A Prefeitura de Olinda conta com o patrocínio de renomadas marcas para realizar o maior Carnaval do mundo, que este ano acontece entre os dias 08 e 14 de fevereiro.
 
