@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Correio Olindense expande sua presença online com estreia de blog de notícias na internet"
+title:  "CORREIO OLINDENSE EXPANDE SUA PRESENÇA ONLINE COM ESTREIA DE BLOG DE NOTÍCIAS NA INTERNET"
 categories: [ blog, destaque ]
 image: assets/images/2024/02/img-correio-olindense.png
 tags: [sticky, featured]

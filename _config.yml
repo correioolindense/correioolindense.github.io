@@ -7,6 +7,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: correioolindense
 github_username:  correioolindense
+disqus: 'correioolindense'
+# mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
 permalink: /:title/
@@ -31,18 +33,21 @@ authors:
       avatar:         assets/images/autor1.png
       bio:            "Idealizador e fundador do correio olindense."
       email:          fakemail@gmail.com
-      twitter:        AlexandreSPE
-      instagram:      alexandrecabogato
+      twitter:        https://x.com/alexandrespe?s=21
+      instagram:      https://www.instagram.com/alexandrecabogato?igsh=NHhldXhyZDcwZDkx
+      linkedin:
 
     elias:
       name:           Elias Barreto
-      nickname:       elias  
+      nickname:         
       socialName:     elias
       site:           
       avatar:         assets/images/autor2.jpg
       bio:            "Engenheiro de software"
       email:          elias-barreto@outlook.com
-      instagram:      eliasBarret
+      twitter:        
+      instagram:      https://www.instagram.com/eliasbarret?igsh=eTRhbTJvbWpnb3R2
+      linkedin:       https://www.linkedin.com/in/ebff/
 
 # Defaults
 defaults:

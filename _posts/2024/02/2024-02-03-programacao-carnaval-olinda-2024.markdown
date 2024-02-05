@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Confira programação completa do carnaval de Olinda 2024"
+title:  "CONFIRA PROGRAMAÇÃO COMPLETA DO CARNAVAL DE OLINDA 2024"
 categories: [ carnaval ]
 image: assets/images/2024/02/img-carnaval-olinda-programacao.jpg
 date:   2024-02-03 00:04:00 -0300

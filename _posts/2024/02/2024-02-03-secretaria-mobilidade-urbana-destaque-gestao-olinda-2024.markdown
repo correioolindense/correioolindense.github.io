@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Coronel Maxwell Behar transforma secretária de mobilidade urbana em destaque na gestão do prefeito Lupércio."
+title:  "CORONEL MAXWELL BEHAR TRANSFORMA SECRETARIA DE MOBILIDADE URBANA EM DESTAQUE NA GESTÃO DO PREFEITO LUPÉRCIO"
 categories: [ gestao ]
 image: assets/images/2024/02/img-secretaria-mobilidade-urbana-destaque-coronel.jpeg
 date:   2024-02-03 00:06:00 -0300

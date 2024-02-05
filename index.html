@@ -5,7 +5,7 @@ pagination:
 enabled: true
 description: "#"
 ---
-<div class="container">
+<div class="container" style="margin-top: 40px;">
    {% if page.url == "/" %}
    <!-- Begin post excerpts, let's highlight the first 4 posts on top -->
    <div class="row remove-site-content-margin">
@@ -33,7 +33,7 @@ description: "#"
                </span>                   
                </small>
                <small class="text-muted">
-               {{ latest_post.date | date: '%b %d, %Y' }}
+               {{ latest_post.date | date: "%d/%m/%Y" }}
                </small>
             </div>
          </div>
@@ -62,7 +62,7 @@ description: "#"
             </span>                   
             </small>
             <small class="text-muted">
-            {{ second_post.date | date: '%b %d, %Y' }}
+            {{ second_post.date | date: "%d/%m/%Y" }}
             </small>
          </div>
       </div>
@@ -88,7 +88,7 @@ description: "#"
             </span>                   
             </small>
             <small class="text-muted">
-            {{ third_post.date | date: '%b %d, %Y' }}
+            {{ third_post.date | date: "%d/%m/%Y" }}
             </small>
          </div>
       </div>
@@ -114,7 +114,7 @@ description: "#"
             </span>                   
             </small>
             <small class="text-muted">
-            {{ fourth_post.date | date: '%b %d, %Y' }}
+            {{ fourth_post.date | date: "%d/%m/%Y" }}
             </small>
          </div>
       </div>

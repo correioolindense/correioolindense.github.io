@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "População de Olinda aprova detalhes do carnaval 2024"
+title:  "POPULAÇÃO DE OLINDA APROVA DETALHES DO CARNAVAL 2024"
 categories: [ carnaval ]
 image: assets/images/2024/02/img-populacao-aprova-carnaval.jpg
 date:   2024-02-03 00:01:00 -0300

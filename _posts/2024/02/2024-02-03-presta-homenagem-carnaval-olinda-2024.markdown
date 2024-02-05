@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Olinda presta homenagem a dois filhos ilustres: Reginaldo da paz e O Lord"
+title:  "OLINDA PRESTA HOMENAGEM A DOIS FILHOS ILUSTRES: REGINALDO DA PAZ E O LORD"
 categories: [ carnaval ]
 image: assets/images/2024/02/img-homenagem-olinda-carnaval.jpg
 date:   2024-02-03 00:05:00 -0300

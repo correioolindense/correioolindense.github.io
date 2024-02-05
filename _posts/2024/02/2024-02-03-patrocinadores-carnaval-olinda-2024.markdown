@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Grandes marcas apoiam o carnaval de Olinda 2024"
+title:  "GRANDES MARCAS APOIAM O CARNAVAL DE OLINDA 2024"
 categories: [ carnaval ]
 image: assets/images/2024/02/img-patrocinadores-carnaval-olinda.jpeg
 date:   2024-02-03 00:03:00 -0300
