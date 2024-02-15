@@ -5,22 +5,7 @@ categories: [ carnaval, olinda, gestao ]
 image: assets/images/2024/15/02.jpeg
 date:   2024-02-15 19:00:00 -0300
 ---
-Entre os vários serviços oferecidos pela Prefeitura de Olinda no Carnaval está a Central de Perdidos e Achados. Até esta segunda-feira (12), 440 objetos foram encontrados, dos mais variados tipos. Há identidades, SUS, PIS-Pasep, vários cartões e celular. Confira abaixo todos os materiais perdidos durante a folia.
-
-Identidade – 103
-CPF – 15
-Carteira de habilitação – 52
-Título de eleitor – 09
-Carteira de estudante – 10
-Reservista – 02
-Funcional – 04
-CRLV – 04
-SUS – 22
-PIS-PASEP – 02
-Carteira – 30
-Celular – 01
-Cartões – 186
-Total: 440
+Entre os vários serviços oferecidos pela Prefeitura de Olinda no Carnaval está a Central de Perdidos e Achados. Até esta quinta-feira (15), mais de 700 objetos foram encontrados, dos mais variados tipos. Há identidades, SUS, PIS-Pasep, vários cartões e celulares.
 
 O trabalho é organizado pela Secretaria de Segurança Cidadã de Olinda, que fica localizada no bairro do Varadouro, Avenida Santos Dumont, 177 – Lado “B”, onde funciona a Guarda Municipal. O serviço auxilia as pessoas que tiveram os documentos perdidos ou extraviados durante o Carnaval na cidade.
 
