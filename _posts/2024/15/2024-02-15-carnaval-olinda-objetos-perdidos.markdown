@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OLINDA REGISTA MAIS DE 400 OBJETOS PERDIDOS NO CARNAVAL 2024"
+title: "OLINDA REGISTRA MAIS DE 700 OBJETOS PERDIDOS NO CARNAVAL 2024"
 categories: [ carnaval, olinda, gestao ]
 image: assets/images/2024/15/02.jpeg
 date:   2024-02-15 19:00:00 -0300
