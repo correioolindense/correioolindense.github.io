@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BLOCO "LOVE UMB7" AGITA RIO DOCE COM FESTA PARA OS SAUDOSISTAS DO CARNAVAL"
+title: "BLOCO LOVE UMB7 AGITA RIO DOCE COM FESTA PARA OS SAUDOSISTAS DO CARNAVAL"
 categories: [ carnaval, olinda ]
 image: assets/images/2024/16/01.jpeg
 date:   2024-02-16 08:00:00 -0300
