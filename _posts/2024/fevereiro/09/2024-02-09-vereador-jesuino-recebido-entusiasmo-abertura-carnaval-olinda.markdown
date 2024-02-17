@@ -2,7 +2,7 @@
 layout: post
 title: "VEREADOR JESUÍNO ARAÚJO RECEBIDO COM ENTUSIASMO NA ABERTURA DO CARNAVAL PELO GRUPO DO PREFEITO PROFESSOR LUPÉRCIO"
 categories: [ carnaval, olinda, gestao ]
-image: assets/images/2024/09/01.jpeg
+image: assets/images/2024/fevereiro/09/01.jpeg
 date:   2024-02-09 12:45:00 -0300
 ---
 Na noite de ontem, durante a grande abertura do Carnaval de Olinda, o Vereador Jesuíno Araújo foi calorosamente recebido pelo grupo do prefeito Professor Lupércio. Integrando a comitiva da governadora Raquel Lyra, o vereador aproveitou o evento para estreitar laços com secretários e lideranças da gestão.

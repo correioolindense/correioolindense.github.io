@@ -2,7 +2,7 @@
 layout: post
 title:  "OLINDA PRESTA HOMENAGEM A DOIS FILHOS ILUSTRES: REGINALDO DA PAZ E O LORD"
 categories: [ carnaval ]
-image: assets/images/2024/02/img-homenagem-olinda-carnaval.jpg
+image: assets/images/2024/fevereiro/02/img-homenagem-olinda-carnaval.jpg
 date:   2024-02-03 00:05:00 -0300
 ---
 Após uma intensa participação da população, Olinda anunciou os homenageados em uma votação que mobilizou mais de 57 mil pessoas ao longo de três dias e meio. Hoje, a cidade celebra o Carnaval e homenageia Reginaldo da Paz em vida e presta homenagem "in memoriam" a Mário Medeiros Raposo, conhecido carinhosamente como "O Lord."

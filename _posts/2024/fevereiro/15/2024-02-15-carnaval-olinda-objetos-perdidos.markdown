@@ -2,7 +2,7 @@
 layout: post
 title: "OLINDA REGISTRA MAIS DE 700 OBJETOS PERDIDOS NO CARNAVAL 2024"
 categories: [ carnaval, olinda, gestao ]
-image: assets/images/2024/15/02.jpeg
+image: assets/images/2024/fevereiro/15/02.jpeg
 date:   2024-02-15 19:00:00 -0300
 ---
 Entre os vários serviços oferecidos pela Prefeitura de Olinda no Carnaval está a Central de Perdidos e Achados. Até esta quinta-feira (15), mais de 700 objetos foram encontrados, dos mais variados tipos. Há identidades, SUS, PIS-Pasep, vários cartões e celulares.

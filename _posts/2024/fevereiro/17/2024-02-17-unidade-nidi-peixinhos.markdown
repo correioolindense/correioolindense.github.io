@@ -2,7 +2,7 @@
 layout: post
 title: "PREFEITO PROFESSOR LUPÉRCIO ANUNCIA MAIS UMA UNIDADE DO NIDI, AGORA EM PEIXINHOS"
 categories: [ olinda, prefeitura, gestao ]
-image: assets/images/2024/02/17/01.jpeg
+image: assets/images/2024/fevereiro/17/01.jpeg
 date:   2024-02-17 09:55:00 -0300
 ---
 Em um vídeo divulgado ontem, o prefeito Professor Lupércio anunciou uma nova conquista para a cidade de Olinda: a instalação de mais um Núcleo Infantil de Integração (NIDI). Desta vez, o próximo núcleo será implantado na região de Peixinhos, somando-se ao já existente em Rio Doce.

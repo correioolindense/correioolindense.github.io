@@ -2,7 +2,7 @@
 layout: post
 title:  "CORREIO OLINDENSE EXPANDE SUA PRESENÇA ONLINE COM ESTREIA DE BLOG DE NOTÍCIAS NA INTERNET"
 categories: [ blog, destaque ]
-image: assets/images/2024/02/img-correio-olindense.png
+image: assets/images/2024/fevereiro/02/img-correio-olindense.png
 tags: [sticky, featured]
 ---
 O Correio Olindense, veículo de notícias no Instagram, deu um passo significativo em sua jornada digital com o lançamento de um blog na internet. O blog, mantendo a mesma credibilidade que conquistou nas redes sociais, oferecerá aos leitores um novo canal de acesso às últimas notícias e atualizações sobre Olinda.

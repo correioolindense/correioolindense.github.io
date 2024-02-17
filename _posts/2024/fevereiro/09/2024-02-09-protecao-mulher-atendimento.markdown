@@ -2,7 +2,7 @@
 layout: post
 title: "CENTRO DE PROTEÇÃO À MULHER GARANTE ATENDIMENTO 24 HORAS DURANTE O CARNAVAL EM OLINDA"
 categories: [ carnaval, olinda, gestao ]
-image: assets/images/2024/09/02.jpeg
+image: assets/images/2024/fevereiro/09/02.jpeg
 date:   2024-02-09 16:05:00 -0300
 ---
 Durante o período festivo do Carnaval, Thayane Holanda e Mirella Almeida estabeleceram um importante recurso para mulheres que possam enfrentar violações de direitos. O Centro de Proteção à Mulher, localizado na Av. Sigismundo Gonçalves, 581, ao lado do Conselho Tutelar, está operando 24 horas por dia para oferecer suporte e assistência às mulheres em situações de emergência.

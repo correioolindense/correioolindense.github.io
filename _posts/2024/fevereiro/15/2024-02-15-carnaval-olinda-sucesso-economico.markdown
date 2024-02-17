@@ -2,7 +2,7 @@
 layout: post
 title: "CARNAVAL DE OLINDA 2024: SUCESSO, MOVIMENTAÇÃO ECONÔMICA E RECONHECIMENTO INTERNACIONAL"
 categories: [ carnaval, olinda, gestao ]
-image: assets/images/2024/15/01.jpeg
+image: assets/images/2024/fevereiro/15/01.jpeg
 date:   2024-02-15 11:50:00 -0300
 ---
 O carnaval de Olinda em 2024 foi marcado por uma explosão de folia, recebendo um total de 4 milhões de foliões. Destes, 3% vieram de outros países, demonstrando o alcance internacional do evento, enquanto 21% vieram de outros estados brasileiros e a maioria esmagadora, 76%, eram locais de Pernambuco.

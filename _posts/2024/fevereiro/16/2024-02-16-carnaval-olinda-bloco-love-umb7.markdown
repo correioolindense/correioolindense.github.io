@@ -2,7 +2,7 @@
 layout: post
 title: "BLOCO LOVE UMB7 AGITA RIO DOCE COM FESTA PARA OS SAUDOSISTAS DO CARNAVAL"
 categories: [ carnaval, olinda ]
-image: assets/images/2024/16/01.jpeg
+image: assets/images/2024/fevereiro/16/01.jpeg
 date:   2024-02-16 08:00:00 -0300
 ---
 Neste próximo domingo, os moradores de Rio Doce serão agraciados com uma festa que promete reacender o espírito carnavalesco na região. O Bloco "Love UmB7", idealizado por um grupo de residentes, liderados por Beatriz Bernardo e Daniel Oliveira, surge como uma celebração à cultura, com destaque para o campo da B7, onde os fundadores residem.

@@ -2,7 +2,7 @@
 layout: post
 title:  "CARNAVAL DE OLINDA 2024: CELEBRAÇÃO VIBRANTE DA IDENTIDADE CULTURAL"
 categories: [ carnaval ]
-image: assets/images/2024/02/img-carnaval-olinda-2024.jpg
+image: assets/images/2024/fevereiro/02/img-carnaval-olinda-2024.jpg
 date:   2024-02-03 00:07:00 -0300
 ---
 

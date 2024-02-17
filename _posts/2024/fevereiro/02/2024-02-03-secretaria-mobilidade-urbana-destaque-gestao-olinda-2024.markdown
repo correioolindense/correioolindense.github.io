@@ -2,7 +2,7 @@
 layout: post
 title:  "CORONEL MAXWELL BEHAR TRANSFORMA SECRETARIA DE MOBILIDADE URBANA EM DESTAQUE NA GESTÃO DO PREFEITO LUPÉRCIO"
 categories: [ gestao ]
-image: assets/images/2024/02/img-secretaria-mobilidade-urbana-destaque-coronel.jpeg
+image: assets/images/2024/fevereiro/02/img-secretaria-mobilidade-urbana-destaque-coronel.jpeg
 date:   2024-02-03 00:06:00 -0300
 ---
 A proatividade e determinação do Coronel Maxwell Behar vêm deixando sua marca na Secretaria de Mobilidade Urbana do município de Olinda. Sob sua liderança, a pasta passou por uma verdadeira revolução, tornando-se uma das principais do governo do professor Lupércio.

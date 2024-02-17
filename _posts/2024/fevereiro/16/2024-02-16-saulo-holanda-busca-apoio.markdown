@@ -2,7 +2,7 @@
 layout: post
 title: "SAULO HOLANDA BUSCA APOIO DE SENADOR E DEPUTADO EM PROL DE BENEFÍCIOS PARA OLINDA"
 categories: [ olinda, prefeitura, gestao ]
-image: assets/images/2024/16/02.jpeg
+image: assets/images/2024/fevereiro/16/02.jpeg
 date:   2024-02-16 14:15:00 -0300
 ---
 O Presidente da Câmara Municipal de Olinda, Saulo Holanda(SD), reuniu-se com o Senador Fernando Dueire(MDB) e o Deputado Estadual Jarbas Filho(MDB), com o objetivo de discutir a destinação de emendas parlamentares para a cidade de Olinda.
