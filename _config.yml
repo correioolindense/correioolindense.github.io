@@ -4,7 +4,7 @@ description: 'Blog de noticias de Olinda'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://correioolindense.com.br/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: correioolindense
 github_username:  correioolindense
 disqus: 'correioolindense'
