@@ -4,6 +4,7 @@ title: "PDT CONVIDA LÍVIA ÁLVARO E ELA DEVE SER CANDIDATA A PREFEITA DE PAULIS
 categories: [ eleicao ]
 image: assets/images/2024/fevereiro/27/01.jpeg
 date:   2024-02-27 13:00:00 -0300
+tags: [featured]
 ---
 **EXCLUSIVO:** Nesta terça-feira, o Partido Democrático Trabalhista (PDT) anunciou um movimento surpreendente no cenário político de Paulista. Lívia, atual Secretária de Planejamento e Gestão Estratégica de Olinda, foi convidada pelo partido para concorrer à prefeitura da cidade.
 
