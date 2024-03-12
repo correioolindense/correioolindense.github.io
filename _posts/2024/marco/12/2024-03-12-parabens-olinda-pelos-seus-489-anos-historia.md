@@ -3,7 +3,7 @@ layout: post
 title: "PARABÉNS, OLINDA, PELOS SEUS 489 ANOS DE HISTÓRIA!"
 categories: [ Olinda, aniversário]
 image: assets/images/2024/marco/12/01.jpeg
-date:   2024-03-12  08:00:00 -0300
+date:   2024-03-12  00:00:00 -0300
 #tags: [sticky, featured]
 ---
 Hoje, enquanto Olinda comemora seu 489º aniversário, sou tomado por um profundo sentimento de gratidão e admiração por esta cidade que tanto representa para mim e para todos os seus habitantes. Como morador desta cidade, é uma honra poder compartilhar um pouco da riqueza e da beleza que Olinda oferece ao mundo.
