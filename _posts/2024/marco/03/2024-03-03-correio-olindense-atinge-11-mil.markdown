@@ -4,7 +4,7 @@ title: "BLOG CORREIO OLINDENSE ATINGE 11 MIL ACESSOS EM SEU PRIMEIRO MÊS DE ATI
 categories: [ blog ]
 image: assets/images/2024/marco/03/01.jpeg
 date:   2024-03-03 08:00:00 -0300
-tags: [sticky, featured]
+#tags: [sticky, featured]
 ---
 No seu mês inaugural, o Blog Correio Olindense alcançou uma impressionante marca de 11 mil acessos por parte dos moradores de Olinda. Lançado no início de fevereiro, o blog rapidamente conquistou a atenção e o interesse dos olindenses, graças ao seu layout atrativo, textos bem escritos e abordagem de temas relevantes para a população.
 
