@@ -2,7 +2,7 @@
 layout: post
 title: "OLINDA ANTECIPA SALÁRIO DOS SERVIDORES DURANTE O FERIADO DA SEMANA SANTA"
 categories: [ Olinda , Economia ]
-image: assets/images/2024/marco/27/02.jpeg
+image: assets/images/2024/marco/27/02.jpg
 date:   2024-03-27  17:00:00 -0300
 #tags: [sticky, featured]
 ---
