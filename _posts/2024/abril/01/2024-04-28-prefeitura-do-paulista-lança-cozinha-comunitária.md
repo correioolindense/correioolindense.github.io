@@ -2,7 +2,7 @@
 layout: post
 title: "PREFEITURA DO PAULISTA LANÇA COZINHA COMUNITÁRIA"
 categories: [ Paulista , Assistência ]
-image: assets/images/2024/abril/01/04.jpeg
+image: assets/images/2024/abril/01/01.jpeg
 date:   2024-04-01  17:00:00 -0300
 #tags: [sticky, featured]
 ---
