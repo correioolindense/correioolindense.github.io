@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""CRIME NO CEMITÉRIO DO GUADALUPE: PREFEITURA DE OLINDA PROMETE INVESTIGAÇÃO RIGOROSA""
+title: "CRIME NO CEMITÉRIO DO GUADALUPE: PREFEITURA DE OLINDA PROMETE INVESTIGAÇÃO RIGOROSA"
 categories: [ Olinda , Investigação ]
 image: assets/images/2024/abril/01/02.jpeg
 date:   2024-04-01  17:40:00 -0300
