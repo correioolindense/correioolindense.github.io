@@ -2,7 +2,7 @@
 layout: post
 title: "PRAZO PARA GARANTIR DESCONTO DE 30% NO IPTU ENCERRA NA QUARTA-FEIRA (10)"
 categories: [ Olinda, Economia ]
-image: assets/images/2024/abril/09/01.jpeg
+image: assets/images/2024/abril/09/02.jpeg
 date:   2024-04-09 14:00:00 -0300
 #tags: [sticky, featured]
 ---
