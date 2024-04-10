@@ -13,3 +13,5 @@ Até o momento, autoridades como os Bombeiros e a Polícia Civil não se pronunc
 Testemunhas oculares relatam momentos de pânico e confusão, com clientes e funcionários correndo em busca de segurança após o desabamento repentino. A cena caótica foi capturada em vídeos que rapidamente se espalharam pelas redes sociais, gerando uma onda de preocupação e clamor por respostas.
 
 Enquanto isso, equipes de resgate e emergência estão mobilizadas para auxiliar nas operações de busca e salvamento, na esperança de encontrar possíveis sobreviventes e garantir a segurança de todos os presentes no local.
+
+**Matéria em atualização**
