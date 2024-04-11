@@ -3,7 +3,7 @@ layout: post
 title: "MARÍLIA ARRAES QUER MIRELLA PREFEITA, EM OLINDA; A NETA DE ARRAES DECLARA APOIO À CANDIDATA DE LUPÉRCIO"
 categories: [ Olinda, Eleições ]
 image: assets/images/2024/abril/11/03.jpeg
-date:   2024-04-10 00:01:00 -0300
+date:   2024-04-10 16:00:00 -0300
 #tags: [sticky, featured]
 ---
 Em um grande movimento político, as ex-candidatas ao governo do estado, que protagonizaram o segundo turno na eleição do estado, Raquel Lyra e Marília Arraes, subirão no mesmo palanque em apoio a Mirella Almeida, candidata à prefeitura de Olinda. Após o PSDB de Raquel Lyra, agora é o Solidariedade e Marília, que declaram apoio a Mirella Almeida, com isso, a candidata ganhou um apoio significativo para sua campanha.
