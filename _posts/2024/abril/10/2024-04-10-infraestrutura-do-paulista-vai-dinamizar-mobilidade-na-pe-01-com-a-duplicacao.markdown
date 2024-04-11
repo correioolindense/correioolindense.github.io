@@ -6,7 +6,7 @@ image: assets/images/2024/abril/10/03.jpeg
 date:   2024-04-10 20:00:00 -0300
 #tags: [sticky, featured]
 ---
-_Fase atual da obra está na concretagem das paradas de ônibus_
+Fase atual da obra está na concretagem das paradas de ônibus
 
 Homens e máquinas contratados pela Prefeitura do Paulista para a duplicação da PE-01 (Avenida Dr. Cláudio José Gueiros Leite) estão intensificando o trabalho na rodovia. Atualmente, os trabalhadores vêm concentrando esforços na concretagem das paradas de ônibus e aplicação de asfalto. A obra de alargamento está orçada em cerca de R$ 16 milhões. 
 
