@@ -1,0 +1,21 @@
+---
+layout: post
+title: "OPERAÇÃO INVERNO 2024 É LANÇADA PELA PREFEITURA DE OLINDA"
+categories: [ Olinda , Infraestrutura ]
+image: assets/images/2024/abril/16/02.jpeg
+date:   2024-04-16 16:00:00 -0300
+#tags: [sticky, featured]
+---
+A Prefeitura de Olinda apresentou a Operação Inverno 2024 na manhã desta terça-feira (16.04), no Palácio dos Governadores, sede do Executivo Municipal. A força-tarefa, que conta com ações já desde o início do ano, tem como foco o trabalho preventivo nos locais de risco, evitando acidentes e trazendo mais segurança para a população; além de diversas medidas de drenagem, coibindo alagamentos. O trabalho tem assegurado investimentos na ordem de R$ 31.648.934,87 milhões, voltados para promover mais qualidade de vida para a população.
+
+Entre os números de destaque, figuram 36 caminhões, entre modelos truncados, munck, hidrojato e toco, além de quatro escavadeiras. As equipes de instalação de lonas plásticas estão nas ruas, semanalmente. Até o momento, mais de 95 mil m2 já foram aplicados. No monitoramento, cerca de 50 locais estão elencados como prioridade para a Secretaria Executiva de Defesa Civil, além do atendimento às demandas espontâneas da população. Olinda possui 122 locais de alerta, entre risco baixo e alto.
+
+"Numa vistoria que fiz uma vez em Jardim Brasil, uma pessoa me falou da importância de se iniciar esse trabalho no verão. E é isso que temos feito aqui em Olinda, tanto na drenagem quanto na contenção das áreas de morro com lonas, rip rap, geomanta e solo grampeado. Aqui é o momento da apresentação, mas já estamos nas ruas há muito tempo e estarei acompanhando de perto toda limpeza de canais e as obras de contenção", ressaltou o prefeito de Olinda, Professor Lupércio.
+
+Os recursos utilizados pela Defesa Civil contam com uma ampla gama de maquinários, incluindo o corte de pontos de vegetação que possam gerar a movimentação de barreiras, sendo retiradas 265 árvores até agora. O olhar atento passa por toda a cidade, a exemplo de localidades como Caixa D’Água, Águas Compridas, Córrego do Abacaxi, Córrego do Abacate, Alto Nova Olinda, Passarinho e Alto da Bondade. O propósito é otimizar os recursos e conseguir ações efetivas com mais celeridade. "Nossas equipes estão nas ruas diariamente fazendo vistorias e fazendo as erradicações necessárias. O plantão está atendo para receber as demandas da população 24 horas", explicou a secretária executiva de Defesa Civil, Kelly Brito. Os atendimentos são feitos pela central telefônica, através do número 0800 081 0060.
+
+A prevenção também é o ponto central da Secretaria Executiva de Serviços Públicos, com macro e microdrenagem. A macrodrenagem será levada aos 27 canais do município, a exemplo dos cursos d'água já em execução, como o da Malária, no Varadouro; Ouriço do Mar, em Ouro Preto; e Lava Tripas, em Peixinhos. Já a microdrenagem é feita nas ruas, com limpeza de canaletas e galerias em todos os bairros. Além disso, as Secretarias de Obras e de Urbanização Integrada também executam intervenções em diversas ruas, fazendo a instalação dos sistemas de drenagem. "Dispomos de R$ 4,5 milhões apenas para os trabalhos de drenagem e vamos fazer a limpeza de todos os 27. Isso vai seguir um cronograma já planejado", disse o secretário executivo de Serviços Públicos, Berevalde Valente.
+
+A tecnologia de geomanta - que possibilita a impermeabilização das barreiras, evitando a erosão - também integra o pacote. Ao todo, cerca de 38 mil metros quadrados estão previstos, divididos em dois lotes. As iniciativas promovem, ainda, a orientação da população, com o cadastro para recebimento de avisos e alertas de desastres, e campanhas educativas, ampliando o diálogo com as lideranças comunitárias. O corpo técnico conta com engenheiros, arquitetos, geólogos, assistentes sociais e demais agentes. "Todas as ações previstas para a operação já estão em curso, seguindo nosso planejamento. O mais importante aqui, e é a nossa meta, é proteger as vidas e o patrimônio das pessoas", pontuou o secretário de Gestão Urbana, Odin Neves.
+
+Foto: Sandro Barros/ Secom Olinda.
