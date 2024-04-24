@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ADVOGADO GABRIEL MOREIRA E DRA. TACIANA CASTRO FORTALECEM ALIANÇAS EM OLINDA"
+title: "ADVOGADO GABRIEL MOREIRA E DRA TACIANA CASTRO FORTALECEM ALIANÇAS EM OLINDA"
 categories: [ Olinda , Judiciário ]
 image: assets/images/2024/abril/24/01.jpeg
 date:   2024-04-24  07:00:00 -0300
