@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GUERRA DE NARRATIVAS EM ÁGUAS COMPRIDAS: QUEM GANHA É O POVO"
+title: "GUERRA DE """NARRATIVAS EM ÁGUAS """COMPRIDAS: QUEM GANHA É O POVO"
 categories: [ Olinda , Cidades ]
 image: assets/images/2024/abril/26/01.jpeg
 date:   2024-04-26  11:00:00 -0300
