@@ -9,7 +9,7 @@ O advogado Daniel Guerra, radicado em Olinda e reconhecido por sua expertise em 
 
 Com vasta experiência na área jurídica e como assessor da vereadora Denise Almeida, que busca a reeleição, Daniel traz consigo uma bagagem sólida para conduzir o partido em um importante ciclo eleitoral.
 
-![](assets/17147574729588.jpg)
+![image](https://github.com/correioolindense/correioolindense.github.io/assets/158768762/627b5bad-b35b-47e0-a5f7-30c2a55c482c)
 
 Daniel Guerra, mestre em Direito, e atualmente  doutorando, expressou sua determinação em liderar o partido em Olinda durante as eleições de 2024. Sua nomeação é vista como estratégica, dada sua profunda compreensão das nuances legais e do ambiente político local.
 
