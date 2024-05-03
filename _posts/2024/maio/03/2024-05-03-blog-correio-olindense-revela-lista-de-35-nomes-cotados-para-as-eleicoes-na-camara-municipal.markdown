@@ -16,53 +16,88 @@ Segue a lista:
 **PSD** 
 
 Denise Almeida
+
 Everaldo Silva
+
 Felipe Nascimento 
+
 Flávio Nascimento 
+
 Geragol
+
 Jesuíno Araújo 
+
 Mizael Prestanista
+
 Professor Marcelo
 
 **PT-PV-PCdoB**
 
 André Simplicio
+
 Eugênia Lima
+
 Vinicius Castello
+
 Vladimir Labanca
+
 
 **AVANTE**
 
 Bruno D’Melo
+
 Jadilson Bombeiro 
+
 Márcio Barbosa
+
 Professor Paulo Roberto 
+
 Ricardo Souza
+
 Severino Biai
+
 Tostão de Olinda
+
 
 **MDB** 
 
 Djalma Ibrahim
+
 Jacó Projeto de Deus
+
 Joab Teodoro
+
 Júnior Alves
+
 Milcon Rangel
+
 Saulo Holanda 
 
+
 **AGIR** 
+
 Deivson Juntos
+
 Mateus OO
+
 Sardinha
+
 Teio 
+
 
 **PL** 
 
 Flavio Urquiza 
+
 Jojó Guerra
+
 Pablo Rocha
 
+
 **DC**
+
 Edinho Doido
+
 Iran Barbosa 
+
 Irmão Biá
