@@ -14,6 +14,9 @@ O Carnaval se desdobrará em sete polos, incluindo locais como Carmo, Guadalupe,
 
 A prefeitura destaca que o layout colorido da festividade incorpora elementos representativos de Olinda, celebrando a riqueza cultural e a diversidade da região.
 
+![image](https://github.com/correioolindense/correioolindense.github.io/assets/158768762/858f30d5-07c8-4e29-8126-ef92fa553d23)
+
+
 A decoração será uma atração à parte, com sete pontos destacados, incluindo decoração aérea na Avenida Liberdade, 15 de Novembro, Mercado da Ribeira e a rua do Mercado Eufrásio Barbosa.
 
 Cinco patrocinadores já foram anunciados pela prefeitura, com o patrocínio Master da Devassa, além do apoio da Aposta Ganha, Pitu, Schweppes Premium Drinks e Red Bull, consolidando o respaldo financeiro ao evento.
