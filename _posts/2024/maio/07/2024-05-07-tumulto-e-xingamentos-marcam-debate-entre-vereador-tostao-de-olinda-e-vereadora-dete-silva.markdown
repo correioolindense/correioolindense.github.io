@@ -1,20 +1,25 @@
 ---
 layout: post
-title: "TUMULTO E XINGAMENTOS MARCAM DEBATE ENTRE VEREADOR TOSTÃO DE OLINDA E VEREADORA DETE SILVA"
+title: "NOTA OFICIAL: Câmara Municipal de Olinda Investiga Incidente entre Vereadores"
 categories: [ Olinda , Política ]
 image: assets/images/2024/maio/07/01.jpeg
-date:   2024-05-07 13:40:00 -0300
+date:   2024-05-07 17:40:00 -0300
 ---
-Na manhã desta terça-feira, a casa Bernardo Vieira de Melo foi palco de um cenário turbulento, com trocas de insultos e acusações entre os vereadores Tostao de Olinda e Dete Silva. O embate ocorreu durante uma discussão sobre as condições das ruas em Rio Doce.
+A presidência da Câmara Municipal de Olinda emitiu uma nota oficial anunciando medidas em resposta aos eventos ocorridos durante a 12ª sessão ordinária envolvendo os vereadores Dete Silva e Tostão de Olinda. Determinou-se à secretaria geral que investigasse os acontecimentos, com o intuito de formar uma Comissão de Ética para analisar os fatos em questão.
 
-Segundo relatos, a vereadora Dete Silva estava expondo suas preocupações quando foi interrompida pelo vereador Tostão, que defendia a governadora Raquel Lyra. A interrupção provocou uma reação acalorada por parte de Dete, que questionou o respaldo do colega para falar em nome da governadora, destacando que quem a trouxe para Olinda foi outro vereador.
+O comunicado reitera o compromisso da instituição com o respeito às mulheres e com um ambiente civilizado para todos os vereadores, servidores e cidadãos. A medida demonstra a seriedade da Câmara Municipal em lidar com situações que possam comprometer a integridade e o profissionalismo de seus membros.
 
-O confronto verbal escalou rapidamente, culminando em uma série de xingamentos entre os dois parlamentares, o que levou ao encerramento precoce da sessão. O vereador Labanca chegou a ameaçar Tostao por quebra de decoro.
+A presidência, representada por Saulo Holanda, encerra a nota reforçando o compromisso da instituição com a transparência e a justiça na apuração dos fatos.
 
-Vídeos mostram o vereador proferindo palavras como “bandida e mentirosa”, além da resposta recíproca por parte da vereadora. Outro vídeo mostra também um assessor da parlamentar inquirindo o vereador enquanto o mesmo é afastado pelos vereadores Jesuíno Araújo, Denise Almeida e o procurador da câmara Mateus Lisboa. 
+**LEIA NOTA COMPLETA**
 
-Após o incidente, a vereadora Dete Silva prestou queixa na delegacia da mulher e anunciou que irá entrar com um requerimento na comissão de ética da câmara para responsabilizar Tostão pelas suas ações.
+**NOTA OFICIAL**
 
-Enquanto isso, a câmara informou que está analisando as imagens da sessão e que, após essa análise, tomará as medidas necessárias, possivelmente encaminhando o caso para o conselho de ética.
+_A presidência da Câmara Municipal de Olinda informa que determinou à secretaria geral o levantamento dos fatos ocorridos na  12ª sessão ordinária, envolvendo a vereadora Dete Silva e o vereador Tostão de Olinda, a fim de constituir Comissão de Ética que deliberará sobre os fatos em questão._
 
-Nossa redação tentou contato com o vereador Tostao de Olinda para comentar sobre o ocorrido, porém não obteve resposta até o momento.
+_A presidência reitera, ainda, o compromisso de todos(as) que fazem a Câmara Municipal de Olinda com o respeito às mulheres e com o tratamento civilizado com todos(as) vereadores(as), servidores(as) e cidadão(ã)._
+
+_Olinda, em 07 de maio de 2024_
+
+_Saulo Holanda_
+_Presidente_
