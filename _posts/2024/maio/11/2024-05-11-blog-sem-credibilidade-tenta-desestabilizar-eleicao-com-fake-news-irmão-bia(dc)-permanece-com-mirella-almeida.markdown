@@ -5,7 +5,7 @@ categories: [ Olinda , Eleições ]
 image: assets/images/2024/maio/11/01.jpeg
 date:   2024-05-11 19:00:00 -0300
 ---
-Um blog, conhecido por sua falta de credibilidade e supostamente bancado pelo PCdoB, está sob fogo após tentar desestabilizar as eleições ao publicar notícias falsas.
+Um blog, conhecido por sua falta de credibilidade, supostamente bancado pelo PCdoB e querendo FAMA, está sob fogo após tentar desestabilizar as eleições ao publicar notícias falsas.
 
 A publicação recente afirmou erroneamente que o vereador Irmão Biá (DC) teria rompido com a pré-candidata Mirella Almeida. 
 
