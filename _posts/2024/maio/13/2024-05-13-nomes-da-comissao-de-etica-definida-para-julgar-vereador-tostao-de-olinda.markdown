@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NOMES DA COMISSÃO DE ÉTICA DEFINIDA PARA JULGAR VEREADOR TOSTÃO DE OLINDA"
+title: "NOMES DA COMISSÃO DE ÉTICA DEFINIDOS PARA JULGAR VEREADOR TOSTÃO DE OLINDA"
 categories: [ Olinda , Legislativo ]
 image: assets/images/2024/maio/13/02.jpeg
 date:   2024-05-13 12:00:00 -0300
