@@ -4,7 +4,7 @@ title: "OLINDA MAIS SAÚDE DESTA QUINTA (7) SERÁ VOLTADO PARA O ATENDIMENTO ÀS
 categories: [ saude, mulheres ]
 image: assets/images/2024/marco/06/03.jpeg
 date:   2024-03-06  19:00:00 -0300
-#tags: [sticky, featured]
+tags: [ featured ]
 ---
 Olinda Mais Saúde desta quinta (7) será voltado para o atendimento às mulheres. Os serviços serão ofertados na Unidade Básica de Peixinhos
 
