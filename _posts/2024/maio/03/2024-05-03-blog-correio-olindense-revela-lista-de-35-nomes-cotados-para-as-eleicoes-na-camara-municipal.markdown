@@ -4,6 +4,7 @@ title: "BLOG CORREIO OLINDENSE REVELA LISTA DE 35 NOMES COTADOS PARA AS ELEIÇÕ
 categories: [ Olinda , Eleições ]
 image: assets/images/2024/maio/03/01.jpeg
 date:   2024-05-03 07:00:00 -0300
+tags: [ featured ]
 ---
 O Blog Correio Olindense lança hoje uma prévia com 35 nomes cotados para conquistar uma das 17 vagas na Casa Bernardo Vieira de Melo, a câmara municipal de Olinda. Estes dados, provenientes de uma ampla consulta a líderes políticos, oferecem uma visão panorâmica do cenário político na cidade, embora não sejam resultado de uma pesquisa formal.
 
