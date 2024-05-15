@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Primeiro-ministro da Eslováquia é baleado na rua; estado de saúde é grave"
+title: "PRIMEIRO-MINISTRO DA ESLOVÁQUIA É BALEADO NA RUA; ESTADO DE SAÚDE É GRAVE"
 categories: [ Mundo , Política ]
 image: assets/images/2024/maio/15/01.jpeg
 date:   2024-05-15 13:20:00 -0300
