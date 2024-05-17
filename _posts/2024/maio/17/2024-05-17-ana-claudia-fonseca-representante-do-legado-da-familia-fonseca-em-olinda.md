@@ -10,7 +10,7 @@ Em Olinda, uma cidade de história e de tradição, Ana Cláudia Fonseca aparece
 
 Com uma formação em Arquitetura e experiências multifacetadas, Ana Cláudia traz consigo um histórico notável de realizações.
 
-Seu trabalho ao lado do então Secretário Silvio Costa Filho, na Empetur e seu apoio a reforma do Mercado Eufrasio Barbosa, é apenas um exemplo do seu compromisso em promover melhorias significativas para a cidade.
+Seu trabalho ao lado do então Secretários Alberto Feitosa e Felipe Carreras, na Empetur e seu apoio a reforma do Mercado Eufrásio Barbosa, é apenas um exemplo do seu compromisso em promover melhorias significativas para a cidade.
 
 Após passagens pela Secretaria de Planejamento Urbano, Ana Cláudia retornou ao Patrimônio, onde dedica-se fervorosamente à preservação do sítio histórico de Olinda. Representando com maestria o legado de seus pais, Mauro Fonseca e Graça Fonseca, ela segue os passos da família, defendendo os interesses da população olindense, emulando o compromisso público que seus pais demonstraram durante seus mandatos na Câmara Municipal de Olinda.
 
