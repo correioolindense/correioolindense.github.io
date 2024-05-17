@@ -4,7 +4,6 @@ title: "SECRETÁRIA DE GOVERNO MILLENA GONZAGA É HOMENAGEADA EM EVENTO DE DIA D
 categories: [ eleições, justiça ]
 image: assets/images/2024/marco/15/03.jpeg
 date:   2024-03-15  12:00:00 -0300
-tags: [featured]
 ---
 Na manhã de hoje, o evento "Mulheres que Fazem a Diferença" reuniu uma série de mulheres notáveis, incluindo a Secretária de Governo, Millena Gonzaga, em uma cerimônia de celebração pelo Dia Internacional da Mulher.
 
