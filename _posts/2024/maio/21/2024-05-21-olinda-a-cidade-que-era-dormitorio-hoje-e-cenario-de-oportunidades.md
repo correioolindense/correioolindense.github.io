@@ -6,6 +6,7 @@ image: assets/images/2024/maio/21/03.jpeg
 date:   2024-05-21  18:46:00 -0300
 tags: [ sticky, featured ]
 ---
+
 __Por: Mirella Almeida__
 
 Olinda é uma cidade que encanta os olhos de todos e que possui grande potencial para várias áreas. Uma delas é o desenvolvimento econômico, que possibilita o impulsionamento para a geração de empregos e o empreendedorismo. Sobre esse assunto, a Marim dos Caetés tem representativos números para apresentar e destacar que, a cada dia, a fama de "Cidade-Dormitório" é coisa do passado. 
