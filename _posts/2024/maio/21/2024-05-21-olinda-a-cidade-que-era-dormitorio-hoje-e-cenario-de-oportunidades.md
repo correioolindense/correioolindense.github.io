@@ -2,7 +2,7 @@
 layout: post
 title: "OLINDA: A CIDADE QUE ERA DORMITÓRIO, HOJE, É CENÁRIO DE OPORTUNIDADES"
 categories: [ Olinda, Economia ]
-image: assets/images/2024/maio/21/02.jpeg
+image: assets/images/2024/maio/21/03.jpeg
 date:   2024-05-21  18:46:00 -0300
 tags: [ sticky, featured ]
 ---
