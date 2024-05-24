@@ -4,7 +4,7 @@ title: "FELIPE NASCIMENTO EXPANDE CENTRAL DA JUVENTUDE E FORMA QUASE 700 JOVENS 
 categories: [ Olinda, Juventude ]
 image: assets/images/2024/maio/24/01.jpeg
 date:   2024-05-24  11:00:00 -0300
-#tags: [sticky, featured]
+#tags: [ featured ]
 ---
 Na última quarta-feira, uma celebração e conquista tomou conta do Colégio Clidio de Lima Nigro, no bairro de Salgadinho, em Olinda. Sob os holofotes da comunidade e autoridades, quase 700 jovens e adolescentes foram graduados em diversos cursos oferecidos pela Central da Juventude, em parceria com o vereador Felipe Nascimento.
 
