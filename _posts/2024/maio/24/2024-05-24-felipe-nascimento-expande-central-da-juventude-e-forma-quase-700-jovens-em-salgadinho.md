@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PREFEITURA DE OLINDA PREPARA MEGA CONCURSO COM 300 VAGAS"
+title: "FELIPE NASCIMENTO EXPANDE CENTRAL DA JUVENTUDE E FORMA QUASE 700 JOVENS EM SALGADINHO"
 categories: [ Olinda, Juventude ]
 image: assets/images/2024/maio/24/01.jpeg
 date:   2024-05-24  11:00:00 -0300
