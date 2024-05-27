@@ -2,7 +2,7 @@
 layout: post
 title: "PRAZO PARA ADERIR AO REFIS OLINDA CHEGA AO FIM NESSA SEXTA"
 categories: [ Olinda, Economia ]
-image: assets/images/2024/maio/24/01.jpeg
+image: assets/images/2024/maio/27/01.jpeg
 date:   2024-05-27  10:00:00 -0300
 #tags: [sticky, featured]
 ---
