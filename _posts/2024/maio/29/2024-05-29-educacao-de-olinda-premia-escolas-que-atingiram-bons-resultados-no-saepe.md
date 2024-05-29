@@ -3,7 +3,7 @@ layout: post
 title: "EDUCAÇÃO DE OLINDA PREMIA ESCOLAS QUE ATINGIRAM BONS RESULTADOS NO SAEPE"
 categories: [ Olinda, Educação ]
 image: assets/images/2024/maio/29/02.jpeg
-date:   2024-05-29  12:00:00 -0300
+date:   2024-05-29  11:40:00 -0300
 #tags: [sticky, featured]
 ---
 A Secretaria de Educação de Olinda, por meio da Secretaria Executiva de Programas e Políticas Educacionais (SEPPE), premiou 24 escolas da rede municipal de ensino que atingiram bons resultados no SAEPE (Sistema de Avaliação Educacional de Pernambuco), no ano de 2023. O evento 'Prêmio Escolas que Inspiram' aconteceu na noite desta terça-feira (28/05), no Cineteatro da UNIAESO, na Avenida Transamazônica, no bairro de Jardim Brasil II e foi dividido em três categorias: Honra ao mérito, Professores Alfabetizadores e Escolas que atingiram 100% de participação.
