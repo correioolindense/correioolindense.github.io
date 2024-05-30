@@ -2,7 +2,7 @@
 layout: post
 title: "OLINDA VAI BUSCAR TITULO DE PATRIMÔNIO CULTURAL E IMATERIAL DA HUMANIDADE"
 categories: [ Olinda, Cultura ]
-image: assets/images/2024/maio/30/01.jpeg
+image: assets/images/2024/maio/30/01.jpg
 date:   2024-05-30  10:47:00 -0300
 #tags: [sticky, featured]
 ---
