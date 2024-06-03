@@ -2,7 +2,7 @@
 layout: post
 title: "OLINDA TEM SEMANA DO MEIO AMBIENTE COM MUITAS ATIVIDADES"
 categories: [ Olinda, Sustentabilidade ]
-image: assets/images/2024/junho/06/02.jpg
+image: assets/images/2024/junho/03/02.jpg
 date:   2024-06-03  16:20:00 -0300
 #tags: [sticky, featured]
 ---
