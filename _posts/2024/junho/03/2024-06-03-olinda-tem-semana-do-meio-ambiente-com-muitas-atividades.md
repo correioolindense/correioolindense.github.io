@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "OLINDA VAI BUSCAR TITULO DE PATRIMÔNIO CULTURAL E IMATERIAL DA HUMANIDADE"
-categories: [ Olinda, Cultura ]
-image: assets/images/2024/maio/30/01.jpeg
-date:   2024-05-30  10:47:00 -0300
+title: "OLINDA TEM SEMANA DO MEIO AMBIENTE COM MUITAS ATIVIDADES"
+categories: [ Olinda, Sustentabilidade ]
+image: assets/images/2024/junho/06/02.jpg
+date:   2024-06-03  16:20:00 -0300
 #tags: [sticky, featured]
 ---
-O Carnaval de Olinda, uma das mais emblemáticas celebrações do Brasil, está prestes a dar um passo histórico em direção ao reconhecimento global. A Prefeitura de Olinda e a União dos Afoxés de Pernambuco anunciarão o início dos trabalhos voltados para a obtenção do título de Patrimônio Cultural Imaterial da Humanidade para o Carnaval da cidade.
+A próxima semana será recheada de atividades organizadas pela Secretaria Executiva de Meio Ambiente de Olinda, em alusão à Semana Mundial do Meio Ambiente, que começa, oficialmente, no próximo sábado (01.06). A Marim dos Caetés concentra suas ações dentro do tema proposto para este ano: Restauração de Terras, Desertificação e Resiliência à Seca. Elas vão envolver instituições públicas estaduais e municipais, também seguirá com a participação de diversos voluntários de Organizações Não Governamentais, instituições de ensino superior, associações sem fins lucrativos e outros projetos.
 
-A festividade, reconhecida como uma das maiores manifestações populares do país, é muito mais do que uma simples celebração. Ela é uma expressão genuína da alegria do povo pernambucano, movimentando uma vasta gama de cadeias produtivas e culturais ao longo dos anos.
+A programação começa na terça (04.06), com a abertura da Semana e o IV Fórum Ambiental de Olinda, a partir das 14h, no auditório do Palácio dos Governadores, sede do Executivo. Instituições sócio-ambientais e autoridades públicas participam do evento, que também estará aberto para participação popular. Serão apresentadas as áreas ambientais sob a responsabilidade de Olinda e o lazer, saber e convivência que elas geram a um município mais sustentável.
 
-O Inventário Nacional de Reconhecimento Cultural (INRC) desempenha um papel fundamental nesse processo, sendo um instrumento vital para a preservação e salvaguarda dos saberes, artes, ofícios, formas de expressão, celebrações e modos de vida da cultura popular.
+A quarta (05.06) é comemorado o Dia Mundial do Meio Ambiente e a atividade prática será na Ilha da Amizade, na Praia do Quartel, em Bairro Novo, a partir das 9h. Será um trabalho de limpeza no espaço, com voluntários e agentes do Meio Ambiente da cidade. À tarde, Olinda participa da assinatura do Termo de Coparticipação de Reflorestamento. O documento, em parceria com o Governo de Pernambuco, terá a presença da Marim dos Caetés na iniciativa de replantio de árvores. Será às 13h, no Museu Cais do Sertão, Bairro do Recife.
 
-A iniciativa em Olinda foi proposta pela União dos Afoxés de Pernambuco, que conta com apoio financeiro do Funcultura. O evento é coordenado pelo advogado Fabiano Santos, presidente da União dos Afoxés, que destacou a importância histórica e cultural do Carnaval de Olinda como patrimônio imaterial da humanidade.
+Na quinta-feira (06.06) a Mata do Passarinho e a Base Rural vão desenvolver atividades voltadas para crianças a partir das 9h. A Mata terá trilha ecológica e contação de histórias sobre a fauna e flora local. Na Base, os alunos da Escola Margarida Alves e visitantes também terão trilha ecológica, além de visitação à fazendinha. Práticas de educação ambiental, oficina de plantio e contação de histórias completam a programação.
 
-O anúncio desses esforços conjuntos marca o início de uma jornada emocionante em direção ao reconhecimento global do Carnaval de Olinda como Patrimônio Cultural Imaterial da Humanidade, destacando não apenas a importância cultural da festividade, mas também o compromisso das autoridades locais em preservar e celebrar as tradições populares tão queridas pelos habitantes de Olinda e por todos os amantes da cultura brasileira.
+Na sexta (07.06), mais uma atividade de limpeza, desta vez no manguezal em Rio Doce e restauração da Praça São Francisco. O objetivo é trazer melhor panorama paisagístico e um espaço de lazer e convivência de educação ambiental. Será às 9h, Praça São Francisco. No dia seguinte, o sábado (08.06), mais uma edição do Projeto Praia Linda, a partir das 9h, com um grande mutirão na faixa de areia da Praia do Quartel. Os voluntários e servidores vão oferecer sacolas recicláveis aos banhistas e orientações sobre a correta destinação dos resíduos.
