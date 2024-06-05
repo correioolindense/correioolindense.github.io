@@ -21,4 +21,4 @@ Feliz, Everaldo não esconde o orgulho do seu filho, “À 19 anos Deus me aben�
 
 **DIA DE FESTA EM OLINDA**
 
-Quem também está completando hoje é a Coordenadora Jurídica da secretaria de obras, Karla Cunha, braço direito da secretária Cláudia Peregrino, Karla Cunha vem desempenhando um trabalho muito importante na secretaria, sendo responsável pelos licitações e contratos das mais diversas obras da cidade. 
+Quem também está completando hoje é a Coordenadora Jurídica da secretaria de obras, Carla Cunha, braço direito da secretária Cláudia Peregrino, Carla Cunha vem desempenhando um trabalho muito importante na secretaria, sendo responsável pelos licitações e contratos das mais diversas obras da cidade. 
