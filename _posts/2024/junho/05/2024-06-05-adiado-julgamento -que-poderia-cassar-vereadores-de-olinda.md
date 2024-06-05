@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ADIADA VOTAÇÃO QUE PODERIA CASSAR VEREADORES DE OLINDA"
+title: "ADIADO JULGAMENTO QUE PODERIA CASSAR VEREADORES DE OLINDA"
 categories: [ Olinda, Legislativo ]
 image: assets/images/2024/junho/05/01.jpeg
 date:   2024-06-05  09:00:00 -0300
