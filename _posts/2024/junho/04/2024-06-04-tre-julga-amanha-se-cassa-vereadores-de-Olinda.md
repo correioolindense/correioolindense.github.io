@@ -15,4 +15,6 @@ O julgamento será realizado de forma híbrida, com participação presencial e 
 
 A cota de gênero é uma exigência legal que determina a inclusão mínima de 30% e máxima de 70% para candidaturas de cada sexo nas eleições proporcionais. A possível fraude nesse requisito pelos partidos em questão é o cerne da acusação, que, se confirmada, resultará em uma mudança drástica no cenário político de Olinda.
 
-A expectativa é grande entre os envolvidos , que aguarda ansiosos o desfecho deste julgamento, com potencial de alterar a dinâmica legislativa da marin dos Caetés.
+A expectativa é grande entre os envolvidos , que aguarda ansiosos o desfecho deste julgamento, com potencial de alterar a dinâmica legislativa da Marim dos Caetés.
+
+*Caso ocorra a cassação, cabe recurso ao TSE, porém os parlamentares cassados devem recorrer fora do mandato, assim tem sido as últimas decisões do TRE-PE.
