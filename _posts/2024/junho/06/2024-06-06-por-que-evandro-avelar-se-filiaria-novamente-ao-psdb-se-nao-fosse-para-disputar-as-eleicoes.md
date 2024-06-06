@@ -3,7 +3,7 @@ layout: post
 title: "POR QUE EVANDRO AVELAR SE FILIARIA NOVAMENTE AO PSDB SE NÃO FOSSE PARA DISPUTAR AS ELEIÇÕES?"
 categories: [ Olinda, Política ]
 image: assets/images/2024/junho/06/01.jpeg
-date:   2024-06-06  07:00:00 -0300
+date:   2024-06-06  06:59:00 -0300
 #tags: [sticky, featured]
 ---
 Evandro Avelar, sempre foi um militante histórico do PSDB, onde construiu uma forte amizade com o ex-deputado Sérgio Guerra, sendo seu principal assessor e representando seu grupo na corrida ao governo de Pernambuco como vice de Mendonça Filho. Recentemente, após se desfiliar do partido e seguir sua carreira política sem legenda, Evandro voltou ao PSDB em 2023, a convite do prefeito Lupércio e da governadora Raquel Lyra, assumindo a presidência do partido em Olinda. 
