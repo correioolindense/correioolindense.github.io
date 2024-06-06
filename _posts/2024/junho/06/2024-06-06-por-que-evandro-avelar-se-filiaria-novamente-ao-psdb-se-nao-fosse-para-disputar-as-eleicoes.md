@@ -14,4 +14,4 @@ Nascido em Olinda e servidor público de carreira, Evandro é associado a divers
 
 Evandro Avelar ocupou cargos de secretário em diversas gestões estaduais e municipais, incluindo secretário de serviços públicos e secretário de governo em Olinda, onde atualmente atua como consultor e conselheiro do prefeito Professor Lupércio. 
 
-Com sua vasta experiência e habilidade política, Evandro é um recurso valioso para qualquer administração. Mirella Almeida, com grande discernimento, já expressou seu desejo de tê-lo em sua chapa. Caso essa parceria se concretize, Avelar trará novo ânimo à câmara de vereadores, aos suplentes, às lideranças partidárias e a todos os integrantes do grupo do prefeito Professor Lupércio.
+Com sua vasta experiência e habilidade política, Evandro é um recurso valioso para qualquer administração. Mirella Almeida, com grande discernimento, já expressou seu desejo de tê-lo em sua chapa. Caso essa parceria se concretize, Avelar trará novo ânimo à câmara de vereadores onde detém maioria considerável, aos suplentes, às lideranças partidárias e a todos os integrantes do grupo do prefeito Professor Lupércio.
