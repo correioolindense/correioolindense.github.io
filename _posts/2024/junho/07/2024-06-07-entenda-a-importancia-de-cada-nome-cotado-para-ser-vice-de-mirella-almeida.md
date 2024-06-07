@@ -3,7 +3,7 @@ layout: post
 title: "ENTENDA IMPORTÂNCIA DE CADA NOME COTADO PARA SER VICE DE MIRELLA ALMEIDA"
 categories: [ Olinda, Eleições ]
 image: assets/images/2024/junho/07/01.jpeg
-date:   2024-06-07  07:00:00 -0300
+date:   2024-06-07  05:00:00 -0300
 #tags: [sticky, featured]
 ---
 A poucos meses das eleições, nenhum candidato à prefeitura de Olinda definiu o nome do seu vice-prefeito. Alguns ensaiaram, outros fizeram convites formais e públicos, teve até mesmo quem fizesse a divulgação de quem iria compor a chapa, porém sem sucesso. No entanto, entre todos esses candidatos, a única pré-candidata que possui várias e excelentes opções é Mirella Almeida, que conta com 4 nomes fortíssimos disputando o aval do grupo do Prefeito Professor Lupércio.
