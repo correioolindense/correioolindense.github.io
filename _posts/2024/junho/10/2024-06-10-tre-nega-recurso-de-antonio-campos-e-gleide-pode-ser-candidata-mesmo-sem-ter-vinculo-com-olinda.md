@@ -2,7 +2,7 @@
 layout: post
 title: "TRE NEGA RECURSO DE ANTÔNIO CAMPOS E GLEIDE ÂNGELO PODE SER CANDIDATA MESMO SEM TER VÍNCULO COM OLINDA"
 categories: [ Olinda, Eleições ]
-image: assets/images/2024/junho/10/01.jpg
+image: assets/images/2024/junho/10/01.jpeg
 date:   2024-06-10  14:00:00 -0300
 #tags: [sticky, featured]
 ---
