@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PROFESSOR LUPÉRCIO COMEMORA R$1,7 PARA MORADORES DE PRÉDIOS-CAIXÃO” DO GRANDE RECIFE”
+title: "PROFESSOR LUPÉRCIO COMEMORA R$1,7 PARA MORADORES DE PRÉDIOS CAIXÃO DO GRANDE RECIFE”
 categories: [ Brasil, Habitação ]
 image: assets/images/2024/junho/11/01.jpeg
 date:   2024-06-11  13:00:00 -0300
