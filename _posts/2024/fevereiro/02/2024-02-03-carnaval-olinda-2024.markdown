@@ -23,4 +23,6 @@ Cinco patrocinadores já foram anunciados pela prefeitura, com o patrocínio Mas
 
 A prefeitura tem grandes expectativas, visando movimentar 400 milhões na economia e atrair cerca de 4 milhões de foliões, ocupando 98% da rede hoteleira municipal, sem contar Airbnb e casas alugadas.
 
+image: assets/images/2024/fevereiro/02/img-carnaval-olinda-2024.jpg
+
 Os homenageados deste ano serão escolhidos pela população, com votação no site da prefeitura e em um Totem no Shopping Patteo. As opções incluem Dona Dá, Mestra Ana Lúcia, Mãe Beth de Oxum, João do Elefante e Reginaldo da Paz, em vida; e Lord de Olinda, Paulo Rafael, Margarida Sambão, Bartholomeu Santiago e Léo da Vassoura, in memoriam. Uma oportunidade para a comunidade reconhecer e honrar aqueles que contribuíram para a rica cultura de Olinda.
