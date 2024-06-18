@@ -3,7 +3,7 @@ layout: post
 title: "TRE CASSA MANDATO DOS 4 VEREADORES DE OLINDA"
 categories: [ Olinda, Legislativo ]
 image: assets/images/2024/junho/18/02.jpeg
-date:   2024-06-18  19:01:00 -0300
+date:   2024-06-18  15:01:00 -0300
 #tags: [sticky, featured]
 ---
 Em uma decisão histórica, o Tribunal Regional Eleitoral de Pernambuco (TRE-PE) cassou na tarde desta terça-feira os mandatos dos vereadores Bruno D’Melo, Everaldo Silva, Jesuíno Araújo e Vladimir Labanca. O julgamento, que começou às 14 horas e foi realizado de forma híbrida, presencial e online, foi relatado pelo Desembargador Rogério de Meneses Fialho Moreira.
@@ -22,3 +22,5 @@ A sessão foi acompanhada de perto por representantes da mídia e membros da pol
 Com a cassação dos mandatos, Bruno D’Melo, Everaldo Silva, Jesuíno Araújo e Vladimir Labanca deixam suas cadeiras na Câmara Municipal, abrindo caminho para que os novos vereadores tomem posse. Flávio Fofão, Gisele Tavares, Neto da Beira Rio e Professor Marcelo agora aguardam os trâmites formais para assumirem suas funções.
 
 Esta decisão do TRE-PE sublinha a seriedade com que a Justiça Eleitoral trata as questões de fraude e a importância do respeito às normas que regem o processo democrático. A comunidade observa atentamente os próximos passos e espera que a transição ocorra de forma pacífica e ordeira, respeitando a vontade popular e a legalidade.
+
+*_Essa matéria está em atualização_*
