@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "TRE CASSA MANDATO DOS 4 VEREADORES DE OLINDA"
+title: "RELATOR VOTA PARA CASSAR MANDATO DOS 4 VEREADORES DE OLINDA PORÉM DESEMBARGADOR PEDE VISTA E CASO SERÁ CONCLUIDO SEXTA FEIRA"
 categories: [ Olinda, Legislativo ]
 image: assets/images/2024/junho/18/02.jpeg
 date:   2024-06-18  15:01:00 -0300
 #tags: [sticky, featured]
 ---
-Em uma decisão histórica, o Tribunal Regional Eleitoral de Pernambuco (TRE-PE) cassou na tarde desta terça-feira os mandatos dos vereadores Bruno D’Melo, Everaldo Silva, Jesuíno Araújo e Vladimir Labanca. O julgamento, que começou às 14 horas e foi realizado de forma híbrida, presencial e online, foi relatado pelo Desembargador Rogério de Meneses Fialho Moreira.
+Em uma decisão histórica, o Tribunal Regional Eleitoral de Pernambuco (TRE-PE) cassou na tarde desta terça-feira os mandatos dos vereadores Bruno D’Melo, Everaldo Silva, Jesuíno Araújo e Vladimir Labanca. O julgamento, que começou às 14 horas e foi realizado de forma híbrida, presencial e online, foi relatado pelo Desembargador Rogério de Meneses Fialho Moreira. o Desembargador Felipe Campos pediu vista e o processo será apreciado sexta feira.
 
 Os vereadores foram acusados de terem sido eleitos mediante fraude à cota de gênero, que envolve os partidos CIDADANIA, PSC (atual PODEMOS) e PDT e PMN. A acusação apontava que as legendas não cumpriram a exigência legal de reservar no mínimo 30% das candidaturas para mulheres, prática destinada a promover a equidade de gênero nas eleições, além de terem usado candidaturas fictícias para atender as exigências.
 
