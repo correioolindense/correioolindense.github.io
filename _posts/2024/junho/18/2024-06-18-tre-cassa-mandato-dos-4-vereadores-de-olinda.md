@@ -10,6 +10,9 @@ Em uma decisão histórica, o Tribunal Regional Eleitoral de Pernambuco (TRE-PE)
 
 Os vereadores foram acusados de terem sido eleitos mediante fraude à cota de gênero, que envolve os partidos CIDADANIA, PSC (atual PODEMOS) e PDT e PMN. A acusação apontava que as legendas não cumpriram a exigência legal de reservar no mínimo 30% das candidaturas para mulheres, prática destinada a promover a equidade de gênero nas eleições, além de terem usado candidaturas fictícias para atender as exigências.
 
+O advogado de acusação, que representa os suplentes argumentou que as candidaturas utilizaram candidaturas ficticias, com votacao zerada, inexpressivas e com prestação de contas zeradas. Por sua vez os advogados de defesa dos vereadores sustentou que não houve fraude e nem dolo.
+Já o procurador eleitoral mudou o parecer para solicitar a cassação.
+
 Após a análise dos argumentos e das provas apresentadas, o TRE reconheceu a irregularidade e decidiu anular os votos das legendas mencionadas, resultando na cassação dos mandatos dos quatro vereadores.
 
 Os principais beneficiados com a decisão são Flávio Fofão, Gisele Tavares, Neto da Beira Rio e Professor Marcelo, que, de acordo com cálculos paralelos, assumirão as vagas no legislativo de Olinda. A decisão marca uma virada significativa na composição da Câmara Municipal de Olinda.
