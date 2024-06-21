@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "URGENTE: VOTO VISTA SEGUE O RELATOR E EM DECISÃO UNÂNIME O TRE CASSA OS 4 VEREADORES DE OLINDA"
+title: "URGENTE: VOTO VISTA SEGUE O RELATOR E EM DECISÃO UNÂNIME O TRE CASSA OS 3 VEREADORES DE OLINDA"
 categories: [ Olinda, Legislativo ]
 image: assets/images/2024/junho/19/01.jpeg
 date:   2024-06-21  09:00:00 -0300
