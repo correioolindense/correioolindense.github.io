@@ -6,13 +6,13 @@ image: assets/images/2024/junho/19/01.jpeg
 date:   2024-06-21  09:00:00 -0300
 #tags: [sticky, featured]
 ---
-Na sessão da última terça-feira, o relator do caso, o desembargador Rogério Fialho votou pela cassação dos 4 vereadores de Olinda, porém um pedido de vista adiou o julgamento para hoje, porém o desembargador que pediu vista hoje votou seguindo o relator, cassando os 4 vereadores de Olinda. Em uma decisão histórica e unanime, o Tribunal Regional Eleitoral de Pernambuco (TRE-PE) votou e cassou na manhã desta sexta-feira os mandatos dos vereadores Bruno D’Melo, Everaldo Silva, Jesuíno Araújo e Vladimir Labanca. O julgamento, que começou às 09 horas e foi realizado de forma híbrida, presencial e online.
+Na sessão da última terça-feira, o relator do caso, o desembargador Rogério Fialho votou pela cassação dos 4 vereadores de Olinda, porém um pedido de vista adiou o julgamento para hoje, porém o desembargador que pediu vista hoje votou seguindo o relator, cassando os 4 vereadores de Olinda. Em uma decisão histórica e unanime, por 7x0, o Tribunal Regional Eleitoral de Pernambuco (TRE-PE) votou e cassou na manhã desta sexta-feira os mandatos dos vereadores Bruno D’Melo, Everaldo Silva, Jesuíno Araújo e Vladimir Labanca. O julgamento, que começou às 09 horas e foi realizado de forma híbrida, presencial e online.
 
 Os vereadores foram acusados de terem sido eleitos mediante fraude à cota de gênero, que envolve os partidos CIDADANIA, PSC (atual PODEMOS) e PDT e PMN. A acusação apontava que as legendas não cumpriram a exigência legal de reservar no mínimo 30% das candidaturas para mulheres, prática destinada a promover a equidade de gênero nas eleições, além de terem usado candidaturas fictícias para atender as exigências. Houve candidaturas com votação zerada, votação inexpressiva, prestação de contas zeradas e até candidatas pedindo votos para outros candidatos.
 
 Na sessão da terça, o advogado de acusação, que representou os suplentes argumentou que as candidaturas utilizaram candidaturas ficticias. Por sua vez os advogados de defesa dos vereadores sustentou que não houve fraude e nem dolo. Já o procurador eleitoral mudou o parecer para solicitar a cassação seguindo a última súmula do TSE que versa sobre o assunto.
 
-Após a análise dos argumentos e das provas apresentadas, o relator reconheceu a irregularidade e decidiu anular os votos das legendas mencionadas, resultando na cassação dos mandatos dos quatro vereadores.
+Após a análise dos argumentos e das provas apresentadas, o relator reconheceu a irregularidade e decidiu anular os votos das legendas mencionadas, resultando na cassação dos mandatos dos quatro vereadores, porém manteve os direitos políticos dos cassados.
 
 Os principais beneficiados com a decisão são Flávio Fofão, Gisele Tavares, Neto da Beira Rio e Professor Marcelo, que, de acordo com cálculos paralelos, assumirão as vagas no legislativo de Olinda. A decisão marca uma virada significativa na composição da Câmara Municipal de Olinda.
 
