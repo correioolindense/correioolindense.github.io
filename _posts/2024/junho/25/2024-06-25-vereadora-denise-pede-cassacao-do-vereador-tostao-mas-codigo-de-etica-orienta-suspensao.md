@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VEREADORA DENISE PEDE CASSAÇÃO DO VEREADOR TOSTÃO, MAS CÓDIGO DE ÉTICA ORIENTA A SUSPENSÃO"
+title: "VEREADORA DENISE PEDE CASSAÇÃO DE TOSTÃO, MAS VEREADORES SEGUEM CÓDIGO DE ÉTICA E O SUSPENDEM POR 30 DIAS"
 categories: [ Olinda, Legislativo ]
 image: assets/images/2024/junho/25/01.jpeg
 date:   2024-06-25  14:01:00 -0300
