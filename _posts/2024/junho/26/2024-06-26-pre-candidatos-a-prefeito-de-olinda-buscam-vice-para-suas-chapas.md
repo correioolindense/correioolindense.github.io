@@ -4,7 +4,7 @@ title: "PRÉ-CANDIDATOS A PREFEITO DE OLINDA BUSCAM VICE PARA SUAS CHAPAS"
 categories: [ Olinda, Eleições ]
 image: assets/images/2024/junho/26/02.jpeg
 date:   2024-06-26  19:00:00 -0300
-#tags: [ sticky, featured ]
+#tags: [sticky, featured]
 ---
 Após a definição das candidaturas, os pré-candidatos a prefeito de Olinda agora direcionam seus esforços para formar suas chapas completas, focando especialmente na escolha dos vice-prefeitos. O Blog Correio Olindense acompanhou de perto os movimentos nos bastidores políticos e conseguiu informações privilegiadas sobre as negociações em curso.
 
