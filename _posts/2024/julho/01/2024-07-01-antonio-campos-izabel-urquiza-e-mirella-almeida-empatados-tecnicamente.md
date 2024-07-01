@@ -4,7 +4,7 @@ title: "ANTÔNIO CAMPOS, IZABEL URQUIZA E MIRELLA ALMEIDA EMPATADOS TÉCNICAMENT
 categories: [ Olinda, Eleições ]
 image: assets/images/2024/julho/01/01.jpeg
 date:   2024-07-01  10:00:00 -0300
-tags: [ sticky, featured ]
+#tags: [sticky, featured]
 ---
 Uma pesquisa realizada pelo Instituto Numen Data, encomendada pelo jornal O Poder e registrada no Tribunal Superior Eleitoral (TSE) sob o número PE-04691/2024, revelou um cenário competitivo entre os pré-candidatos à prefeitura de Olinda. Foram entrevistados 643 eleitores, com uma margem de erro de 3,7%.
 
