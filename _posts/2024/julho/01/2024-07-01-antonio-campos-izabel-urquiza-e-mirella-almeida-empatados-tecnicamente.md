@@ -12,6 +12,9 @@ Antônio Campos, do PRTB, lidera a pesquisa com 13% das intenções de voto, por
 
 A pesquisa foi conduzida após a desistência da ministra Luciana Santos e Gleide Ângelo, com a inclusão de outros nomes como André Avelar, Márcio Botelho e Vinícius Castello. Vinicius Castello, do PT, aparece com 5,6% das intenções de voto, seguido por Márcio Botelho com 5,0% e André Avelar com 2,6%.
 
+![image](https://github.com/correioolindense/correioolindense.github.io/assets/158768762/cf8d530c-15a6-49bc-b376-b172c223e5c2)
+
+
 Um aspecto destacado pela pesquisa é o crescimento de Mirella Almeida, que tem se beneficiado do reconhecimento como representante do legado do Prefeito Lupércio. Enquanto isso, Antônio Campos e Izabel Urquiza mantêm sua base de votos fiéis de eleições anteriores, o que mantém a competição equilibrada à medida que as eleições se aproximam.
 
 "Ainda há muita água para passar debaixo da ponte", comenta um analista político sobre o cenário atual a três meses do pleito, sugerindo que as dinâmicas eleitorais podem mudar significativamente até o dia da votação.
