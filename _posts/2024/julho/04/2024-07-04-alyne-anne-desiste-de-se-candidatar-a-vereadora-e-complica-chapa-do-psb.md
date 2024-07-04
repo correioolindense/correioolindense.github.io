@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ALYNNE ANNE DESISTE DE SE CANDIDATAR A VEREADORA E COMPLICA CHAPA DO PSB"
+title: "ALYNE ANNE DESISTE DE SE CANDIDATAR A VEREADORA E COMPLICA CHAPA DO PSB"
 categories: [ Olinda, Eleições ]
 image: assets/images/2024/junho/27/01.jpeg
 date:   2024-07-04  12:01:00 -0300
