@@ -2,7 +2,7 @@
 layout: post
 title: "MIRELLA CRIA O BORA DEBATER OLINDA PARA AMPLIAR PLANO DE GOVERNO"
 categories: [ Olinda, Eleições ]
-image: assets/images/2024/julho/05/01.jpeg
+image: assets/images/2024/julho/05/02.jpeg
 date:   2024-07-05  17:00:00 -0300
 #tags: [sticky, featured]
 ---
