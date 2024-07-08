@@ -6,7 +6,7 @@ image: assets/images/2024/julho/08/02.jpeg
 date:   2024-07-08  12:01:00 -0300
 #tags: [sticky, featured]
 ---
-Em meio a um cenário político marcado por escândalos e pela rejeição da população ao atual prefeito, Yves Ribeiro (nome do partido), a advogada e assistente social Lívia Álvaro (nome do partido) surge como uma nova opção para a cidade de Paulista. Pré-candidata à prefeitura, Lívia traz consigo uma vasta experiência em gestão pública, tendo atuado em diferentes áreas da Prefeitura de Olinda desde 2017.
+Em meio a um cenário político marcado por escândalos e pela rejeição da população ao atual prefeito, Yves Ribeiro (PT) a Comissária de Polícia Lívia Álvaro (PP) surge como uma nova opção para a cidade de Paulista. Pré-candidata à prefeitura, Lívia traz consigo uma vasta experiência em gestão pública, tendo atuado em diferentes áreas da Prefeitura de Olinda desde 2017.
 
 Sua trajetória na gestão pública teve início na Secretaria Executiva de Educação de Olinda, onde pôde contribuir para a melhoria da qualidade do ensino no município. Posteriormente, assumiu outras pastas estratégicas, como as Secretarias de Desenvolvimento Social e Direitos Humanos, de Gestão de Pessoas e Administração e de Planejamento e Gestão Estratégica, acumulando experiência em diferentes áreas da administração pública.
 
