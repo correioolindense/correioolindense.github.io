@@ -3,7 +3,7 @@ layout: post
 title: "VEREADORES DE OLINDA SÃO EMPOSSADOS EM CLIMA DE UNIÃO E CONFRATERNIZAÇÕES"
 categories: [ Olinda, Legislativo ]
 image: assets/images/2024/julho/10/01.jpeg
-date:   2024-07-10  15:01:00 -0300
+date:   2024-07-10  12:01:00 -0300
 #tags: [sticky, featured]
 ---
 Em um clima de união e confraternizações, a Câmara Municipal de Olinda empossou quatro novos vereadores nesta quarta-feira. A cerimônia, realizada 19 dias após a decisão judicial que cassou quatro vereadores eleitos em 2020 por fraude na cota de gênero, trouxe um novo capítulo para a política.
