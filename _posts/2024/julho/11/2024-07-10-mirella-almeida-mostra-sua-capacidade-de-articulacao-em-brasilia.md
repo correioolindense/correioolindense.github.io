@@ -6,7 +6,7 @@ image: assets/images/2024/julho/11/01.jpeg
 date:   2024-07-11  12:00:00 -0300
 #tags: [sticky, featured]
 ---
-Durante uma intensa e produtiva viagem à capital federal, Mirella Almeida demonstrou sua determinação e habilidade para conduzir o município a novos horizontes. Em um périplo que durou dois dias, ela não apenas se reuniu, mas estabeleceu importantes conexões com ministros, deputados federais, presidentes de partidos e influentes caciques da política nacional.
+Durante uma intensa e produtiva viagem à capital federal, Mirella Almeida demonstrou sua determinação e habilidade para conduzir o município a novos horizontes. Em um périplo que durou um dia, ela não apenas se reuniu, mas estabeleceu importantes conexões com ministros, deputados federais, presidentes de partidos e influentes caciques da política nacional.
 
 A agenda de Mirella incluiu encontros estratégicos com nomes de peso como o ministro de Portos e Aeroportos, Silvio Costa Filho, e o ministro do Turismo, Celso Sabino. Essas interações não apenas destacam sua capacidade de estabelecer parcerias essenciais para o desenvolvimento de Olinda, mas também reforçam seu compromisso em buscar recursos e projetos que impulsionem o crescimento econômico e social da cidade.
 
