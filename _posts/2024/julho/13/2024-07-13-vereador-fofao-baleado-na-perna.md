@@ -17,3 +17,5 @@ Ele foi atendido no Hospital Esperança (Olinda), onde passou por cirurgia. Seu 
 De acordo com outra fonte, Flávio tem porte de arma e a mesma está regularizada junto às autoridades. "Foi um episódio lamentável. A arma é dele e disparou acidentalmente", afirmou.
 
 Boatos sobre um possível atentado ao político foram descartados pela equipe do hospital e outras pessoas ligadas ao parlamentar.
+
+**Com informações do Portal Rede Observatório**
