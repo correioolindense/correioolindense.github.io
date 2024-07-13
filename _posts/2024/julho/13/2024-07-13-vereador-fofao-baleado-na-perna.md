@@ -12,7 +12,7 @@ De acordo com fontes do **Portal Observatório**, o disparo foi acidental e veio
 
 Ele foi atendido no Hospital Esperança (Olinda), onde passou por cirurgia. Seu estado de saúde é estável, mas ele permanece na Unidade de Terapia Intensiva (UTI), em observação.
 
-"Ele está consciente, reagindo bem e ficou na UTI apenas por procedimento padrão. Por sorte, o tiro não atingiu a veia femural", disse um membro da equipe médica que atendeu o vereador.
+"Ele está consciente, reagindo bem e ficou na UTI apenas por procedimento padrão. Por sorte, o tiro não atingiu a femural", disse um membro da equipe médica que atendeu o vereador.
 
 De acordo com outra fonte, Flávio tem porte de arma e a mesma está regularizada junto às autoridades. "Foi um episódio lamentável. A arma é dele e disparou acidentalmente", afirmou.
 
