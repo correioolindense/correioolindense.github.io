@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NETO DA BEIRA RIO RETORNA À CÂMARA MUNICIPAL DE OLINDA COM FOCO NOS CIDADÃOS OLINDESES"
+title: "NETO DA BEIRA RIO RETORNA À CÂMARA MUNICIPAL DE OLINDA COM FOCO NOS CIDADÃOS OLINDENSES"
 categories: [ Olinda, Legislativo ]
 image: assets/images/2024/julho/18/03.jpeg
 date:   2024-07-18  14:00:00 -0300
