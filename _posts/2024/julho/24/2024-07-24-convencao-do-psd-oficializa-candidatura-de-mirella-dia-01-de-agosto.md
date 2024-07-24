@@ -10,11 +10,12 @@ A pré-candidata à Prefeitura de Olinda, Mirella Almeida, já tem a data para a
 
 Durante a convenção, também serão confirmados os nomes dos candidatos a vereador que defenderão a legenda nas urnas. Com uma chapa robusta, o partido pretende eleger, no mínimo, cinco parlamentares. 
  
-*APOIOS* - Mirella reúne um total de 12 partidos para a sua pré-candidatura. Além do PSD, a postulante conta com o apoio do Agir, PDT, MDB, Avante, Republicanos, PSDB, Solidariedade, União Brasil, Podemos, Cidadania e PMB.
+**APOIOS** - Mirella reúne um total de 12 partidos para a sua pré-candidatura. Além do PSD, a postulante conta com o apoio do Agir, PDT, MDB, Avante, Republicanos, PSDB, Solidariedade, União Brasil, Podemos, Cidadania e PMB.
 
 O Mercado Eufrásio Barbosa fica localizado no Largo do Varadouro, S/N. 
 
-*Serviço*
+
+**Serviço**
 
 _Convenção do PSD Olinda_ 
 
