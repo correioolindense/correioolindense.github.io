@@ -3,7 +3,7 @@ layout: post
 title: "TRAJETÓRIA DE COMPROMISSO E DEDICAÇÃO: TRANSFORMANDO ÁGUAS COMPRIDAS"
 categories: [ Olinda, Comunidade ]
 image: assets/images/2024/julho/31/01.jpeg
-date:   2024-07-31  17:06:00 -0300
+date:   2024-07-31  13:06:00 -0300
 #tags: [sticky, featured]
 ---
 Desde 2004, Sandro Gaspar tem se dedicado incansavelmente à política, demonstrando um compromisso contínuo com a comunidade de Olinda, especialmente focado no bairro de Águas Compridas. Sua jornada começou apoiando a liderança de seu irmão, Nido, um passo inicial que lhe proporcionou uma profunda conexão com as necessidades e um desejo ardente de promover melhorias significativas.
