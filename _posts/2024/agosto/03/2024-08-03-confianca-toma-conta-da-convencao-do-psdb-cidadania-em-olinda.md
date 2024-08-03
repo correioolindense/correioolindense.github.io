@@ -2,7 +2,7 @@
 layout: post
 title: "CONFIANÇA TOMA CONTA DA CONVENÇÃO DO PSDB/CIDADANIA EM OLINDA"
 categories: [ Olinda, Eleições ]
-image: assets/images/2024/agosto/03/02.jpeg
+image: assets/images/2024/agosto/03/2.jpeg
 date:   2024-08-03  20:30:00 -0300
 #tags: [sticky, featured]
 ---
