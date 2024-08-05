@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "PREFEITURA DE OLINDA ATENDE PEDIDO DO VEREADOR SAULO HOLANDA E REALIZA PACOTÃO DE SERVIÇOS EM JARDIM BRASIL"
+title: "PREFEITURA DE OLINDA ATENDE PEDIDO ANTIGO DO VEREADOR SAULO HOLANDA E REALIZA PACOTÃO DE SERVIÇOS EM JARDIM BRASIL"
 categories: [ Olinda, Serviços ]
 image: assets/images/2024/agosto/05/02.jpeg
 date:   2024-08-05  18:11:00 -0300
 #tags: [sticky, featured]
 ---
-A Prefeitura de Olinda anunciou um importante pacote de melhorias para o bairro de Jardim Brasil, atendendo ao pedido do vereador Saulo Holanda. A ação abrange uma série de serviços que prometem transformar a infraestrutura e proporcionar mais qualidade de vida aos moradores da região.
+A Prefeitura de Olinda anunciou um importante pacote de melhorias para o bairro de Jardim Brasil, atendendo a pedido antigo do vereador Saulo Holanda. A ação abrange uma série de serviços que prometem transformar a infraestrutura e proporcionar mais qualidade de vida aos moradores da região.
 
 Entre os serviços realizados está a pista de cooper na Rua Campina Grande nas proximidades da Igreja de São Francisco, oferecendo uma opção segura e moderna para a prática de atividades físicas. 
 Reforma da Escadaria: A escadaria das ruas Mataripe e Castro Alves passarão por uma completa reforma, garantindo maior acessibilidade e segurança para os pedestres. 
