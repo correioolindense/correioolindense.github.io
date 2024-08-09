@@ -3,7 +3,7 @@ layout: post
 title: "EM PAULISTA, RAMOS RECEBE O APOIO DO PRD"
 categories: [ Olinda, Paulista ]
 image: assets/images/2024/agosto/09/01.jpeg
-date:   2024-08-01  11:00:00 -0300
+date:   2024-08-09  11:00:00 -0300
 #tags: [ featured ]
 ---
 O candidato a prefeito do Paulista, Ramos (PSDB), recebeu, nesta quinta-feira (08/08), o reforço do Partido Renovação Democrática (PRD). A sigla passa a integrar a coligação A Força da Mudança, que já conta com PSDB, MDB, PSD, Cidadania, Podemos e Novo.
