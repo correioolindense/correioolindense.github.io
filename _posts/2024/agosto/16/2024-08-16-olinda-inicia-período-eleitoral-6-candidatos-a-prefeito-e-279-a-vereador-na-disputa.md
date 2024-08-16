@@ -2,7 +2,7 @@
 layout: post
 title: "OLINDA INICIA PERÍODO ELEITORAL: 6 CANDIDATOS A PREFEITO E 279 A VEREADOR NA DISPUTA"
 categories: [ Olinda, Eleições ]
-image: assets/images/2024/agosto/16/01.jpeg
+image: assets/images/2024/agosto/16/01.jpg
 date:   2024-08-16  08:11:00 -0300
 tags: [sticky, featured]
 ---
