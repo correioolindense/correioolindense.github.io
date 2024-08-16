@@ -3,7 +3,7 @@ layout: post
 title: "OLINDA INICIA PERÍODO ELEITORAL: 6 CANDIDATOS A PREFEITO E 279 A VEREADOR NA DISPUTA"
 categories: [ Olinda, Eleições ]
 image: assets/images/2024/agosto/16/01.jpg
-date:   2024-08-16  08:11:00 -0300
+date:   2024-08-16  07:11:00 -0300
 tags: [sticky, featured]
 ---
 Começou oficialmente o período eleitoral em Olinda, e os candidatos já podem divulgar seus números e pedir o voto dos eleitores. Até o dia 05 de outubro, todos deverão convencer o eleitor de que são a melhor escolha para o dia 06 de outubro. 
