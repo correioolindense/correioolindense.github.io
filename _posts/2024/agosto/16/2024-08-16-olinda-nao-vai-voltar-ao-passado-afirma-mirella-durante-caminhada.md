@@ -2,7 +2,8 @@
 layout: post
 title: "OLINDA NÃO VAI VOLTAR AO PASSADO AFIRMA MIRELLA DURANTE CAMINHADA"
 categories: [ Olinda, Eleições ]
-image: assets/images/2024/agosto/16/02.jpeg
+image: assets/images/2024/agosto/16/02.jpg
+
 date:   2024-08-16  21:11:00 -0300
 tags: [sticky, featured]
 ---
