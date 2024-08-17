@@ -20,4 +20,4 @@ Diversas personalidades e autoridades já manifestaram suas condolências, desta
 
 O país, que por décadas acompanhou sua jornada de sucesso, hoje se une em um sentimento de luto e gratidão. O vazio deixado por Silvio Santos dificilmente será preenchido, mas sua memória e influência permanecerão vivas na história do Brasil. Como o maior comunicador e um dos brasileiros mais amados de todos os tempos, Silvio Santos deixa um legado que continuará inspirando gerações futuras. 
 
-O velório e o sepultamento serão realizados em cerimônia reservada à família, mas uma homenagem pública está sendo planejada para que todos os seus fãs possam prestar as últimas despedidas a esse ícone da comunicação.
+O sepultamento será realizado em cerimônia reservada à família, mas uma homenagem pública está sendo planejada para que todos os seus fãs possam prestar as últimas despedidas a esse ícone da comunicação.
