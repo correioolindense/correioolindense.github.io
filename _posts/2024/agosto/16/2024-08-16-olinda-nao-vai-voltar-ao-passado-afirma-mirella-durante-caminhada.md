@@ -5,7 +5,7 @@ categories: [ Olinda, Eleições ]
 image: assets/images/2024/agosto/16/02.jpg
 
 date:   2024-08-16  21:11:00 -0300
-tags: [ sticky ]
+tags: [ featured ]
 ---
 A candidata à Prefeitura de Olinda, Mirella Almeida (PSD), reuniu uma multidão em caminhada pelas ruas de Aguazinha. O primeiro ato oficial de campanha começou na tarde desta sexta-feira (16/08) e teve a participação do atual gestor do município, Professor Lupércio (PSD), além do candidato a vice, Chiquinho (Solidariedade), e do deputado federal Augusto Coutinho (Republicanos).
 
