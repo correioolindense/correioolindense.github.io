@@ -4,7 +4,7 @@ title: "OLINDA RECEBE CURSO INÉDITO DE COMISSÁRIO DE VOO COM A INSTRUTORA ADRI
 categories: [ Olinda, Educação ]
 image: assets/images/2024/agosto/17/02.jpg
 date:   2024-08-17  13:00:00 -0300
-tags: [ sticky, featured ]
+#tags: [ sticky, featured ]
 ---
 A cidade de Olinda será palco de um importante avanço na formação profissional com a chegada do primeiro curso de Comissário de Voo, sob a condução da experiente instrutora Adriana Karla. Em parceria com o Curso Diferencial, o programa tem como objetivo capacitar olindenses e moradores das cidades vizinhas para uma carreira que tem se destacado cada vez mais no mercado de trabalho.
 
