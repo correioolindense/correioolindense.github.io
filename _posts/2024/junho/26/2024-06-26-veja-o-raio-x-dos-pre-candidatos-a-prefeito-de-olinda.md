@@ -4,7 +4,7 @@ title: "VEJA O RAIO-X DOS PRÉ-CANDIDATOS A PREFEITO DE OLINDA"
 categories: [ Olinda, Eleições ]
 image: assets/images/2024/junho/26/01.jpeg
 date:   2024-06-26  03:00:00 -0300
-tags: [ sticky, featured ]
+tags: [ featured ]
 ---
 Com as eleições municipais se aproximando, Olinda já tem seus pré-candidatos definidos para disputar a prefeitura. Com pouco mais de três meses até o pleito e menos de um mês para o início das convenções partidárias, os principais nomes estão agora em fase de preparação e articulação política. Confira abaixo quem são os postulantes ao cargo de prefeito(a) da cidade, em ordem alfabética:
 
