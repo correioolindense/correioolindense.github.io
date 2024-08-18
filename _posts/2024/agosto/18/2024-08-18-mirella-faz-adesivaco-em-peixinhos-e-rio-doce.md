@@ -2,7 +2,7 @@
 layout: post
 title: "MIRELLA FAZ ADESIVAÇO EM PEIXINHOS E RIO DOCE"
 categories: [ Olinda, Eleições ]
-image: assets/images/2024/agosto/18/01.jpg
+image: assets/images/2024/agosto/18/01.jpeg
 date:   2024-08-18  16:20:00 -0300
 #tags: [ featured ]
 ---
