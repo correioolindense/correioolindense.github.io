@@ -4,7 +4,7 @@ title: "EX-VEREADORA GRAÇA FONSECA DECLARA APOIO AO PRESIDENTE DA CÂMARA DE OL
 categories: [ Olinda, Eleições ]
 image: assets/images/2024/agosto/17/03.jpg
 date:   2024-08-17  14:00:00 -0300
-tags: [ sticky, featured ]
+#tags: [ sticky, featured ]
 ---
 Em mais um dia de bastidores políticos movimentado, a ex-vereadora Graça Fonseca anunciou publicamente seu apoio ao atual presidente da Câmara de Vereadores de Olinda, Saulo Holanda. A declaração foi feita através de uma nota divulgada à imprensa, na qual Graça elogiou os trabalhos desempenhados por Saulo tanto na comunidade quanto à frente da Câmara.
 
