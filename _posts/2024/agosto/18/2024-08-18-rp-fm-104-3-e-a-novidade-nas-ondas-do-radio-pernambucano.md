@@ -4,7 +4,7 @@ title: "RPFM, 104,3 É A NOVIDADE NAS ONDAS DO RÁDIO PERNAMBUCANO"
 categories: [ Olinda, Comunicação ]
 image: assets/images/2024/agosto/18/02.jpg
 date:   2024-08-18  16:00:00 -0300
-tags: [sticky, featured]
+#tags: [sticky, featured]
 ---
 A mais nova emissora de rádio de Pernambuco, a RPFM, 104,3, é também a mais nova integrante da consolidada Rede Pernambuco de Rádios, que diariamente leva ao ar, para mais de 40 rádios de todo o estado, o programa ‘Cidade em Foco’, consolidado como o mais importante programa de debate político de Pernambuco. 
 
