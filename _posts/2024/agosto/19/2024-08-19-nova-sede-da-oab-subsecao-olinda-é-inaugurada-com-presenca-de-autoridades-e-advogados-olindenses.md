@@ -2,7 +2,7 @@
 layout: post
 title: "NOVA SEDE DA OAB SUBSEÇÃO OLINDA É INAUGURADA COM PRESENÇA DE AUTORIDADES E ADVOGADOS OLINDENSES"
 categories: [ Olinda, Social ]
-image: assets/images/2024/agosto/19/01.jpeg
+image: assets/images/2024/agosto/19/01.jpg
 date:   2024-08-19  10:20:00 -0300
 #tags: [ featured ]
 ---
