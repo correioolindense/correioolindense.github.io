@@ -4,7 +4,7 @@ title: "LIDERANÇAS COMUNITÁRIAS SE DESTACAM EM RIO DOCE: RAEL DO POVÃO E JONA
 categories: [ Olinda, Comunidade ]
 image: assets/images/2024/agosto/20/01.jpeg
 date:   2024-08-20  11:00:00 -0300
-tags: [sticky, featured]
+#tags: [sticky, featured]
 ---
 Duas figuras têm se destacado em Rio Doce, ao longo deste ano, devido ao seu compromisso com o desenvolvimento local e o bem-estar da comunidade: Israel Silva, conhecido como Rael do Povão, e Jonas Silva conhecido como Chefinho. Ambos têm trabalhado incansavelmente para melhorar a vida dos moradores do bairro, atuando em diversas frentes, como eventos, ações sociais e iniciativas políticas.
 
