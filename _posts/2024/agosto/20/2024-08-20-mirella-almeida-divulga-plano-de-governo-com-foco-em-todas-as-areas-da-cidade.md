@@ -4,7 +4,7 @@ title: "MIRELLA ALMEIDA DIVULGA PLANO DE GOVERNO COM FOCO EM TODAS AS ÁREAS DA 
 categories: [ Olinda, Eleições ]
 image: assets/images/2024/agosto/20/02.jpg
 date:   2024-08-20  12:00:00 -0300
-tags: [sticky, featured]
+#tags: [sticky, featured]
 ---
 A candidata à Prefeitura de Olinda, Mirella Almeida, divulgou o plano de governo que elaborou para a cidade. Com o tema “Mais trabalho, mais conquistas”, o programa está publicado em seu site oficial e conta com propostas para todas as áreas relacionadas ao município. O endereço da página é "https://mirellaalmeida.com.br/".
 
