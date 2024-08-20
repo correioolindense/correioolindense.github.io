@@ -2,7 +2,7 @@
 layout: post
 title: "LIDERANÇAS COMUNITÁRIAS SE DESTACAM EM RIO DOCE: RAEL DO POVÃO E JONAS SILVA À FRENTE DE IMPORTANTES INICIATIVAS"
 categories: [ Olinda, Comunidade ]
-image: assets/images/2024/agosto/20/01.jpg
+image: assets/images/2024/agosto/20/01.jpeg
 date:   2024-08-20  11:00:00 -0300
 tags: [sticky, featured]
 ---
