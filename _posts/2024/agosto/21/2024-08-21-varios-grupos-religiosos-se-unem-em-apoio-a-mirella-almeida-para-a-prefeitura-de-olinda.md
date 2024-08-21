@@ -6,7 +6,7 @@ image: assets/images/2024/agosto/21/03.jpeg
 date:   2024-08-21  13:10:00 -0300
 #tags: [ featured ]
 ---
-Um importante movimento de apoio à candidatura de Mirella Almeida à Prefeitura de Olinda ganha força entre diversas denominações religiosas. Amanhã, evangélicos e católicos se reunirão em um evento batizado de "Encontro dos 300", cujo objetivo é formalizar o apoio à candidata que representa a atual gestão municipal.
+Um importante movimento de apoio à candidatura de Mirella Almeida à Prefeitura de Olinda ganha força entre diversas denominações religiosas. Hoje, evangélicos e católicos se reunirão em um evento batizado de "Encontro dos 300", cujo objetivo é formalizar o apoio à candidata que representa a atual gestão municipal.
 
 A expectativa dos organizadores é de que o número de participantes supere em três vezes o público inicialmente previsto, que era de 300 pessoas. O evento será realizado em uma casa de festas em Olinda e promete marcar um novo capítulo na campanha de Mirella, especialmente com a chegada significativa dos cristãos ao seu palanque.
 
