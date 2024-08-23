@@ -10,11 +10,11 @@ Casa Bernardo Vieira de Melo, a Câmara de vereadores de Olinda sempre costuma o
 
 Desde a redemocratização, foram realizadas dez eleições municipais diretas em Olinda. Os dados sobre a primeira delas, em 1985, não são disponibilizados pelo Tribunal Superior Eleitoral (TSE).
 
-A partir de 1988, no entanto, é possível observar sempre a manutenção dos mesmos nome entre os 3 primeiros colocados, com a ascensão e declínio da esquerda, que governou Olinda de 2000 a 2015, porém ficou em 4° lugar nas eleições de 2016 e perdeu a eleição ainda no primeiro turno em 2020 e votação expressiva do atual prefeito de Olinda, tanto na proporcional como na majoritária. 
+A partir de 1988, no entanto, é possível observar sempre a manutenção dos mesmos nome entre os 3 primeiros colocados, com a ascensão e declínio da esquerda, que governou Olinda de 2000 a 2016, porém ficou em 4° lugar nas eleições de 2016 e perdeu a eleição ainda no primeiro turno em 2020 e votação expressiva do atual prefeito de Olinda, tanto na proporcional como na majoritária. 
 
 Na proporcional, destaca-se o saudoso ex-vereador Mauro Fonseca que ficou entre os três mais votados nas quatro eleições de 1988 a 2000, sendo o mais votado nas duas primeiras, além do vereador Mizael Prestanista que foi o mais votado em 2008 e 2016, e o segundo mais votado em 2020.
 
-No topo da lista da história está o atual prefeito Lupércio(PSD) que foi o mais votado da história em 2012 com mais de 6.000 votos, tendo sido o prefeito mais votado em 2020 com mais de 123 mil votos, quando ainda estava no solidariedade.
+No topo da lista da história está o atual prefeito Lupércio(PSD) que foi o mais votado da história em 2012 com mais de 6.000 votos, tendo sido o prefeito mais votado em 2020 com mais de 123 mil votos, quando ainda estava no Solidariedade.
 
 Confira quem foram os três vereadores mais bem votados e o prefeito eleito em Olinda nos últimos 36 anos:
 
