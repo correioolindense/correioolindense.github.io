@@ -39,9 +39,13 @@ Também foi divulgada a quantidade de inserções a que os candidatos vão ter d
 A exibição da propaganda eleitoral gratuita começa no dia 30 de agosto. No primeiro dia, a ordem de exibição será:
 
 1° Mirella Almeida(PSD)
+
 2° Izabel Urquiza (PL)
+
 3° Márcio Botelho (PP)
+
 4° Vinicius Castello (PT)
+
 5° Antônio Campos (PRTB/PRD)
 
 Depois, com o passar dos dias, essa ordem vai sendo alterada, seguindo a sequência sorteada neste sábado, quem foi primeiro no primeiro dia, no programa seguinte é o segundo, e assim sucessivamente.
