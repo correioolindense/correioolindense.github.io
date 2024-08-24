@@ -2,7 +2,7 @@
 layout: post
 title: "PEIXINHOS ABRAÇA MIRELLA E SAULO HOLANDA EM CAMINHADA HISTÓRICA"
 categories: [ Olinda, Eleições ]
-image: assets/images/2024/agosto/23/02.jpeg
+image: assets/images/2024/agosto/24/01.jpeg
 date:   2024-08-24  10:10:00 -0300
 #tags: [ featured ]
 ---
