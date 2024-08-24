@@ -13,9 +13,13 @@ Apenas cinco candidatos aparecerão no guia, porque o partido do postulante Clé
 Os candidatos que vão aparecer ficaram com os seguintes tempos:
 
 **Mirella Almeida (PSD)**: 4 minutos e 18 segundos
+
 **Vinicius Castello (PT)**: 2 minutos e 14 segundos
+
 **Izabel Urquiza (PL)**: 2 minutos e 03 segundos
+
 **Márcio Botelho (PP)**: 1 minuto e 4 segundos
+
 **Antônio Campos (PRTB/PRD)**: 17 segundos
 
 O tempo de cada candidato é definido pelo tamanho das bancadas na Câmara Federal dos partidos que apoiam aquela coligação
@@ -23,9 +27,13 @@ O tempo de cada candidato é definido pelo tamanho das bancadas na Câmara Feder
 Também foi divulgada a quantidade de inserções a que os candidatos vão ter direito ao longo do primeiro turno:
 
 **Mirella Almeida:** 1.269 inserções
+
 **Vinicius Castello:** 660 inserções
+
 **Izabel Urquiza:** 606 inserções
+
 **Márcio Botelho:** 318 inserções
+
 **Antônio Campos:** 87 inserções
 
 A exibição da propaganda eleitoral gratuita começa no dia 30 de agosto. No primeiro dia, a ordem de exibição será:
