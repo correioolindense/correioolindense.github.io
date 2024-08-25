@@ -2,7 +2,7 @@
 layout: post
 title: "MIRELLA PROMETE MODERNIZAR MERCADOS PÚBLICOS EM OLINDA"
 categories: [ Olinda, Eleições ]
-image: assets/images/2024/agosto/25/02.jpg
+image: assets/images/2024/agosto/25/01.jpg
 date:   2024-08-25  15:00:00 -0300
 tags: [sticky, featured]
 ---
