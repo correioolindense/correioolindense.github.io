@@ -2,7 +2,7 @@
 layout: post
 title: "O PABLO MARÇAL DE OLINDA: VINICIUS CASTELLO GANHA COMPARAÇÃO COM FIGURA DA POLÍTICA NACIONAL"
 categories: [ Olinda, Eleições ]
-image: assets/images/2024/agosto/25/01.jpg
+image: assets/images/2024/agosto/25/01.jpeg
 date:   2024-08-25  11:40:00 -0300
 #tags: [sticky, featured]
 ---
