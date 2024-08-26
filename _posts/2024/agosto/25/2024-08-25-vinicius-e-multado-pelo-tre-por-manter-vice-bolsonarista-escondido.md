@@ -4,7 +4,7 @@ title: "VINÍCIUS É MULTADO PELO TRE POR MANTER VICE BOLSONARISTA ESCONDIDO"
 categories: [ Olinda, Eleições ]
 image: assets/images/2024/agosto/25/03.jpg
 date:   2024-08-25  18:00:00 -0300
-tags: [sticky, featured]
+#tags: [sticky, featured]
 ---
 O candidato Vinícius Castello foi multado, na tarde deste domingo (25/08), pelo Tribunal Regional Eleitoral (TRE). A sanção tem valor referente a seis mil reais e foi aplicada devido ao descumprimento da condenação emitida pelo TRE, que intimou Vinícius a retirar toda e qualquer propaganda onde o nome do candidato a vice não apareça em proporção mínima de 30%, conforme estabelece a Lei n⁰ 9504/97.
 
