@@ -4,7 +4,7 @@ title: "LILÁS TOMA PEIXINHOS: DENISE ALMEIDA CONQUISTA APOIO DA MASSA COM GRAND
 categories: [ Olinda, Eleições ]
 image: assets/images/2024/agosto/25/04.jpg
 date:   2024-08-25  20:00:00 -0300
-tags: [sticky, featured]
+#tags: [sticky, featured]
 ---
 Hoje, o bairro de Peixinhos foi tomado por uma onda lilás em uma vibrante demonstração de apoio e carinho. A candidata a vereadora Denise Almeida, que caminhou na última sexta ao lado da candidata à Prefeitura, Mirella Almeida, foi calorosamente recebida pelos moradores durante um adesivaço que paralisou o bairro.
 
