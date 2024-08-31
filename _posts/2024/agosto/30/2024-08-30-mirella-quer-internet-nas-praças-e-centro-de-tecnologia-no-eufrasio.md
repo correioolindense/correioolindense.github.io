@@ -4,7 +4,7 @@ title: "MIRELLA QUER INTERNET NAS PRAÇAS E CENTRO DE TECNOLOGIA NO EUFRÁSIO"
 categories: [ Olinda, Eleições ]
 image: assets/images/2024/agosto/30/01.jpeg
 date:   2024-08-30  11:40:00 -0300
-tags: [sticky, featured]
+#tags: [sticky, featured]
 ---
 Buscando ampliar para a população o acesso à tecnologia, a candidata à Prefeitura de Olinda, Mirella Almeida (PSD), colocou no programa de governo a instalação de Internet Wi-Fi nas praças. A postulante também propõe a criação de um centro de tecnologia no Mercado Eufrásio Barbosa. 
 
