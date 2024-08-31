@@ -4,7 +4,7 @@ title: "EUGÊNIA LIMA PROMOVE DEBATE SOBRE POLÍTICAS PÚBLICAS PARA AS MULHERES
 categories: [ Olinda, Eleições ]
 image: assets/images/2024/agosto/29/02.jpeg
 date:   2024-08-29  07:40:00 -0300
-tags: [sticky, featured]
+#tags: [sticky, featured]
 ---
 Na noite desta quarta-feira (28), a candidata a vereadora de Olinda, Eugênia Lima (PT), realizou um encontro em seu Comitê para debater políticas públicas voltadas para as mulheres.
 
