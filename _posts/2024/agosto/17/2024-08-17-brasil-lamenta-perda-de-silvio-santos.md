@@ -4,7 +4,7 @@ title: "BRASIL LAMENTA A PERDA DE SILVIO SANTOS, O MAIOR COMUNICADOR E UM DOS MA
 categories: [ Olinda, Televisão ]
 image: assets/images/2024/agosto/17/01.jpg
 date:   2024-08-17  11:00:00 -0300
-tags: [ sticky, featured ]
+#tags: [ sticky, featured ]
 ---
 O texto a seguir é mais que uma matéria, é uma homenagem ao maior comunicador da história desse país e um dos maiores brasileiros de todos os tempos.
 
