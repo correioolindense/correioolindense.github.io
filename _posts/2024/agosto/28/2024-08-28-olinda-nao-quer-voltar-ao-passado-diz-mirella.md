@@ -4,7 +4,7 @@ title: "OLINDA NÃO QUER VOLTAR A UM PASSADO DE ABANDONO, AFIRMA MIRELLA"
 categories: [ Olinda, Eleições ]
 image: assets/images/2024/agosto/28/02.jpeg
 date:   2024-08-28  12:00:00 -0300
-tags: [sticky, featured]
+#tags: [sticky, featured]
 ---
 A candidata à Prefeitura de Olinda, Mirella Almeida (PSD), realizou caminhada pelas ruas do Alto da Conquista, na noite desta terça-feira (27/08). A postulante recebeu demonstrações de apoio da população e declarou que a cidade não quer voltar a um passado de abandono. O ato foi acompanhado pelo candidato a vice, Chiquinho (Solidariedade), e do atual gestor do município, Professor Lupércio (PSD).
 
