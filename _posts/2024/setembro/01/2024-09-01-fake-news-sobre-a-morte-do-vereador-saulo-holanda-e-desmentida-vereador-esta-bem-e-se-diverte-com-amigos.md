@@ -2,7 +2,7 @@
 layout: post
 title: "FAKE NEWS SOBRE A MORTE DO VEREADOR SAULO HOLANDA É DESMENTIDA; VEREADOR ESTÁ BEM E SE DIVERTE COM AMIGOS"
 categories: [ Olinda, Notícias ]
-image: assets/images/2024/junho/19/01.jpeg
+image: assets/images/2024/julho/19/01.jpeg
 date:   2024-09-01  21:00:00 -0300
 #tags: [sticky, featured]
 ---
