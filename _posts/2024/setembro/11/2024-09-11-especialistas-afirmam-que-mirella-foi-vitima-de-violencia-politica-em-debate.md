@@ -3,7 +3,7 @@ layout: post
 title: "ESPECIALISTAS AFIRMAM QUE MIRELLA FOI VÍTIMA DE VIOLÊNCIA POLÍTICA EM DEBATE"
 categories: [ Olinda, Eleições ]
 image: assets/images/2024/setembro/11/01.jpeg
-date:   2024-09-01  05:25:00 -0300
+date:   2024-09-11  05:25:00 -0300
 #tags: [sticky, featured]
 ---
 O que deveria ser um debate marcado por ideias, propostas e prestação de contas se transformou em um verdadeiro show de horrores, com ataques pessoais direcionados à candidata Mirella (PSD). O debate, que prometia ser uma oportunidade de discutir o futuro da cidade, acabou sendo cenário de violência política de gênero, segundo especialistas ouvidos pelo blog.
