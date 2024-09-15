@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CANDIDATA LÍVIA ÁLVARO UTILIZA ALGEMAS EM DEBATE PARA SIMBOLIZAR LUTA CONTRA A CORRUPÇÃO"
-categories: [ Olinda, Eleições ]
+categories: [ Paulista, Eleições ]
 image: assets/images/2024/setembro/15/01.jpeg
 date:   2024-09-15  08:03:00 -0300
 #tags: [sticky, featured]
