@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EWERTON BIMBINHO REALIZA MEGA ENCONTRO DE LIDERANÇAS EM APOIO A MIRELLA ALMEIDA E FELIPE NASCIMENTO"
+title: "EWERTON BIMBINHO, ALESSANDRA SANTOS E LUCICLEIDE CÂNDIDO REALIZAM MEGA ENCONTRO DE LIDERANÇAS EM APOIO A MIRELLA E FELIPE"
 categories: [ Olinda, Eleições ]
 image: assets/images/2024/setembro/28/01.jpeg
 date:   2024-09-28  07:00:00 -0300
@@ -8,7 +8,7 @@ date:   2024-09-28  07:00:00 -0300
 ---
 Foi realizado na última quinta feira, na comunidade do Alto Nova Olinda, um grande encontro político promovido por Ewerton Bimbinho, que vem se destacando pela sua capacidade de articulação na região de Águas Compridas e adjacências . O evento contou com a presença da candidata à prefeitura de Olinda, Mirella, e de Felipe Nascimento, candidato a reeleição de vereador, ambos do PSD. 
 
-Lideranças comunitárias como Alessandra Santos, Lucicleide Cândido, Sérgio do Alho, Roberto da Pelada do Galo, Gleison Gomes, Mimi Sena, Betinho Cândido e Milena Santos também estiveram presentes, demonstrando forte apoio às propostas da dupla. O encontro reuniu moradores e lideranças para discutir projetos e soluções voltadas para o desenvolvimento da região.
+Lideranças comunitárias como, Sérgio do Alho, Roberto da Pelada do Galo, Gleison Gomes, Mimi Sena, Betinho Cândido e Milena Santos também estiveram presentes, demonstrando forte apoio às propostas da dupla. O encontro reuniu moradores e lideranças para discutir projetos e soluções voltadas para o desenvolvimento da região.
 
 Ewerton Bimbinho, anfitrião do evento, tem surpreendido pela sua habilidade de agregar diferentes forças políticas e lideranças comunitárias em torno de um objetivo comum: trazer melhorias para a região. Ele destacou a importância de fortalecer a participação popular nas decisões políticas, reforçando seu compromisso com o bem-estar das comunidades de Águas Compridas e Alto Nova Olinda.
 
