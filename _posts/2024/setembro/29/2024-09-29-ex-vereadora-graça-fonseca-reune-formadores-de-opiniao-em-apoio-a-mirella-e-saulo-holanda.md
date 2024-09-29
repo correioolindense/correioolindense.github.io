@@ -2,7 +2,7 @@
 layout: post
 title: "EX-VEREADORA GRAÇA FONSECA REÚNE FORMADORES DE OPINIÃO EM APOIO A MIRELLA E SAULO HOLANDA"
 categories: [ Olinda, Eleições ]
-image: assets/images/2024/setembro/28/01.jpeg
+image: assets/images/2024/setembro/29/01.jpeg
 date:   2024-09-29  09:00:00 -0300
 #tags: [sticky, featured]
 ---
