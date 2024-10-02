@@ -4,7 +4,7 @@ title: "FELIPE NASCIMENTO INTENSIFICA AGENDA EM RETA FINAL DE CAMPANHA"
 categories: [ Olinda, Eleições ]
 image: assets/images/2024/outubro/02/02.jpeg
 date:   2024-10-02  11:00:00 -0300
-tags: [sticky, featured]
+#tags: [sticky, featured]
 ---
 Cotado para ser um dos mais votados na volta para a Casa Bernardo Vieira de Melo, o vereador e candidato à reeleição Felipe Nascimento (PSD) vem cumprindo grande agenda em reta final de campanha. O parlamentar tem conciliado agendas de porta a porta, além de reuniões com moradores. 
 
