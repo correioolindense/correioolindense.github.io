@@ -4,7 +4,7 @@ title: "MIRELLA RECEBE APOIO DE ARTISTAS E INFLUENCIADORES DIGITAIS"
 categories: [ Olinda, Eleições ]
 image: assets/images/2024/outubro/04/02.jpeg
 date:   2024-10-04  14:00:00 -0300
-tags: [sticky, featured]
+#tags: [sticky, featured]
 ---
 A candidata à Prefeitura de Olinda, Mirella Almeida (PSD), recebeu um grande apoio de artistas e influenciadores digitais. Durante encontro realizado em Casa Caiada, a postulante reuniu nomes como Mc Leozinho, Dadá Boladão, o Galeroso, MC Pedrinho, Marcelo Coutinho, Felipe Original, MC Feru e Igor Oliveira.  
 
