@@ -4,7 +4,7 @@ title: "VEREADOR TONNY MAGALHÃES RECEBE APOIO DE JOÃO SUASSUNA E FORTALECE CAM
 categories: [ Olinda, Eleições ]
 image: assets/images/2024/outubro/04/01.jpeg
 date:   2024-10-04  05:00:00 -0300
-tags: [sticky, featured]
+#tags: [sticky, featured]
 ---
 A campanha de reeleição do vereador Tonny Magalhães ganhou um novo reforço com a declaração de apoio de João Suassuna, ex-secretário estadual, membro do PSB e sobrinho do icônico escritor Ariano Suassuna. O anúncio foi feito através de um vídeo divulgado nas redes sociais, consolidando ainda mais o apoio da cúpula do PSB à candidatura de Tonny.
 
