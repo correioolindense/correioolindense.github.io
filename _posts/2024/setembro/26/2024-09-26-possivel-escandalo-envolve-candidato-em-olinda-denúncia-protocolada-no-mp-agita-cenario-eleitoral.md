@@ -4,7 +4,7 @@ title: "URGENTE E EXCLUSIVO: POSSÍVEL ESCÂNDALO ENVOLVE CANDIDATO EM OLINDA, D
 categories: [ Olinda, Eleições ]
 image: assets/images/2024/setembro/26/01.jpeg
 date:   2024-09-26  07:00:00 -0300
-tags: [sticky, featured]
+#tags: [sticky, featured]
 ---
 A campanha eleitoral em Olinda pode estar prestes a enfrentar uma reviravolta de grandes proporções. Um perito criminal protocolou recentemente, junto ao Ministério Público, uma notícia de fato envolvendo um material digital que teria sido descoberto, apontando para um possível escândalo envolvendo um dos candidatos ao pleito municipal.
 
