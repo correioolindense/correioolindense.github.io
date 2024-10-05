@@ -4,7 +4,7 @@ title: "SAULO HOLANDA REALIZA MAIOR REUNIÃO DAS ELEIÇÕES COM PRESENÇA DE TOD
 categories: [ Olinda, Eleições ]
 image: assets/images/2024/outubro/03/01.jpeg
 date:   2024-10-03  22:00:00 -0300
-tags: [sticky, featured]
+#tags: [sticky, featured]
 ---
 Na noite de hoje, aconteceu o que especialistas classificaram como a maior reunião desta campanha eleitoral em Olinda. O evento, organizado em apoio à candidatura do vereador Saulo Holanda, reuniu importantes lideranças políticas e mais de 1.000 apoiadores, que se revezavam dentro e fora do espaço, marcando um dos momentos mais significativos das eleições.
 
