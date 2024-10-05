@@ -4,7 +4,7 @@ title: "CONFIRA AGORA OS 17 NOMES QUE SERÃO ELEITOS VEREADORES NO PRÓXIMO DOMI
 categories: [ Olinda, Eleições ]
 image: assets/images/2024/outubro/01/01.jpeg
 date:   2024-10-01  07:00:00 -0300
-tags: [sticky, featured]
+#tags: [sticky, featured]
 ---
 Após divulgar uma lista com 34 nomes considerados fortes candidatos a ocupar uma cadeira na Câmara Municipal de Olinda, o Correio Olindense foi mais fundo e consultou uma série de fontes para identificar quem são os 17 favoritos que, segundo especialistas, terão a vitória no pleito do dia 06 de outubro. A nova lista foi elaborada com base em informações colhidas junto a analistas políticos, presidentes de partidos, candidatos, vereadores e outros atores da política.
 
