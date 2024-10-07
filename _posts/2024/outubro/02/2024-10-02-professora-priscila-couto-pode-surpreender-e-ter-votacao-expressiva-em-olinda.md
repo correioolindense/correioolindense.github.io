@@ -4,7 +4,7 @@ title: "PROFESSORA PRISCILA COUTO PODE SURPREENDER E TER VOTAÇÃO EXPRESSIVA EM
 categories: [ Olinda, Eleições ]
 image: assets/images/2024/outubro/02/01.jpeg
 date:   2024-10-02  07:00:00 -0300
-tags: [sticky, featured]
+#tags: [sticky, featured]
 ---
 A professora Priscila Couto, suplente de conselheira tutelar, desponta como um nome promissor nas eleições para a Câmara de Vereadores de Olinda. Com uma atuação sólida nas áreas de saúde, proteção aos direitos dos animais, apoio a crianças atípicas e educação, ela vem conquistando simpatizantes e consolidando sua candidatura.
 
