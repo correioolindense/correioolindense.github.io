@@ -4,7 +4,7 @@ title: "IZABEL URQUIZA CONDENADA POR MENTIR CONTRA MIRELLA"
 categories: [ Olinda, Eleições ]
 image: assets/images/2024/outubro/05/02.jpeg
 date:   2024-10-05  16:00:00 -0300
-tags: [sticky, featured]
+#tags: [sticky, featured]
 ---
 Neste sábado, 05/10, a Justiça Eleitoral condenou a candidata Izabel Urquiza, determinando que a mesma retire de suas redes sociais publicação sobre Mirella. De acordo com a decisão, Izabel tem o prazo de, no máximo, 2h, contadas apartir da intimação, para remover postagem em questão.
 
