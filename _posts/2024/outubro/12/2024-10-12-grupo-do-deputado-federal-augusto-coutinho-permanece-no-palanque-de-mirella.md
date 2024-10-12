@@ -4,7 +4,7 @@ title: "GRUPO DO DEPUTADO FEDERAL AUGUSTO COUTINHO PERMANECE NO PALANQUE DE MIRE
 categories: [ Olinda, Eleições ]
 image: assets/images/2024/outubro/12/01.jpeg
 date:   2024-10-12  08:00:00 -0300
-tags: [sticky, featured]
+#tags: [sticky, featured]
 ---
 Conforme informações, o Deputado Federal Augusto Coutinho (republicanos) comunicou ao seu grupo político de Olinda, que todos que fazem parte do seu grupo, ou queiram permanecer,  ficassem no palanque de Mirella (PSD) e Chiquinho (Solidariedade).
 
