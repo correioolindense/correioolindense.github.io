@@ -4,7 +4,7 @@ title: "GRAÇA FONSECA ANUNCIA APOIO CONTÍNUO A MIRELLA"
 categories: [ Olinda, Eleições ]
 image: assets/images/2024/outubro/12/02.jpeg
 date:   2024-10-12  08:30:00 -0300
-tags: [sticky, featured]
+@tags: [sticky, featured]
 ---
 Mesmo diante dos recentes movimentos de adesão à oposição em Olinda, a ex-vereadora Graça Fonseca anunciou que permanece firme em seu apoio à candidata Mirella, do PSD. A decisão de Graça vem em um momento em que algumas figuras políticas decidiram mudar de lado, mas, segundo a ex-vereadora, suas convicções e alinhamento com os valores defendidos por Mirella não permitem outra escolha.
 
