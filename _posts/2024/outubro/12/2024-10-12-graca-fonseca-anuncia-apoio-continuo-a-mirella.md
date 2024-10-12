@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GRAÇA FONSECA ANUNCIA APOIO CONTÍNUA A MIRELLA"
+title: "GRAÇA FONSECA ANUNCIA APOIO CONTÍNUO A MIRELLA"
 categories: [ Olinda, Eleições ]
 image: assets/images/2024/outubro/12/02.jpeg
 date:   2024-10-12  08:30:00 -0300
