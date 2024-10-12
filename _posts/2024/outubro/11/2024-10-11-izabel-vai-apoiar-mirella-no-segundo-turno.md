@@ -4,7 +4,7 @@ title: "IZABEL VAI APOIAR MIRELLA NO SEGUNDO TURNO"
 categories: [ Olinda, Eleições ]
 image: assets/images/2024/outubro/11/02.jpeg
 date:   2024-10-11  15:00:00 -0300
-tags: [sticky, featured]
+#tags: [sticky, featured]
 ---
 A ex-candidata a prefeita de Olinda, Izabel Urquiza (PL), vai declarar oficialmente seu apoio à candidata Mirella (PSD) no segundo turno das eleições. A decisão, que atende a um pedido da governadora Raquel Lyra (PSDB), foi antecipada pelos jornalistas Magno Martins, do Blog do Magno, e Pedro Tinoco, do portal Observatório, nesta tarde.
 
