@@ -4,7 +4,7 @@ title: "CORREIO OLINDENSE TRANSMITIRÁ PRINCIPAIS NOTÍCIAS E APURAÇÃO AO VIVO
 categories: [ Olinda, Eleições ]
 image: assets/images/2024/outubro/05/03.jpeg
 date:   2024-10-05  19:00:00 -0300
-tags: [sticky, featured]
+#tags: [sticky, featured]
 ---
 O Correio Olindense, reafirmando seu compromisso com a democracia e a transparência, vai transmitir ao vivo neste domingo as principais notícias e a apuração das eleições em seu canal no YouTube. A cobertura começará pela manhã, das 08h às 09h30, e retornará à tarde, das 16h30 até o encerramento da apuração.
 
