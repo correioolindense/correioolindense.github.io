@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JANELA PARTIDÁRIA COMEÇA HOJE E PELO MENOS 8 VEREADORES DEVEM MUDAR DE PARTIDO."
+title: "JANELA PARTIDÁRIA 'COMEÇA' HOJE E PELO MENOS 8 VEREADORES DEVEM MUDAR DE PARTIDO."
 categories: [ eleições, Olinda ]
 image: assets/images/2024/marco/07/01.jpeg
 date:   2024-03-07  09:30:00 -0300
