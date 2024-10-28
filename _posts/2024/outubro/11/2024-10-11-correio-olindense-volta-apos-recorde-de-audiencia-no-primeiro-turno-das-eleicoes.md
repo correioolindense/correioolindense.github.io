@@ -4,7 +4,7 @@ title: "CORREIO OLINDENSE VOLTA APÓS RECORDE DE AUDIÊNCIA NO PRIMEIRO TURNO DA
 categories: [ Olinda, Eleições ]
 image: assets/images/2024/outubro/11/01.jpeg
 date:   2024-10-11  13:00:00 -0300
-tags: [sticky, featured]
+#tags: [sticky, featured]
 ---
 O Correio Olindense retorna após bater recordes de audiência durante o primeiro turno das eleições municipais. Com 250 mil acessos em 30 dias no Instagram, 300 mil acessos no site e mais de 4 mil aparelhos conectados no YouTube durante a apuração, o portal de notícias se consolidou como a principal fonte de informações da cidade. O Correio Olindense promete continuar trazendo as notícias mais completas, reais e em tempo real durante o segundo turno.
 
