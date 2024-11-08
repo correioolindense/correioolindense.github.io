@@ -3,7 +3,7 @@ layout: post
 title: "PREFEITURA DE OLINDA DIALOGA COM COMERCIANTES DO SÍTIO HISTÓRICO SOBRE FUNCIONAMENTO DE BARES E RESTAURANTES"
 categories: [ Olinda , Desenvolvimento ]
 image: assets/images/2024/novembro/08/02.jpg
-date:   2024-11-08 10:01:00 -0300
+date:   2024-11-08 10:02:00 -0300
 #tags: [sticky, featured]
 ---
 A Prefeitura de Olinda realizou uma reunião com comerciantes de bares e restaurantes do sítio histórico para discutir o cumprimento da legislação específica para esses estabelecimentos. O objetivo foi garantir uma convivência harmoniosa entre as atividades comerciais e a qualidade de vida dos moradores da área histórica e residencial.
