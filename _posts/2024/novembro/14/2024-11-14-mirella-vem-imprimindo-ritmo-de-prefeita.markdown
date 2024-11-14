@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "ALLAN NEGREIROS COMEMORA VINDA DE PREFEITO AFRICANO A OLINDA"
-categories: [ Olinda , Turismo ]
+title: "MIRELLA VEM IMPRIMINDO RITMO DE PREFEITA"
+categories: [ Olinda , Política ]
 image: assets/images/2024/novembro/14/02.jpg
 date:   2024-11-14 00:01:00 -0300
 #tags: [sticky, featured]
