@@ -6,7 +6,7 @@ image: assets/images/2024/novembro/18/01.jpg
 date:   2024-11-18 06:01:00 -0300
 #tags: [sticky, featured]
 ---
-Acontecem hoje, tanto de forma presencial quanto on-line, as eleições para a Ordem dos Advogados do Brasil em Pernambuco (OAB-PE). Advogados e advogadas irão escolher a nova liderança da subsecção estadual e da subsecção de Olinda, em um pleito que promete influenciar os rumos da classe jurídica nos próximos anos.
+Acontecem hoje, de forma on-line, as eleições para a Ordem dos Advogados do Brasil em Pernambuco (OAB-PE). Advogados e advogadas irão escolher a nova liderança da subsecção estadual e da subsecção de Olinda, em um pleito que promete influenciar os rumos da classe jurídica nos próximos anos.
 
 No âmbito estadual, três chapas disputam intensamente a preferência dos eleitores. Ingrid Zanella, que representa a continuidade da atual gestão, adota o lema de “renovação experiente”, propondo mudanças gradativas enquanto mantém as bases da administração vigente. Do outro lado, Almir Reis, principal nome da oposição, busca cativar os eleitores com um discurso de “renovação já”, defendendo uma mudança mais assertiva na condução da Ordem, correndo por fora vem o advogado Fernando Júnior, com o lema “coragem para mudar”.
 
