@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MESA DIRETORA CÂMARA DE OLINDA ANTECIPA PAGAMENTO DO 13º E SALÁRIO DE NOVEMBRO"
+title: "MESA DIRETORA DA CÂMARA DE OLINDA ANTECIPA PAGAMENTO DO 13º E SALÁRIO DE NOVEMBRO"
 categories: [ Olinda , Gestão ]
 image: assets/images/2024/novembro/25/01.jpg
 date:   2024-11-25 14:00:00 -0300
