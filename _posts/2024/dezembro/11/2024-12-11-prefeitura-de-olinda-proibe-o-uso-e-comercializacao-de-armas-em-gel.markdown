@@ -1,0 +1,21 @@
+---
+layout: post
+title: "PREFEITURA DE OLINDA PROÍBE O USO E COMERCIALIZAÇÃO DE ARMAS EM GEL"
+categories: [ Olinda , Legislação ]
+image: assets/images/2024/dezembro/11/01.jpg
+date:   2024-12-11 19:00:00 -0300
+#tags: [sticky, featured]
+---
+O Município de Olinda proibiu o uso e comercialização de armas em gel. Por meio de decreto, assinado nesta quarta-feira (11), pelo prefeito, Professor Lupércio, os objetos considerados nocivos, sobretudo ao público formado por crianças e adolescentes, devem deixar de ser operacionalizados na cidade. O instrumento tem como foco principal a conscientização e orientação aos menores, assim como aos pais e responsáveis, incluindo um trabalho de palestras, visitação às escolas das redes pública e privada de ensino, fixação de cartazes e distribuição de cartilhas de orientação.
+
+A frente conjunta em Olinda reúne as secretarias de Segurança Cidadã, com a Guarda Municipal; Educação e Saúde, com destaque para o crescimento expressivo no número de casos de acidentes e registros nos prontos-socorros, em decorrência de pessoas atingidas pelos projéteis em gel, capazes de ferir os olhos e outras partes do corpo. Segundo dados mais recentes, apenas nos últimos dez dias, foram registrados cerca de 150 incidentes, incluindo casos graves de lesões oculares. A chamada guerra de armas de gel virou uma espécie de febre na periferia de toda a Região Metropolitana, incluindo Olinda. O fator também preocupa pela natureza carnavalesca da cidade, já imersa no período de prévias.
+
+“Estamos diante de uma preocupação que não é só dos olindenses, mas de uma forma muito geral de todos nós pernambucanos. Essas armas em gel têm percorrido os diversos locais de maneira desenfreada e isto é bastante prejudicial, trazendo muitos danos. Nós vamos enfatizar esse eixo educativo, mas também ser bastante firmes para coibir o uso e a comercialização em nosso município”, destacou Lupércio. Conforme o documento, o decreto 176/2024, fica determinado que os estabelecimentos que disponibilizarem esses objetos poderão sofrer sanções, como advertências, a suspensão dos alvarás de funcionamento e multas. Os usuários também terão o material apreendido.
+
+Conforme o setor de oftalmologia da Rede Municipal de Saúde de Olinda, os ferimentos assinalam queixas de dor ocular, baixa visão, inflamações da parte anterior ou interna dos olhos, lesões corneanas, arranhões, abrasões, sangramento ocular interno, entre outros. A situação pode desencadear, ainda, outras consequências, como a própria perda da córnea. Um outro projeto de lei já está sendo discutido, na esfera estadual, na Assembleia Legislativa de Pernambuco (Alepe), propondo a proibição da comercialização e do uso das chamadas “gel blasters”, ou “armas de gel”, em todo o território.
+
+O secretário de Segurança Urbana de Olinda, Cel. Pereira Neto, também reforçou a relevância da medida. “São artefatos que têm fácil acesso também por meio de plataformas online, sendo outro fator de preocupação. Tais instrumentos não atendem aos padrões de normatização estabelecidos por órgãos reguladores e são fabricados de qualquer modo e potência. Olinda busca, justamente, combater qualquer tipo de banalização da violência em espaços públicos”, disse.
+
+Vale destacar, que o decreto em Olinda considera, também, os termos da Lei Estadual  12.098, de 06/11/2001, que proíbe, “no Estado de Pernambuco, a fabricação, venda e comercialização de brinquedos que pelo seu formato, cor, e quaisquer tipo de características, que assemelhe-se a armas verdadeiras”, incluindo “os brinquedos que disparam balas, bolinhas, espumas, luzes, luz a laser e assemelhados, que produzam sons ou projetem quaisquer substâncias que permitam a sua associação com arma de fogo”.
+
+Fica proibido no território de Olinda o uso de armas com projéteis em gel, ainda que apresentadas sob a forma de brinquedos, réplicas e simulacros de armas de fogo, que com estas possam se confundir. Fica firmada a exceção para a prática esportiva conhecida como paintball, desde que em locais adequados e revestidos da devida segurança.
