@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VEREADORA DENISE ALMEIDA É COTADA PARA PRIMEIRA SECRETARIA DA CÂMARA DE OLINDA"
+title: "VEREADORA DENISE ALMEIDA COTADA PARA PRIMEIRA SECRETARIA DA CÂMARA"
 categories: [ Olinda , Legislativo ]
 image: assets/images/2024/dezembro/12/01.jpg
 date:   2024-12-12 07:00:00 -0300
