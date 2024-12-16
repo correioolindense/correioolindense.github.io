@@ -4,7 +4,7 @@ title: "MIRELLA ELEITA PREFEITA DE OLINDA"
 categories: [ Olinda, Eleições ]
 image: assets/images/2024/outubro/26/01.jpg
 date:   2024-10-27  18:10:00 -0300
-tags: [sticky, featured]
+tags: [ featured ]
 ---
 Com 100% das urnas apuradas, Mirella Almeida (PSD) está oficialmente eleita prefeita de Olinda, confirmando seu favoritismo sobre o candidato Vinicius Castello (PT). De acordo com o Tribunal Superior Eleitoral (TSE), por volta das 18h48, ela estava matematicamente eleita, com 51,27% dos votos válidos. Com a totalização dos votos, ela obteve 51,38% dos votos válidos, que significam mais de 111 mil votos. Em segundo lugar, ficou Vinicius Castello (PT), com 105.616 votos, ou 48,62% dos votos válidos, respaldado pelo ex-presidente Lula e o prefeito do Recife, João Campos.
 
