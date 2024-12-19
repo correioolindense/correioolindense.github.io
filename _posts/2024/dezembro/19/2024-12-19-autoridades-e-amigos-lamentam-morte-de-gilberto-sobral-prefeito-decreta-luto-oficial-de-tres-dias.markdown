@@ -6,8 +6,6 @@ image: assets/images/2024/dezembro/19/03.jpg
 date:   2024-12-19 10:03:00 -0300
 #tags: [sticky, featured]
 ---
-Autoridades e amigos lamentam morte de Gilberto Sobral; prefeito decreta luto oficial de três dias
-
 A cultura pernambucana se despede de uma de suas figuras mais marcantes. Gilberto Sobral, superintendente do Instituto do Patrimônio Histórico e Artístico Nacional (Iphan) em Pernambuco e ex-secretário de Cultura de Olinda, faleceu, deixando um legado inestimável para o patrimônio e a cultura do Estado.
 
 A notícia provocou uma onda de comoção entre autoridades, amigos e admiradores. A governadora Raquel Lyra expressou pesar:
@@ -26,8 +24,10 @@ A ex-vereadora Graça Fonseca, que foi responsável por conceder a Sobral o tít
 
 	“Muito triste! Giba era uma pessoa do bem. Gostava muito dele. Era cidadão de Olinda, título concedido pela Câmara por minha iniciativa. Estou triste. Que Deus o receba em sua infinita misericórdia.”
 
-A vereadora Gisele Tavares também destacou a relevância de Sobral para Olinda:
+A câmara municipal de Olinda também destacou Sobral:
 
-	“Gilberto Sobral foi uma figura marcante em Olinda, conhecido por sua incansável luta em defesa do patrimônio cultural e histórico da cidade. A memória de Gilberto Sobral continua a ser uma fonte de inspiração para todos que valorizam a cultura e a história da cidade.”
+	“A Câmara Municipal de Olinda, em nome do Presidente Saulo Holanda, lamenta pelo falecimento do Srº Gilberto Sobral, Superintendente do IPHAN em Pernambuco. Sua dedicação ao nosso município será sempre lembrado.
+
+Nossos sinceros sentimentos a toda família e amigos neste momento de dor.”
 
 Com uma carreira dedicada à preservação cultural e histórica, Gilberto Sobral deixa um legado que transcende gerações e serve de inspiração para todos que trabalham em prol da valorização do patrimônio brasileiro.
