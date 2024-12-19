@@ -3,7 +3,7 @@ layout: post
 title: "PERNAMBUCO SE DESPEDE DE GILBERTO SOBRAL, REFERÊNCIA EM GESTÃO CULTURAL"
 categories: [ Olinda , Cultura ]
 image: assets/images/2024/dezembro/19/02.jpg
-date:   2024-12-19 12:29:00 -0300
+date:   2024-12-19 07:59:00 -0300
 #tags: [sticky, featured]
 ---
 Na manhã de hoje, o estado de Pernambuco, sobretudo Olinda, perdeu uma de suas grandes referências no campo da gestão educacional, cultural e patrimonial. O professor Gilberto Sobral Magalhães, conhecido como Giba, faleceu no Hospital D’Ávila devido a complicações causadas por uma hérnia encarcerada. Sua morte representa uma grande perda para o cenário cultural e administrativo do estado.
