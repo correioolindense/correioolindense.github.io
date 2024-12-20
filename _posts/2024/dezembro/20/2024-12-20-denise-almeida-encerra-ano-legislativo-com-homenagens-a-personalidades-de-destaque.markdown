@@ -3,7 +3,7 @@ layout: post
 title: "DENISE ALMEIDA ENCERRA ANO LEGISLATIVO COM HOMENAGENS A PERSONALIDADES DE DESTAQUE"
 categories: [ Olinda , Legislativo ]
 image: assets/images/2024/dezembro/20/02.jpg
-date:   2024-12-20 10:00:00 -0300
+date:   2024-12-20 10:01:00 -0300
 #tags: [sticky, featured]
 ---
 A vereadora Denise Almeida encerrou o ano legislativo do seu mandato com a entrega de duas importantes honrarias, reconhecendo personalidades que têm contribuído de forma significativa para a cidade.
