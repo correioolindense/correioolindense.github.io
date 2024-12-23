@@ -2,7 +2,7 @@
 layout: post
 title: "VAZA MARCA QUE PREFEITURA VAI USAR NA GESTÃO MIRELLA"
 categories: [ Olinda , Gestão ]
-image: assets/images/2024/dezembro/23/02.jpg
+image: assets/images/2024/dezembro/23/03.jpg
 date:   2024-12-23 10:00:00 -0300
 #tags: [sticky, featured]
 ---
