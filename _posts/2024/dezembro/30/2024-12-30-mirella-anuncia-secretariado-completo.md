@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "MIRELLA ANUNCIA SECRETARIADO COMPLETO, VEJA:"
+title: "MIRELLA ANUNCIA MAIS NOMES DO SECRETARIADO, VEJA:"
 categories: [ Olinda, Gestão ]
 image: assets/images/2024/dezembro/30/02.jpg
-date:   2024-12-30  19:00:00 -0300
+date:   2024-12-30  23:00:00 -0300
 #tags: [sticky, featured]
 ---
-Acabou o mistério. Após 60 dias do fim das eleições e 11 dias desde a primeira divulgação, Mirella anunciou há pouco o secretariado completo que irá auxiliá-la na gestão de Olinda. A prefeita eleita encerra a composição de sua equipe com um time diversificado, incluindo nomes técnicos e figuras de destaque.
+Acabou o mistério. Após 60 dias do fim das eleições e 11 dias desde a primeira divulgação, Mirella anunciou há pouco o secretariado que irá auxiliá-la na gestão de Olinda. A prefeita eleita encerra a composição de sua equipe com um time diversificado, incluindo nomes técnicos e figuras de destaque.
 
 Na primeira lista divulgada, já haviam sido confirmados:
 
@@ -24,7 +24,7 @@ Na primeira lista divulgada, já haviam sido confirmados:
 
 •	Ana Callou, sanitarista, na Saúde.
 
-**A nova lista divulgada hoje completa o quadro com os seguintes nomes:**
+**A nova lista divulgada hoje tem os seguintes nomes:**
 
 Secretaria de Planejamento e Gestão Estratégica - Millena Gonzaga 
 
@@ -39,8 +39,6 @@ Secretaria de desenvolvimento econômico - Gabriela Campelo
 Secretaria de Comunicação - Marlon Oliveira
 
 Secretaria de Educação - Edilene Soares 
-
-Secretaria de Esportes e Juventude -
 
 Secretaria de Mobilidade Urbana - Maxwell Behar 
 
