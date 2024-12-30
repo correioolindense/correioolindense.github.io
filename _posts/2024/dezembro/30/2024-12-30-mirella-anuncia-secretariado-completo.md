@@ -24,8 +24,30 @@ Na primeira lista divulgada, já haviam sido confirmados:
 
 •	Ana Callou, sanitarista, na Saúde.
 
-A nova lista divulgada hoje completa o quadro com os seguintes nomes:
+**A nova lista divulgada hoje completa o quadro com os seguintes nomes:**
 
-[Inserir lista completa com os novos nomes].
+Secretaria de Planejamento e Gestão Estratégica - Millena Gonzaga 
+
+Procuradoria Geral - Dayseanne Dolores
+
+Secretaria da Fazenda - Givonete Lubarino 
+
+Secretaria de Administração - Luciano Brasileiro 
+
+Secretaria de desenvolvimento econômico - Gabriela Campelo
+
+Secretaria de Comunicação - Marlon Oliveira
+
+Secretaria de Educação - Edilene Soares 
+
+Secretaria de Esportes e Juventude -
+
+Secretaria de Mobilidade Urbana - Maxwell Behar 
+
+Secretaria de Meio Ambiente - Guilherme Cabral 
+
+Secretaria de Gestão Urbana - Cláudia Peregrino 
+
+OLINPREV - Cláudia Tabosa 
 
 Mirella afirmou que a escolha dos nomes foi baseada na competência técnica e no compromisso com os desafios de Olinda. O novo secretariado deverá ser empossado no primeiro dia de janeiro, quando os trabalhos oficiais da gestão terão início.
