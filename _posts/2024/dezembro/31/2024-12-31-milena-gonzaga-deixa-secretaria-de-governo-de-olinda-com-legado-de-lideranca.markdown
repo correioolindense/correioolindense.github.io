@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MILLENA GONZAGA DEIXA SECRETARIA DE GOVERNO COM LEGADO DE LIDERANÇA"
+title: "MILENA GONZAGA DEIXA SECRETARIA DE GOVERNO COM LEGADO DE LIDERANÇA"
 categories: [ Olinda , Gestão ]
 image: assets/images/2024/dezembro/31/01.jpg
 date:   2024-12-31 05:00:00 -0300
