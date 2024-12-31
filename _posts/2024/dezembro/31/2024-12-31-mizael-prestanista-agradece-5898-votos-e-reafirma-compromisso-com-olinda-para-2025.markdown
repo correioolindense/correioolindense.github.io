@@ -4,7 +4,7 @@ title: "MIZAEL PRESTANISTA AGRADECE 5.898 VOTOS E REAFIRMA COMPROMISSO COM OLIND
 categories: [ Olinda , Legislativo ]
 image: assets/images/2024/dezembro/31/07.jpg
 date:   2024-12-31 18:04:00 -0300
-tags: [ sticky, featured ]
+#tags: [ sticky, featured ]
 ---
 Com 5.898 votos conquistados nas últimas eleições, Mizael Prestanista, figura reconhecida por sua atuação em prol da população olindense, agradeceu o apoio recebido nas urnas e reforçou o compromisso de continuar trabalhando para o desenvolvimento da cidade e o bem-estar dos moradores.
 
