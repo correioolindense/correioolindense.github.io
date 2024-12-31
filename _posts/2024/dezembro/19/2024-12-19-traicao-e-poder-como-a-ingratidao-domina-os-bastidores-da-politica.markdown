@@ -4,7 +4,7 @@ title: "TRAÍÇÃO E PODER: COMO A INGRATIDÃO DOMINA OS BASTIDORES DA POLÍTICA
 categories: [ Coluna , Política ]
 image: assets/images/2024/dezembro/19/01.jpg
 date:   2024-12-19 06:01:00 -0300
-tags: [ sticky , featured ]
+#tags: [ sticky , featured ]
 ---
 A ingratidão é uma das características humanas mais difíceis de se lidar. Ela representa não apenas a falta de reconhecimento por um favor ou ajuda recebida, mas também a negação da relação de troca que construiu um vínculo. No mundo da política, esse traço se manifesta com frequência quase inevitável, criando um ciclo que parece naturalizado. Contudo, quando examinamos a ingratidão em outros contextos, podemos entender mais profundamente como ela se entrelaça com a política e o impacto que ela gera.
 
