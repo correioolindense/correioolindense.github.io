@@ -3,10 +3,10 @@ layout: post
 title: "MIRELLA ANUNCIA NOMES DO SECRETARIADO, VEJA:"
 categories: [ Olinda, Gestão ]
 image: assets/images/2025/janeiro/01/04.jpg
-date:   2024-01-01  23:53:00 -0300
+date:   2024-01-01  18:22:00 -0300
 #tags: [sticky, featured]
 ---
-Acabou o mistério. Após 60 dias do fim das eleições e 11 dias desde a primeira divulgação, Mirella anunciou há pouco o secretariado que irá auxiliá-la na gestão de Olinda. A prefeita eleita encerra a composição de sua equipe com um time diversificado, incluindo nomes técnicos e figuras de destaque.
+Acabou o mistério. Mirella anunciou há pouco na cerimônia de transmissão de cargo o secretariado que irá auxiliá-la na gestão de Olinda. A prefeita eleita encerra a composição de sua equipe com um time diversificado, incluindo nomes técnicos e figuras de destaque.
 
 Na primeira lista divulgada, já haviam sido confirmados:
 
@@ -16,7 +16,7 @@ Na primeira lista divulgada, já haviam sido confirmados:
 
 • Luiz Adolpho, presidente do Homem da Meia-Noite, na Cultura;
 
-• Ana Selma como secretária executiva da Mulher;
+• Ana Selma como secretária especial da Mulher;
 
 • Coronel Pereira Neto na Segurança Cidadã;
 
@@ -36,7 +36,9 @@ Secretaria de Administração - Luciano Brasileiro
 
 Secretaria de desenvolvimento econômico - Gabriela Campelo
 
-Secretaria de Comunicação - Marlon Oliveira
+Assessoria de Imprensa - Marlon Oliveira
+
+Secretaria especial de comunicação - Marília Banholzer 
 
 Secretaria de Educação - Edilene Soares
 
