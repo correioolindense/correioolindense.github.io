@@ -13,9 +13,13 @@ Durante seu discurso de posse, Saulo expressou gratidão aos colegas e orgulho p
 A eleição também definiu a nova composição da Mesa Diretora, formada após intensas articulações políticas. Confira os nomes:
 
 •	Presidente: Saulo Holanda (MDB)
+
 •	1º Vice-Presidente: Professor Marcelo (PSD)
+
 •	2º Vice-Presidente: Márcio Barbosa (AVANTE)
+
 •	1º Secretário: Jesuíno Araújo (PSD)
+
 •	2º Secretário: Simplício (PV)
 
 A nova Mesa Diretora assume o compromisso de conduzir os trabalhos legislativos com eficiência e harmonia, reforçando o diálogo com o Executivo e buscando atender às demandas da população.
