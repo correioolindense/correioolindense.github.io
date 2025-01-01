@@ -46,7 +46,7 @@ Secretaria de esportes - Erivaldo Coutinho
 
 Secretaria de Meio Ambiente - Guilherme Cabral
 
-Secretaria de Gestão Urbana - Cláudia Peregrino
+Secretaria de Gestão Urbana - Waldemar Marques
 
 OLINPREV - Cláudia Tabosa
 
