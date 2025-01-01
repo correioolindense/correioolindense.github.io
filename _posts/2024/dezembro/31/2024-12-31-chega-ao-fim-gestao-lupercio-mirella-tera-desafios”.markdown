@@ -4,7 +4,7 @@ title: "CHEGA AO FIM GESTÃO LUPÉRCIO, MIRELLA TERÁ DESAFIOS"
 categories: [ Olinda , Gestão ]
 image: assets/images/2024/dezembro/31/06.jpg
 date:   2024-12-31 17:54:00 -0300
-tags: [ sticky, featured ]
+#tags: [ sticky, featured ]
 ---
 Análise de PEDRO TINOCO complementada por ALEXANDRE SANTOS - Dentro de seis horas chega ao final o segundo mandato do prefeito de Olinda Professor Lupércio (PSD). Ele entregará a administração para sua escolhida, Mirella Almeida (PSD), que terá como maior desafio ampliar o legado construído por Lupa nos últimos oito anos.
 
