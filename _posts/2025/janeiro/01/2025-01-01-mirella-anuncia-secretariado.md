@@ -54,4 +54,6 @@ OLINPREV - Cláudia Tabosa
 
 Agência de desenvolvimento de Olinda - Bruna Lins Pires
 
+Assessores especiais: Rafael Arruda, Tássia Liz e Cláudia Cordeiro
+
 Mirella afirmou que a escolha dos nomes foi baseada na competência técnica e no compromisso com os desafios de Olinda. O novo secretariado deverá ser empossado no primeiro dia de janeiro, quando os trabalhos oficiais da gestão terão início.
