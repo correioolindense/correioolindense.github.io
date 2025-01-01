@@ -15,3 +15,5 @@ Na sequência, a vereadora Eugênia reforçou a necessidade de um trabalho colab
 Encerrando os pronunciamentos, a prefeita Mirella fez um discurso inspirador, ressaltando o compromisso com a cidade de Olinda e o orgulho de liderar uma gestão que promete ser marcada por avanços sociais e estruturais. “Nossa missão é trabalhar com responsabilidade e transparência, sempre colocando os olindenses em primeiro lugar. Conto com cada um de vocês para fazer de Olinda uma cidade ainda melhor para se viver”, afirmou.
 
 A posse oficializa o início de um novo ciclo na política olindense, com expectativas voltadas para a atuação conjunta entre o Executivo e o Legislativo. Os discursos reforçaram o compromisso dos eleitos em construir um futuro promissor para a cidade, honrando a tradição histórica e cultural que Olinda representa.
+
+Foto: Breno Mickael
