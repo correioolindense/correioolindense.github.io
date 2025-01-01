@@ -4,7 +4,7 @@ title: "CORREIO OLINDENSE ENCERRA 2024 COM RESULTADOS EXPRESSIVOS E CONSOLIDAÇ�
 categories: [ Olinda , Comunicação ]
 image: assets/images/2025/janeiro/01/01.jpg
 date:   2025-01-01  10:33:00 -0300
-tags: [sticky, featured]
+#tags: [sticky, featured]
 ---
 Lançado em fevereiro de 2024, o Correio Olindense rapidamente se tornou um dos principais veículos de comunicação da cidade de Olinda. Com matérias exclusivas, furos de reportagem e análises aprofundadas, o blog conquistou um público fiel e encerra o ano com números que atestam sua relevância e qualidade no jornalismo.
 
