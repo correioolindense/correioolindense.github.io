@@ -3,7 +3,7 @@ layout: post
 title: "SECRETARIADO DE MIRELLA COMPOSTO MAJORITARIAMENTE POR MULHERES"
 categories: [ Olinda, Gestão ]
 image: assets/images/2025/janeiro/01/05.jpg
-date:   2024-01-01  21:14:00 -0300
+date:   2025-01-01  21:14:00 -0300
 #tags: [sticky, featured]
 ---
 A prefeita Mirella, assumiu a administração de Olinda e já anunciou a composição de seu secretariado, marcando um momento histórico para a cidade. A gestão municipal conta com uma maioria feminina no primeiro escalão: 14 mulheres e 10 homens foram escolhidas para liderar as principais pastas e assessorias da prefeitura.
