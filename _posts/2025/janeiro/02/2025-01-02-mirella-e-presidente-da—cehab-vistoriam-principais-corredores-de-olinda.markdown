@@ -2,7 +2,7 @@
 layout: post
 title: "MIRELLA E PRESIDENTE DA CEHAB VISTORIAM PRINCIPAIS CORREDORES DE OLINDA"
 categories: [ Olinda , Gestão ]
-image: assets/images/2025/janeiro/01/05.jpg
+image: assets/images/2025/janeiro/02/05.jpg
 date:   2025-01-02  16:29:00 -0300
 tags: [sticky, featured]
 ---
