@@ -3,7 +3,7 @@ layout: post
 title: "CHIQUINHO TOMA POSSE COMO VICE-PREFEITO DE OLINDA E PROMETE PRESENÇA NAS COMUNIDADES"
 categories: [ Olinda, Gestão ]
 image: assets/images/2025/janeiro/02/02.jpg
-date:   2024-01-02  10:14:00 -0300
+date:   2025-01-02  10:14:00 -0300
 #tags: [sticky, featured]
 ---
 Ontem, Chiquinho, ex-jogador de futebol com passagem por grandes clubes brasileiros e pela Seleção Brasileira, tomou posse como vice-prefeito de Olinda. Em uma cerimônia marcada por emoção e discursos de compromisso, ele reafirmou seu desejo de atuar diretamente nas periferias da cidade e colaborar com a prefeita Mirella na construção de uma gestão alinhada e focada no bem-estar social.
