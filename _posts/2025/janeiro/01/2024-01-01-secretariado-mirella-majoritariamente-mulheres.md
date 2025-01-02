@@ -6,7 +6,7 @@ image: assets/images/2025/janeiro/01/05.jpg
 date:   2024-01-01  21:14:00 -0300
 #tags: [sticky, featured]
 ---
-A prefeita Mirella, que assumiu a administração de Olinda e já anunciou a composição de seu secretariado, marcando um momento histórico para a cidade. A gestão municipal conta com uma maioria feminina no primeiro escalão: 14 mulheres e 10 homens foram escolhidas para liderar as principais pastas da prefeitura.
+A prefeita Mirella, assumiu a administração de Olinda e já anunciou a composição de seu secretariado, marcando um momento histórico para a cidade. A gestão municipal conta com uma maioria feminina no primeiro escalão: 14 mulheres e 10 homens foram escolhidas para liderar as principais pastas e assessorias da prefeitura.
 
 A decisão reflete o compromisso da prefeita com a valorização das mulheres e a promoção da equidade de gênero na administração pública. “Este é um momento transformador para Olinda. Nosso governo é guiado pelo compromisso com a igualdade, e a presença de tantas mulheres em posições de liderança reforça a importância de valorizar e dar espaço à competência feminina”, afirmou Mirella.
 
