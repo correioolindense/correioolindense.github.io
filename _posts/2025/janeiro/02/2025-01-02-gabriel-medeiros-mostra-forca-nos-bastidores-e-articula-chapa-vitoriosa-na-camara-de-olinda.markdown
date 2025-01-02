@@ -2,7 +2,7 @@
 layout: post
 title: "GABRIEL MEDEIROS MOSTRA FORÇA NOS BASTIDORES E ARTICULA CHAPA VITORIOSA NA CÂMARA DE OLINDA"
 categories: [ Olinda , Legislativo ]
-image: assets/images/2025/janeiro/01/04.jpg
+image: assets/images/2025/janeiro/02/04.jpg
 date:   2025-01-02  14:29:00 -0300
 tags: [sticky, featured]
 ---
