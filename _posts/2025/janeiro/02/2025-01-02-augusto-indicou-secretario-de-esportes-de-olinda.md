@@ -3,7 +3,7 @@ layout: post
 title: "AUGUSTO COUTINHO INDICOU SECRETÁRIO DE ESPORTES DE OLINDA"
 categories: [ Olinda, Gestão ]
 image: assets/images/2025/janeiro/02/01.jpg
-date:   2024-01-02  06:14:00 -0300
+date:   2025-01-02  06:14:00 -0300
 #tags: [sticky, featured]
 ---
 A Secretaria de Esportes de Olinda terá uma nova liderança. Erivaldo Coutinho, ex-presidente do Grande Recife Consórcio de Transporte, foi indicado pelo deputado federal Augusto Coutinho para assumir a pasta. A escolha reforça a influência do parlamentar, consolidada desde o início da administração de Lupércio, em 2017.
