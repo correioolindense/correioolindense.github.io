@@ -4,7 +4,7 @@ title: "MIRELLA E PRESIDENTE DA CEHAB VISTORIAM PRINCIPAIS CORREDORES DE OLINDA"
 categories: [ Olinda , Gestão ]
 image: assets/images/2025/janeiro/02/05.jpg
 date:   2025-01-02  16:29:00 -0300
-tags: [sticky, featured]
+#tags: [sticky, featured]
 ---
 A prefeita de Olinda, Mirella Almeida (PSD), aproveitou o primeiro dia do expediente, nesta quinta-feira (02/01), para fazer uma vistoria em grandes corredores do município. O objetivo é realizar, em parceria com o Governo de Pernambuco, ações de recapeamento em vias do município. Ela esteve acompanhada pelo presidente da Companhia Estadual de Obras e Habitação (Cehab), Paulo Lira.
 
