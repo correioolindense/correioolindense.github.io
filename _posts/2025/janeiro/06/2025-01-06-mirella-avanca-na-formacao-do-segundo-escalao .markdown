@@ -13,7 +13,9 @@ Confira:
 •	Administração: Mara Annunciato
 	
 •	Serviços Públicos: Pedro Amorim
-	
+
+•       Fazenda: Joao Lyra
+
 •	Licitação: Jackson Gutemberg
 
 •	Gestão da Saúde: Eveline Aragão
