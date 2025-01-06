@@ -26,7 +26,7 @@ Confira:
 	
 •	Patrimônio: Odin Neves
 
-•	Urbanização Integrada: Pedro Guerra
+•	Habitação: Pedro Guerra
 
 •	Relações Institucionais: Arlindo Siqueira
 
