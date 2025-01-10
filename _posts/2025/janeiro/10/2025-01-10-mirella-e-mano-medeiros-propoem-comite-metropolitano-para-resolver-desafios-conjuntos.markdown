@@ -8,7 +8,7 @@ tags: [sticky, featured]
 ---
 Os prefeitos Mirella e Mano Medeiros, líderes das duas maiores cidades da região metropolitana após Recife, realizaram um encontro histórico para discutir problemas comuns e buscar soluções integradas para os desafios urbanos. Entre as pautas abordadas estiveram questões fundamentais como saúde, educação, infraestrutura, mobilidade urbana, gestão de resíduos, trânsito, e a engorda das praias da região.
 
-O encontro, realizado hoje, também contou com a presença do engenheiro Evandro Avelar, que, como amigo pessoal dos prefeitos, reforçou sua disposição de colaborar com a elaboração de estratégias e projetos que beneficiem toda a região metropolitana.
+O encontro, realizado ontem, também contou com a presença do engenheiro Evandro Avelar, que, como amigo pessoal dos prefeitos, reforçou sua disposição de colaborar com a elaboração de estratégias e projetos que beneficiem toda a região metropolitana.
 
 **Proposta de Comitê Metropolitano**
 
