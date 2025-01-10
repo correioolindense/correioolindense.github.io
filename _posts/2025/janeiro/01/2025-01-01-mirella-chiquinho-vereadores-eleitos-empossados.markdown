@@ -4,7 +4,7 @@ title: "MIRELLA, CHIQUINHO E OS 17 VEREADORES SÃO EMPOSSADOS"
 categories: [ Olinda , Gestão ]
 image: assets/images/2025/janeiro/01/02.jpg
 date:   2025-01-01  16:33:00 -0300
-tags: [sticky, featured]
+#tags: [sticky, featured]
 ---
 Em uma solenidade marcada por emoção e comprometimento, Mirella e Chiquinho, ao lado dos 17 vereadores eleitos, foram oficialmente empossados na Câmara de Vereadores de Olinda. A sessão solene foi conduzida pelo presidente da Casa, Saulo Holanda.
 
