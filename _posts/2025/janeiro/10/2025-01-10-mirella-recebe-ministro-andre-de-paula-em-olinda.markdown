@@ -4,7 +4,7 @@ title: "MIRELLA RECEBE MINISTRO ANDRÉ DE PAULA"
 categories: [ Olinda , Gestão ]
 image: assets/images/2025/janeiro/10/02.jpg
 date:   2025-01-10  16:12:00 -0300
-tags: [sticky, featured]
+#tags: [sticky, featured]
 ---
 A prefeita de Olinda, Mirella Almeida (PSD), recebeu, nesta sexta-feira (10/01), o ministro da Pesca e Aquicultura, André de Paula. Correligionário e presidente estadual do PSD, André está iniciando uma série de visitas a municípios e escolheu a Marim dos Caetés como cidade inicial.
 
