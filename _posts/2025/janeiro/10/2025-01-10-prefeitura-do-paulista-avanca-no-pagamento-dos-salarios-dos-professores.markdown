@@ -4,7 +4,7 @@ title: "PREFEITURA DO PAULISTA AVANÇA NO PAGAMENTO DOS SALÁRIOS DOS PROFESSORE
 categories: [ Paulista , Gestão ]
 image: assets/images/2025/janeiro/10/04.jpg
 date:   2025-01-10  21:40:00 -0300
-tags: [sticky, featured]
+#tags: [sticky, featured]
 ---
 A Prefeitura do Paulista segue avançando na regularização dos salários atrasados dos servidores municipais. Nesta sexta-feira (10), foi priorizado o pagamento dos professores da rede municipal, utilizando recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica (Fundeb).
 
