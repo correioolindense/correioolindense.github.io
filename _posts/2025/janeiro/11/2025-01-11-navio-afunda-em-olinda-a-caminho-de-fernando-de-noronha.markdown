@@ -4,7 +4,7 @@ title: "NAVIO AFUNDA EM OLINDA A CAMINHO DE FERNANDO DE NORONHA"
 categories: [ Olinda , Geral ]
 image: assets/images/2025/janeiro/11/01.jpg
 date:   2025-01-11  12:40:00 -0300
-tags: [sticky, featured]
+#tags: [sticky, featured]
 ---
 Na noite da última sexta-feira (10), um navio de carga naufragou enquanto seguia para a Ilha de Fernando de Noronha. Segundo informações da Marinha do Brasil, a embarcação estava a cerca de três milhas náuticas (aproximadamente cinco quilômetros) da Praia de Casa Caiada, em Olinda, quando o incidente ocorreu.
 
