@@ -4,7 +4,7 @@ title: "PROFESSOR MARCELO COTADO PARA ASSUMIR SECRETARIA DE ESPORTES DE PERNAMBU
 categories: [ Pernambuco , Gestão ]
 image: assets/images/2025/janeiro/10/03.jpg
 date:   2025-01-10  16:40:00 -0300
-tags: [sticky, featured]
+#tags: [sticky, featured]
 ---
 Com a recente divisão da Secretaria de Educação e Esportes de Pernambuco, o vereador de Olinda, Professor Marcelo, desponta como o principal nome para assumir a nova Secretaria de Esportes. O parlamentar, que é professor de educação física, possui forte vínculo com a área esportiva, é vereador pelo PSD e amigo pessoal do vice líder do governo Joãozinho Tenório, com isso deve ocupar o cargo.
 
