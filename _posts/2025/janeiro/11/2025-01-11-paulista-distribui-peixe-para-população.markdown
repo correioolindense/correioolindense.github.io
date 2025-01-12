@@ -4,7 +4,7 @@ title: "PREFEITURA DO PAULISTA DISTRIBUI PEIXE PARA POPULAÇÃO"
 categories: [ Paulista , Social ]
 image: assets/images/2025/janeiro/11/02.jpg
 date:   2025-01-11  13:40:00 -0300
-tags: [sticky, featured]
+#tags: [sticky, featured]
 ---
 A Prefeitura de Paulista, por meio da Secretaria de Políticas Sociais e Direitos Humanos, iniciou neste sábado (11) a distribuição de 1.800 quilos de peixe doados pela empresa Romaguera Pescados. Cerca de 600 quilos foram entregues nas comunidades dos Canos, em Jardim Paulista, e da Vargem, em Paratibe, beneficiando famílias em situação de vulnerabilidade social.
 
