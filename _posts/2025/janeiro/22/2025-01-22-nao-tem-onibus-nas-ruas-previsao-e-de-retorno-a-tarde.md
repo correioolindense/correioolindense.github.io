@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NÃO TEM ÔNIBUS NAS RUAS; RAQUEL NÃO EFETUOU O REPASSE DO SUBSÍDIO"
+title: "NÃO TEM ÔNIBUS NAS RUAS; PREVISÃO É DE RETORNO A TARDE"
 categories: [ Olinda , Transporte ]
 image: assets/images/2025/janeiro/22/01.jpg
 date:   2025-01-22  08:00:00 -0300
