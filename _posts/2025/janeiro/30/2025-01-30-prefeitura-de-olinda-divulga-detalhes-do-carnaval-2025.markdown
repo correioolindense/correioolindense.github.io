@@ -8,7 +8,7 @@ tags: [sticky, featured]
 ---
 Na manhã desta quinta-feira (30), a Prefeitura de Olinda reuniu imprensa e autoridades para anunciar os detalhes do Carnaval 2025, que terá como tema “Todos Juntos Numa Só Alegria”. A festa, reconhecida como uma das mais autênticas do país, terá identidade visual assinada pelo artista Raoni Assis, com inspiração nos azulejos portugueses, grades trabalhadas do Sítio Histórico e ícones carnavalescos, como as sombrinhas de frevo e a máscara da La Ursa.
 
-O Carnaval de Olinda terá sua abertura oficial na terça-feira, 27 de fevereiro, com um espetáculo grandioso no Largo do Amparo, a partir das 15h. Mais de 500 passistas e 90 músicos desfilarão pelas ladeiras, passando pelos Quatro Cantos, Prefeitura, Rua 27 de Janeiro e finalizando na Praça do Carmo, onde os palcos darão início à programação oficial.
+O Carnaval de Olinda terá sua abertura oficial na quinta-feira, 27 de fevereiro, com um espetáculo grandioso no Largo do Amparo, a partir das 15h. Mais de 500 passistas e 90 músicos desfilarão pelas ladeiras, passando pelos Quatro Cantos, Prefeitura, Rua 27 de Janeiro e finalizando na Praça do Carmo, onde os palcos darão início à programação oficial.
 
 Grupos e companhias tradicionais do frevo, como Frevo Kids, Frevarte, Cia Passo nas Ladeiras, Brincantes das Ladeiras e Frevança, entre outros, marcarão presença na celebração. A trilha sonora ficará por conta de três renomadas orquestras: Maestro Carlos, Henrique Dias e Maestro Oséas, garantindo um verdadeiro espetáculo de ritmos.
 
