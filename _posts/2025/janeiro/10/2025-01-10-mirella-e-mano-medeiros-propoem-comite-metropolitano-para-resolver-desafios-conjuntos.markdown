@@ -4,7 +4,7 @@ title: "MIRELLA E MANO MEDEIROS PROPÕEM COMITÊ METROPOLITANO PARA RESOLVER DES
 categories: [ Pernambuco , Gestão ]
 image: assets/images/2025/janeiro/10/01.jpg
 date:   2025-01-10  07:12:00 -0300
-tags: [sticky, featured]
+tags: [ featured ]
 ---
 Os prefeitos Mirella e Mano Medeiros, líderes das duas maiores cidades da região metropolitana após Recife, realizaram um encontro histórico para discutir problemas comuns e buscar soluções integradas para os desafios urbanos. Entre as pautas abordadas estiveram questões fundamentais como saúde, educação, infraestrutura, mobilidade urbana, gestão de resíduos, trânsito, e a engorda das praias da região.
 
