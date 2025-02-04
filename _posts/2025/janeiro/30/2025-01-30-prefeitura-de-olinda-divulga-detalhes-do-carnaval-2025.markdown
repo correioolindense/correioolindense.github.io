@@ -4,7 +4,7 @@ title: "PREFEITURA DE OLINDA DIVULGA DETALHES DO CARNAVAL 2025"
 categories: [ Olinda , Cultura ]
 image: assets/images/2025/janeiro/30/01.jpg
 date:   2025-01-30  10:10:00 -0300
-tags: [sticky, featured]
+#tags: [ featured ]
 ---
 Na manhã desta quinta-feira (30), a Prefeitura de Olinda reuniu imprensa e autoridades para anunciar os detalhes do Carnaval 2025, que terá como tema “Todos Juntos Numa Só Alegria”. A festa, reconhecida como uma das mais autênticas do país, terá identidade visual assinada pelo artista Raoni Assis, com inspiração nos azulejos portugueses, grades trabalhadas do Sítio Histórico e ícones carnavalescos, como as sombrinhas de frevo e a máscara da La Ursa.
 
