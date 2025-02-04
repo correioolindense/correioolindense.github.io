@@ -8460,3 +8460,72 @@ html {
     align-self: baseline !important; }
   .align-self-xl-stretch {
     align-self: stretch !important; } }
+
+.img-fixed {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+.ad-container-principal {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.ad-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%; /* Largura total para telas pequenas */
+  max-width: 758px; /* Largura máxima para telas maiores */
+  height: 154px;
+  overflow: hidden;
+}
+
+.ad-image {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+@media (min-width: 576px) {
+  .ad-container-principal {
+    flex-direction: column; /* Exibe os anúncios lado a lado */
+    justify-content: space-between;
+  }
+
+  .ad-container {
+    height: auto; /* Ajusta a altura automaticamente para manter a proporção */
+    max-width: 758px; /* Limita a largura para evitar expansão além do tamanho desejado */
+  }
+}
+
+footer {
+  padding: 10px 0; /* Reduzindo o padding do footer */
+}
+
+footer .container {
+  padding: 0 15px; /* Ajustando o padding da container */
+}
+
+footer .footer-content {
+  display: flex;
+  justify-content: space-between; /* Alinha os itens na mesma linha */
+  align-items: center; /* Alinha os itens verticalmente */
+  flex-wrap: wrap; /* Permite a quebra de linha em telas pequenas */
+}
+
+footer .footer-logo, footer .footer-dev {
+  display: flex;
+  align-items: center;
+}
+
+footer .footer-logo img, footer .footer-dev img {
+  margin-right: 10px; /* Adiciona um espaço entre os logos e o texto */
+}
+
+footer .footer-dev {
+  text-align: center; /* Alinha o texto à direita */
+  margin-left: 10px; /* Adiciona margem esquerda para espaçamento */
+}
