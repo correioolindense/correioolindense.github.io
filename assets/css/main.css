@@ -8529,12 +8529,3 @@ footer .footer-dev {
   text-align: center; /* Alinha o texto à direita */
   margin-left: 10px; /* Adiciona margem esquerda para espaçamento */
 }
-
-.pagination {
-  flex-wrap: wrap; /* Faz com que as páginas quebrem para a linha de baixo caso necessário */
-  overflow: hidden;
-}
-
-.pagination .page-item {
-  flex-shrink: 0; /* Evita que as páginas fiquem esmagadas em telas pequenas */
-}
