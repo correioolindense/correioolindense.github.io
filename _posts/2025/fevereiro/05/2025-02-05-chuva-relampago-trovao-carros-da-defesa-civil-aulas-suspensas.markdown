@@ -2,7 +2,7 @@
 layout: post
 title: "CHUVA, RELÂMPAGO, TROVÃO, CARROS DA DEFESA CIVIL E AULAS SUSPENSAS: OLINDENSES PASSAM UM DIA ATÍPICO"
 categories: [ Olinda , Cidades ]
-image: assets/images/2025/fevereiro/04/01.jpg
+image: assets/images/2025/fevereiro/05/01.jpg
 date:   2025-02-05  11:01:00 -0300
 #tags: [sticky, featured]
 ---
