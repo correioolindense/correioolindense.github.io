@@ -8529,3 +8529,17 @@ footer .footer-dev {
   text-align: center; /* Alinha o texto à direita */
   margin-left: 10px; /* Adiciona margem esquerda para espaçamento */
 }
+
+.row.g-0:hover .img-fixed {
+  transform: scale(1.05);
+  opacity: 0.9;
+  transition: transform 1.0s ease, opacity 1.0s ease, box-shadow 1.0s ease;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+}
+
+.col-md-6:hover .topfirstimage {
+  transform: scale(1.05);
+  opacity: 0.9;
+  transition: transform 1.0s ease, opacity 1.0s ease, box-shadow 1.0s ease;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+}
