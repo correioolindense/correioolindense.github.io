@@ -11,7 +11,7 @@ description: "#"
    <div class="row remove-site-content-margin">
       <!-- latest post -->
       {% assign latest_post = site.posts[0] %}
-      <div class="col-md-6 g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relativer">
+      <div class="col-md-6 g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relativer color-base-box">
          <div class="card border-0 mb-4 box-shadow">   
             <a href="{{site.baseurl}}{{latest_post.url}}">
             <div class="topfirstimage" style="background-image: url({% if latest_post.image contains "://" %}{{ latest_post.image }}{% else %} {{site.baseurl}}/{{ latest_post.image}}{% endif %}); min-height: 264px;    background-size: cover;    background-repeat: no-repeat;">
@@ -42,7 +42,7 @@ description: "#"
    <div class="col-md-6">
       <!-- second latest post -->
       {%- assign second_post = site.posts[1] -%}        
-      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relativer">
+      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relativer color-base-box">
          {% if second_post.image %}
          <div class="col-4 d-none d-lg-block" style="border-radius: 5px; box-sizing: border-box; overflow: hidden; width: 159px; height: 156px;">
             <a href="{{site.baseurl}}{{second_post.url}}">
@@ -68,7 +68,7 @@ description: "#"
       </div>
       <!-- third latest post -->
       {%- assign third_post = site.posts[2] -%}        
-      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relativer">
+      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relativer color-base-box">
          {% if third_post.image %}
          <div class="col-4 d-none d-lg-block" style="border-radius: 5px; box-sizing: border-box; overflow: hidden; width: 159px; height: 156px;">
             <a href="{{site.baseurl}}{{third_post.url}}">
@@ -94,7 +94,7 @@ description: "#"
       </div>
       <!-- fourth latest post -->
       {%- assign fourth_post = site.posts[3] -%}        
-      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relativer">
+      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relativer color-base-box">
          {% if fourth_post.image %}
          <div class="col-4 d-none d-lg-block" style="border-radius: 5px; box-sizing: border-box; overflow: hidden; width: 159px; height: 156px;">
             <a href="{{site.baseurl}}{{fourth_post.url}}">
@@ -123,7 +123,7 @@ description: "#"
 <!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
 {% for post in site.posts %} 
 {% if post.tags contains "sticky" %}
-<div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-lightblue position-relative">
+<div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-lightblue position-relative color-base-box">
    <div class="pl-4 pr-0 h-100 tofront">
       <div class="row justify-content-between">
          <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
