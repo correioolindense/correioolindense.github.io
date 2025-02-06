@@ -2,7 +2,7 @@
 layout: post
 title: "CÂMARA DE OLINDA APROVA DIA MUNICIPAL DE DEFESA DAS PRERROGATIVAS DA ADVOCACIA"
 categories: [ Olinda , Legislativo ]
-image: assets/images/2025/fevereiro/06/02.jpg
+image: assets/images/2025/fevereiro/06/03.jpg
 date:   2025-02-06  15:01:00 -0300
 #tags: [sticky, featured]
 ---
