@@ -6,7 +6,7 @@ image: assets/images/2025/fevereiro/10/02.jpg
 date:   2025-02-10  08:29:00 -0300
 #tags: [sticky, featured]
 ---
-A prefeita de Olinda, Mirella, anunciou nesta segunda-feira (10), ao lado do secretário de Cultura, Luiz Adolpho, da secretária de Desenvolvimento Econômico, Gabriella Campelo, e da secretária de Comunicação, Marília Banholzer, os homenageados do Carnaval de Olinda 2025. Os escolhidos foram o Maestro Carlos e Roberta Pessoa, fundadora do bloco Soul Delas. A votação popular registrou mais de 108 mil votos, computados nos três totens espalhados pela cidade e no site oficial da prefeitura.
+A prefeita de Olinda, Mirella, e o secretário de cultura Luiz Adolpho anunciaram nesta segunda-feira (10), ao lado da secretária de Desenvolvimento Econômico, Gabriella Campelo, e da secretária de Comunicação, Marília Banholzer, os homenageados do Carnaval de Olinda 2025. Os escolhidos foram o Maestro Carlos e Roberta Pessoa, fundadora do bloco Soul Delas. A votação popular registrou mais de 108 mil votos, computados nos três totens espalhados pela cidade e no site oficial da prefeitura.
 
 Maestro Carlos, 59 anos, dedicou sua vida ao frevo e ao Carnaval de Olinda. Começou na banda marcial de uma escola pública e passou por agremiações como Bacalhau do Batata, Homem da Meia-Noite, Cariri Olindense, Vassourinhas e Pitombeiras. Além de músico, é instrutor e se orgulha de ver seus alunos brilhando nas principais orquestras da cidade. Sua indicação como homenageado reconhece décadas de contribuição para a cultura carnavalesca.
 
