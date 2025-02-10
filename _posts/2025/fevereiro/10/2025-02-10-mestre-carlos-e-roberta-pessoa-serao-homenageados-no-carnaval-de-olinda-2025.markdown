@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MESTRE CARLOS E ROBERTA PESSOA SERÃO HOMENAGEADOS NO CARNAVAL DE OLINDA 2025"
+title: "MAESTRO CARLOS E ROBERTA PESSOA SERÃO HOMENAGEADOS NO CARNAVAL DE OLINDA 2025"
 categories: [ Olinda , Carnaval ]
 image: assets/images/2025/fevereiro/10/02.jpg
 date:   2025-02-10  08:29:00 -0300
