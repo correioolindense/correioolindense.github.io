@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CARNAVAL 2025: RAQUEL LYRA E MIRELLA ANUNCIAM ABERTURA DA FOLIA EM OLINDA"
+title: "CARNAVAL 2025: RAQUEL LYRA E MIRELLA ANUNCIAM ABERTURA DA FOLIA DE PERNAMBUCO EM OLINDA"
 categories: [ Olinda , Cultura ]
 image: assets/images/2025/fevereiro/11/02.jpg
 date:   2025-02-11  17:15:00 -0300
