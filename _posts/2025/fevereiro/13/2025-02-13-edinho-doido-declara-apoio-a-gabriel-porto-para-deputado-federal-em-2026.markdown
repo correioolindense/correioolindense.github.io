@@ -6,7 +6,7 @@ image: assets/images/2025/fevereiro/13/01.jpg
 date:   2025-02-13  18:15:00 -0300
 #tags: [sticky, featured]
 ---
-O suplente de vereador Edinho Doido (DC), liderança política atuante nos bairros de Sapucaia e Aguazinha, em Olinda, anunciou seu apoio ao pré-candidato a deputado federal Gabriel Porto para as eleições de 2026.
+O suplente de vereador Edinho Doido (DC), liderança política atuante nos bairros de Sapucaia e Aguazinha, em Olinda, e que ficou na primeira suplência de vereador do seu partido, anunciou seu apoio ao pré-candidato a deputado federal Gabriel Porto para as eleições de 2026.
 
 Edinho Doido conquistou mais de 2 mil votos na última eleição municipal, consolidando-se como uma força política. Seu apoio pode ser um impulso importante para Gabriel Porto, que busca fortalecer sua base na cidade.
 
