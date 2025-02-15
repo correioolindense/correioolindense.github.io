@@ -12,6 +12,8 @@ Embora não tenha declarado oficialmente sua intenção de concorrer, a presenç
 
 “A gente vê a importância do professor Lupércio na política de Pernambuco. Esse encontro demonstra que há um grupo forte ao seu lado, pronto para apoiá-lo em qualquer desafio que venha pela frente”, afirmou Don do Gás.
 
+O evento que também pode ser chamado de confraternização teve ainda um torneio de dominó de duplas que sagrou campeões os suplentes Delson do Plano de Saúde e Renne Galindo.
+
 Procurado pela imprensa, Professor Lupércio não retornou os contatos. Nos bastidores, aliados afirmam que ele mantém conversas com diferentes lideranças e pode entrar na disputa ao Senado com apoio de importantes figuras da política.
 
 As eleições de 2026 ainda estão distantes, mas os movimentos políticos já indicam que a corrida por uma das vagas ao Senado será intensa.
