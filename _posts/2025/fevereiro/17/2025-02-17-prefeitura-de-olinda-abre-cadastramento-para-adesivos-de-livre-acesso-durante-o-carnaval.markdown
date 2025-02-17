@@ -15,15 +15,22 @@ Neste ano, a entrega dos adesivos será realizada em dois locais para descentral
 Para garantir o livre acesso à área restrita, os moradores devem apresentar a seguinte documentação:
 
 **Proprietário:**
+
 Comprovante de residência atualizado (Neoenergia, Compesa ou IPTU);
+
 Documento de propriedade do imóvel (escritura, contrato de compra e venda, etc.);
+
 Certificado de Registro e Licenciamento do Veículo (CRLV 2024/2025);
+
 RG e CPF.
 
 **Locatário:**
+
 Comprovante de residência atualizado;
 Contrato de locação registrado em cartório;
+
 CRLV atualizado;
+
 RG e CPF.
 
 Cada residência poderá receber até dois adesivos, exclusivamente para veículos de passeio do tipo automóvel. Não será permitida a entrega dos adesivos a terceiros, exceto para pessoas cadastradas como recebedores.
@@ -34,7 +41,9 @@ As pessoas jurídicas e Microempreendedores Individuais (MEIs) que prestam servi
 Para isso, devem apresentar:
 
 Contrato Social da empresa ou CCMEI;
+
 RG e CPF do representante legal;
+
 CRLV atualizado.
 
 No caso de hotéis e pousadas, será necessário fornecer uma listagem detalhada com as placas dos veículos de hóspedes, empregados e fornecedores.
@@ -45,7 +54,9 @@ Os adesivos de veículos especiais serão concedidos a autoridades, órgãos pú
 Já os adesivos para veículos de abastecimento são destinados a barracas, food trucks e ambulantes cadastrados na Secretaria de Controle Urbano de Olinda. Esse adesivo dará acesso à área restrita apenas no horário das 4h às 9h da manhã. Para obtê-lo, o solicitante deverá apresentar:
 
 Crachá emitido pela Secretaria de Controle Urbano;
+
 RG e CPF;
+
 CRLV atualizado.
 
 Para todos os casos, o preenchimento completo do cadastro e a apresentação de toda a documentação exigida são obrigatórios. Os solicitantes devem ficar atentos ao prazo final de cadastramento.
