@@ -6,7 +6,7 @@ image: assets/images/2025/janeiro/30/02.jpg
 date:   2025-01-30  13:00:00 -0300
 #tags: [sticky, featured]
 ---
-O Carnaval de Olinda, um dos mais tradicionais do Brasil, conquistou a confiança de grandes marcas para sua edição de 2025. Empresas como Amstel, Esportes da Sorte, Coca-Cola, Red Bull, Cheetos, Pitú e Schweppes serão as patrocinadoras oficiais da folia, reforçando a importância do evento no cenário nacional.
+O Carnaval de Olinda, um dos mais tradicionais do Brasil, conquistou a confiança de grandes marcas para sua edição de 2025. Empresas como Amstel, Esportes da Sorte, Coca-Cola, Red Bull, Cheetos, Pitú, Caixa Econômica Federal, Fireball e Schweppes serão as patrocinadoras oficiais da folia, reforçando a importância do evento no cenário nacional.
 
 A parceria garante que, entre os dias 27 de fevereiro e 5 de março, os comerciantes do perímetro do Sítio Histórico de Olinda só poderão vender exclusivamente os produtos dessas marcas. A medida faz parte do acordo de patrocínio, garantindo visibilidade para as empresas e padronizando a oferta de bebidas e alimentos dentro do evento.
 
