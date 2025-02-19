@@ -34,6 +34,7 @@ Raphaela Santos - A Favorita
 
 Alceu Valença
 
+
 SEXTA - 28 DE FEVEREIRO
 
 Orquestra de Frevo Zezé Correa
@@ -46,6 +47,7 @@ Taynara Andreza
 
 Priscila Senna
 
+
 SÁBADO - 01 DE MARÇO
 
 Orquestra Malassombro
@@ -55,6 +57,7 @@ Nonô Germano
 Nena Queiroga
 
 Elba Ramalho
+
 
 DOMINGO - 02 DE MARÇO
 
@@ -70,6 +73,7 @@ Teto
 
 Maneva
 
+
 SEGUNDA - 03 DE MARÇO
 
 Orquestra de Bolso
@@ -81,6 +85,7 @@ Romero Ferro
 Duda Beat
 
 Luiza Sonza 
+
 
 TERÇA - 04 DE MARÇO
 
@@ -95,6 +100,7 @@ Almerio
 Geraldo Azevedo
 
 João Gomes
+
 
 QUARTA - 05 DE MARÇO
 
@@ -128,6 +134,7 @@ Afoxé Alafin Oyó
 
 Maracatu Piaba de Ouro
 
+
 SEGUNDA - 3 de Março
 
 Família Salustiano e a Rabeca Encantada
@@ -160,6 +167,7 @@ Lu Maciel
 
 Maciel Salú
 
+
 DOMINGO - 2 de Março
 
 Afoxé Alafin Oyó 
@@ -174,6 +182,7 @@ Nádia Maia
 
 Orquestra Latinolindense
 
+
 SEGUNDA 3 de Março
 
 Gustavo da Lua
@@ -187,6 +196,7 @@ Orquestra do Avesso
 Juba 
 
 Rogério Rangel
+
 
 TERÇA 4 de Março
 
@@ -222,6 +232,7 @@ Maracatu Nação Pernambuco
 
 Cris Galvão
 
+
 DOMINGO - 02 DE MARÇO
 
 Bloco Lírico Eu Quero Mais
@@ -250,6 +261,7 @@ Banda Abé Adú Lofé
 Marcio Rastama
 
 Zuza Miranda
+
 
 TERÇA-FEIRA - 04 DE MARÇO
 
@@ -299,6 +311,7 @@ Katyucia
 As Yabás do Samba
 
 Banda Afro Abé Adulofé
+
 
 QUARTA-FEIRA - 05 DE MARÇO
 
@@ -350,6 +363,7 @@ Portozero
 
 Coco das Mulheres
 
+
 SEGUNDA - 03 DE MARÇO
 
 Maracatu Nação Tigre 
@@ -363,6 +377,7 @@ Banda Etnia
 Banda Suprema Corte 
 
 Coco Raízes de Arcoverde
+
 
 TERÇA-FEIRA - 04 DE MARÇO
 
@@ -404,6 +419,7 @@ Pegada Prime
 
 Mc Gibizinho
 
+
 DOMINGO - 02 DE MARÇO
 
 Mano de Bae
@@ -411,6 +427,7 @@ Mano de Bae
 Sensação
 
 Netinho Xote 10
+
 
 SEGUNDA - 03 DE MARÇO
 
@@ -425,6 +442,7 @@ Amarula
 Andinho Safadinho
 
 PV Calado
+
 
 TERÇA - 04 DE MARÇO
 
