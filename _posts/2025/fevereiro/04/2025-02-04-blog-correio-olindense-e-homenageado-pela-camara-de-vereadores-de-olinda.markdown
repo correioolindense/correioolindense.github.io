@@ -4,7 +4,7 @@ title: "BLOG CORREIO OLINDENSE É HOMENAGEADO PELA CÂMARA DE VEREADORES DE OLIN
 categories: [ Olinda , Política ]
 image: assets/images/2025/fevereiro/04/02.jpg
 date:   2025-02-04  13:01:00 -0300
-tags: [sticky, featured]
+#tags: [sticky, featured]
 ---
 Em comemoração ao seu primeiro ano de existência, o blog Correio Olindense será homenageado pela Câmara de Vereadores de Olinda em uma sessão solene. A iniciativa visa reconhecer o trabalho diário de divulgação de notícias, que vem se consolidando como referência no cenário da comunicação.
 
