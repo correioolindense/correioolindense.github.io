@@ -3,7 +3,7 @@ layout: post
 title: "GATI HOMENAGEADO NA CÂMARA DE OLINDA POR SEU TRABALHO EM PROL DA SEGURANÇA"
 categories: [ Olinda , Legislativo ]
 image: assets/images/2025/fevereiro/21/01.jpg
-date:   2025-02-21  10:30:00 -0300
+date:   2025-02-21  09:38:00 -0300
 #tags: [sticky, featured]
 ---
 Em sessão realizada ontem na Câmara Municipal de Olinda, o Grupo de Apoio Tático Itinerante (GATI) foi homenageado com um Voto de Aplauso em reconhecimento aos relevantes serviços prestados à segurança pública da cidade.
