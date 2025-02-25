@@ -8,7 +8,7 @@ date:   2025-02-25  12:10:00 -0300
 ---
 As ladeiras históricas de Olinda vão ferver ao som do brega e do romântico no tradicional Bloco da Câmara de Olinda, que desde 1986 anima os foliões durante o Carnaval. Este ano, o bloco traz atrações de peso para garantir a festa na sexta-feira de Carnaval, dia 28 de fevereiro.
 
-Sob a organização de Danni Feitosa e Manu Labanca, o bloco terá como destaques o irreverente Conde Só Brega, referência do brega pernambucano, e a clássica Banda Labaredas, conhecida por embalar corações com seus sucessos românticos. Juntos, eles prometem transformar o evento em um verdadeiro baile a céu aberto.
+Sob a organização de Dani Feitosa e Manu Labanca, o bloco terá como destaques o irreverente Conde Só Brega, referência do brega pernambucano, e a clássica Banda Labaredas, conhecida por embalar corações com seus sucessos românticos. Juntos, eles prometem transformar o evento em um verdadeiro baile a céu aberto.
 
 O evento, tradicionalmente dedicado aos servidores da Câmara Municipal de Olinda, também é aberto ao público em geral. Para participar, basta **adquirir a camisa do bloco, que dá acesso à folia**.
 
