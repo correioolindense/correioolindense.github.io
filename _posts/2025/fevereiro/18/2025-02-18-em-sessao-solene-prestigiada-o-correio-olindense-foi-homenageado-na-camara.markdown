@@ -4,7 +4,7 @@ title: "EM SESSÃO SOLENE PRESTIGIADA O CORREIO OLINDENSE FOI HOMENAGEADO NA CÂ
 categories: [ Olinda , Comunicação ]
 image: assets/images/2025/fevereiro/18/01.jpg
 date:   2025-02-18  00:01:00 -0300
-tags: [sticky, featured]
+#tags: [sticky, featured]
 ---
 O blog Correio Olindense foi homenageado numa sessão solene da Câmara Municipal em reconhecimento ao seu primeiro ano de atuação na cobertura política e jornalística da cidade. A solenidade, realizada em um clima de prestígio e reconhecimento, contou com a presença de diversas autoridades, vereadores, secretários municipais e amigos do editor-chefe do blog, Alexandre Santos.
 
