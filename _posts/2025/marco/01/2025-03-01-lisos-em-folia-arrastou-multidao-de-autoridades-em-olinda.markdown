@@ -2,7 +2,7 @@
 layout: post
 title: "LISOS EM FOLIA ARRASTOU MULTIDÃO DE AUTORIDADES EM OLINDA"
 categories: [ Olinda , Carnaval ]
-image: assets/images/2025/março/01/01.jpg
+image: assets/images/2025/marco/01/01.jpg
 date:   2025-03-01  12:00:00 -0300
 #tags: [sticky, featured]
 ---
