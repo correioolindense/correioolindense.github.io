@@ -4,7 +4,7 @@ title: "MANSÃO DA MATUTA PROMETE QUATRO DIAS DE FESTA, CULTURA E CONFORTO NO CO
 categories: [ Olinda , Carnaval ]
 image: assets/images/2025/fevereiro/25/01.jpg
 date:   2025-02-25  05:30:00 -0300
-tags: [sticky, featured]
+#tags: [sticky, featured]
 ---
 Prepare-se para viver o verdadeiro espírito do Carnaval em grande estilo! A Mansão da Matuta abre suas portas para um Day Use especial entre os dias 01 e 04 de março, oferecendo uma programação inesquecível que une cultura, música, conforto e muita diversão. A mansão fica na Rua do Bonfim, 82 - Bairro do Carmo.
 
