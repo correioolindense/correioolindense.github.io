@@ -12,7 +12,7 @@ A controvérsia começou na 4ª sessão ordinária, dia 18 de fevereiro, quando 
 
 O vereador Jesuíno, tentou argumentar com a parlamentar sobre a regra do regimento, mas Eugênia não aceitou a justificativa. A discussão foi transmitida ao vivo pelos canais oficiais da Câmara, tornando-se pública.
 
-O embate mais recente ocorreu no final da 6ª sessão ordinária, ontem, dia 11 de março, que era presidida pelo vereador Professor Marcelo, 1° Vice Presidente. De acordo com o regimento, seis partidos têm direito a utilizar 15 minutos cada para discursos, podendo dividir esse tempo entre seus vereadores caso haja mais de um representante, desde que haja um alinhamento prévio entre os correligionários.
+O embate mais recente ocorreu no final da 6ª sessão ordinária, ontem, dia 11 de março. De acordo com o regimento, seis partidos têm direito a utilizar 15 minutos cada para discursos, podendo dividir esse tempo entre seus vereadores caso haja mais de um representante, desde que haja um alinhamento prévio entre os correligionários.
 
 A vereadora Eugênia afirma que havia se inscrito para discursar, sendo a sexta da lista, mas que a sessão foi encerrada antes que ela pudesse falar. Para a parlamentar, isso configura uma tentativa de silenciar sua voz dentro do legislativo.
 
