@@ -8,7 +8,7 @@ date:   2024-02-03 00:07:00 -0300
 
 Olinda, conhecida por seu Carnaval único e envolvente, está se preparando para mais uma festa memorável que reflete a alma pulsante da cidade. A abertura, marcada para 8 de fevereiro, trará um Cortejo Especial com os ilustres Patrimônios Vivos de Pernambuco: Homem da Meia-Noite, Elefante de Olinda, Pitombeira dos Quatro Cantos e a TCM Cariri Olindense. Às 17h, a concentração nos Quatro Cantos será seguida por um desfile pelas ruas do Sítio Histórico, passando pela Ribeira, Prefeitura, Pitombeira e encerrando no Carmo, onde, às 17h, Ed Carlos abrirá os shows.
 
-Na sexta-feira, reviveremos o sucesso da noite do brega de 2023, a partir das 17h, prometendo uma jornada musical envolvente, com Tocha, Sheldon, Raphaella Santos e Priscila Senna.
+Na _sexta-feira_, reviveremos o sucesso da noite do brega de 2023, a partir das 17h, prometendo uma jornada musical envolvente, com Tocha, Sheldon, Raphaella Santos e Priscila Senna.
 
 O Carnaval se desdobrará em sete polos, incluindo locais como Carmo, Guadalupe, Varadouro (em frente ao Eufrásio), Rio Doce, Xambá, Alafin Oyó e o Polo de Acolhimento no Clube Atlântico, com destaque para o Camarote de Acessibilidade.
 
