@@ -8,11 +8,11 @@ date:   2025-03-12  11:00:00 -0300
 ---
 As sessões da Câmara Municipal têm sido palco de intensas discussões entre os vereadores devido a interpretações do regimento interno, especialmente no que diz respeito aos direitos e deveres das federações partidárias. O debate mais recente envolveu a vereadora Eugênia (PT), que alega ter sido impedida de exercer seu direito à fala, e afirma ser vítima de violência política de gênero. A Câmara, por sua vez, nega a acusação.
 
-A controvérsia começou na 4ª sessão ordinária, quando a vereadora Eugênia questionou o tempo concedido para seu discurso. Para ela, o tempo deveria ser calculado com base em cada partido individualmente, enquanto o regimento interno entende a federação partidária como um único partido, o que reduz a quantidade de tempo disponível para seus integrantes.
+A controvérsia começou na 4ª sessão ordinária, dia 18 de fevereiro, quando a vereadora Eugênia questionou o tempo concedido para seu discurso. Para ela, o tempo deveria ser calculado com base em cada partido individualmente, enquanto o regimento interno entende a federação partidária como um único partido, o que reduz a quantidade de tempo disponível para seus integrantes.
 
-O vereador Jesuíno, que presidia a sessão, tentou argumentar com a parlamentar sobre a regra do regimento, mas Eugênia não aceitou a justificativa. A discussão foi transmitida ao vivo pelos canais oficiais da Câmara, tornando-se pública.
+O vereador Jesuíno, tentou argumentar com a parlamentar sobre a regra do regimento, mas Eugênia não aceitou a justificativa. A discussão foi transmitida ao vivo pelos canais oficiais da Câmara, tornando-se pública.
 
-O embate mais recente ocorreu no final da última sessão. De acordo com o regimento, seis partidos têm direito a utilizar 15 minutos cada para discursos, podendo dividir esse tempo entre seus vereadores caso haja mais de um representante, desde que haja um alinhamento prévio entre os correligionários.
+O embate mais recente ocorreu no final da 6ª sessão ordinária, ontem, dia 11 de março, que era presidida pelo vereador Professor Marcelo, 1° Vice Presidente. De acordo com o regimento, seis partidos têm direito a utilizar 15 minutos cada para discursos, podendo dividir esse tempo entre seus vereadores caso haja mais de um representante, desde que haja um alinhamento prévio entre os correligionários.
 
 A vereadora Eugênia afirma que havia se inscrito para discursar, sendo a sexta da lista, mas que a sessão foi encerrada antes que ela pudesse falar. Para a parlamentar, isso configura uma tentativa de silenciar sua voz dentro do legislativo.
 
@@ -24,7 +24,7 @@ Jesuíno Araújo, Líder do governo na câmara e parlamentar que aparece nos ví
 
 Enquanto a polêmica segue, o episódio levanta questões sobre a necessidade de uma revisão clara do regimento interno para evitar interpretações divergentes que possam comprometer o andamento dos trabalhos legislativos.
 
-(**NOTA OFICIAL DE EUGÊNIA LIMA**)
+**NOTA OFICIAL DE EUGÊNIA LIMA**
 
 **Na sessão desta terça-feira (11/03), logo depois de criticar a condução do Carnaval pela Prefeitura de Olinda, fui surpreendida ao ter meu direito de fala na tribuna negado, mesmo inscrita no livro de oradores, como manda o regimento da Câmara.**
 
@@ -36,7 +36,7 @@ Enquanto a polêmica segue, o episódio levanta questões sobre a necessidade de
 
 **Não seremos silenciadas!**
 
-(**NOTA OFICIAL DA CÂMARA**)
+**NOTA OFICIAL DA CÂMARA**
 
 **A Câmara Municipal de Olinda, diante da publicação feita pela vereadora Eugenia Lima em suas redes sociais sobre questões regimentais inerentes ao livro de oradores nas sessões ordinárias, vem esclarecer e trazer a verdade dos fatos a toda a sociedade.**
 
