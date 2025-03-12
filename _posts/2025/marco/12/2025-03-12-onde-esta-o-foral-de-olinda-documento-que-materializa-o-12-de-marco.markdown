@@ -6,7 +6,7 @@ image: assets/images/2025/marco/12/02.jpg
 date:   2025-03-12  16:00:00 -0300
 #tags: [sticky, featured]
 ---
-A outorga do Foral em 1537, feita pelo primeiro donatário, fidalgo de formação européia, estabelece pontes com o mundo peninsular e europeu, ganhando assim inserção no velho continente. O Foral de Olinda confere à povoação o título de Vila e estabelece o seu patrimônio público. Entretanto, não possui a forma dos forais manuelinos e afasta-se dos modelos textuais existentes, apresentado-se como uma carta de doação por não possuir no seu conteúdo a definição dos limites do Termo da Vila, as normas judiciais e penais e a carga fiscal imposta aos moradores.
+A outorga do Foral em 1537, feita pelo primeiro donatário, fidalgo de formação européia, estabelece pontes com o mundo peninsular e europeu, ganhando assim inserção no velho continente. O Foral de Olinda confere à povoação o título de Vila e estabelece o seu patrimônio público. Em Olinda a data de 12 de março é oficial devido ao foral de Olinda que funciona como certidão de nascimento da cidade, no Recife a data é simbólica por não conter nenhum documento oficial que oficialize a data como o dia do nascimento da cidade.
 
 O Foral de 1537 não recebeu, por parte dos primeiros vereadores, o cuidado que requeria o documento original, portanto, em 1550, a Câmara solicitou ao donatário uma cópia do documento, a qual foi tirada do livro de tombo e matrícula da Capitania. Com a invasão holandesa em 1630 e o incêndio em 1631, o documento guardado no arquivo do conselho foi novamente perdido. Em 1654, após a restauração do domínio português em Pernambuco, o texto foi localizado no Mosteiro de São Bento de Olinda e dele foi um traslado em 1672.
 
