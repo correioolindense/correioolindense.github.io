@@ -2,7 +2,7 @@
 layout: post
 title: "PRESIDENTE DO TJPE DESEMBARGADOR RICARDO PAES BARRETO RECEBERÁ TÍTULO DE CIDADÃO OLINDENSE"
 categories: [ Olinda , Legislativo ]
-image: assets/images/2025/marco/19/02.jpg
+image: assets/images/2025/marco/20/01.jpg
 date:   2025-03-20  00:10:00 -0300
 #tags: [sticky, featured]
 ---
