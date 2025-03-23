@@ -14,6 +14,6 @@ Segundo fontes ouvidas pelo Correio Olindense, o requerimento é visto por muito
 
 A movimentação também levanta debates sobre o papel institucional dos títulos de cidadania. Embora tenham valor simbólico, esses reconhecimentos frequentemente são usados como sinalizações políticas. No caso de João Campos, a honraria pode fortalecer sua presença no território olindense, tradicional reduto da esquerda e que terá peso importante nas próximas eleições estaduais.
 
-João Campos, filho do ex-governador Eduardo Campos e neto de Miguel Arraes, vem construindo sua imagem como um político moderno e popular entre os jovens. Em sua gestão no Recife, tem apostado em obras de infraestrutura, projetos de inovação e ações voltadas à juventude — áreas que dialogam diretamente com as demandas históricas de Olinda.
+João Campos, filho do ex-governador Eduardo Campos e bisneto de Miguel Arraes, vem construindo sua imagem como um político moderno e popular entre os jovens. Em sua gestão no Recife, tem apostado em obras de infraestrutura, projetos de inovação e ações voltadas à juventude — áreas que dialogam diretamente com as demandas históricas de Olinda.
 
 A votação do requerimento deve ocorrer nas próximas semanas e, se aprovado, a cerimônia de entrega do título pode se tornar um dos grandes eventos políticos do ano na cidade. O gesto, ao que tudo indica, será mais que uma simples homenagem: será uma sinalização de que Olinda pode estar escolhendo seu lado na disputa pelo futuro de Pernambuco.
