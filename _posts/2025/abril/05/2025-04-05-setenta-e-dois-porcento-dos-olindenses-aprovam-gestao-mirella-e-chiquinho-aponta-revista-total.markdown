@@ -6,7 +6,7 @@ image: assets/images/2025/abril/05/02.jpg
 date:   2025-04-05  20:01:00 -0300
 #tags: [sticky, featured]
 ---
-A poucos dias de completar 100 dias à frente da Prefeitura de Olinda, a prefeita Mirella Almeida e do vice Chiquinho recebeu uma importante demonstração de apoio da população. Segundo levantamento divulgado pela Revista Total, 72% dos olindenses aprovam a atual gestão, indicando satisfação com as ações implementadas até o momento.
+Perto de completar 100 dias à frente da Prefeitura de Olinda, a prefeita Mirella Almeida e do vice Chiquinho recebeu uma importante demonstração de apoio da população. Segundo levantamento divulgado pela Revista Total, 72% dos olindenses aprovam a atual gestão, indicando satisfação com as ações implementadas até o momento.
 
 A pesquisa revela que a maioria dos entrevistados reconhece avanços em áreas consideradas essenciais para o desenvolvimento urbano e social do município. Iniciativas voltadas à melhoria dos serviços públicos, infraestrutura e bem-estar da população têm sido vistas com bons olhos pela sociedade.
 
