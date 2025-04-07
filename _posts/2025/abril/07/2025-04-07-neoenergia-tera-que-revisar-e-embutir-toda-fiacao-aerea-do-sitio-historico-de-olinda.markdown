@@ -18,4 +18,4 @@ A medida representa um avanço fundamental na política de ordenamento urbano e 
 
 “Trata-se de um caso emblemático, que marca uma conquista fundamental para a cidade. A decisão reconhece a singularidade do Sítio Histórico de Olinda e impõe à concessionária a responsabilidade de adequar seus serviços à preservação desse patrimônio cultural reconhecido mundialmente”, destaca o procurador-geral do Município, Paulo Maciel.
 
-A Prefeitura reforça que continuará atuando de forma integrada com os órgãos de preservação e fiscalização, como IPHAN, Ministério Público e Fundação do Patrimônio Histórico de Olinda (FCPSHO), para assegurar o cumprimento da decisão e promover o desenvolvimento sustentável da cidade, com respeito à sua história e identidade.
+A Prefeitura reforça que continuará atuando de forma integrada com os órgãos de preservação e fiscalização, como IPHAN, Ministério Público, FUNDARPE e Secretaria de Patrimônio e Cultura de Olinda (SEPAC), para assegurar o cumprimento da decisão e promover o desenvolvimento sustentável da cidade, com respeito à sua história e identidade.
