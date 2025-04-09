@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MILCON RANGEL DECLARA APPIO A GABRIEL E ÁLVARO PORTO"
+title: "MILCON RANGEL DECLARA APOIO A GABRIEL E ÁLVARO PORTO"
 categories: [ Olinda , Política ]
 image: assets/images/2025/abril/09/02.jpg
 date:   2025-04-09  09:04:00 -0300
