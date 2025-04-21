@@ -6,8 +6,6 @@ image: assets/images/2025/abril/21/01.jpg
 date:   2025-04-21  00:50:00 -0300
 #tags: [sticky, featured]
 ---
-Papa Francisco morre aos 88 anos; Vaticano destaca legado de simplicidade e justiça social
-
 O Vaticano confirmou na manhã desta segunda-feira (21) a morte do papa Francisco, aos 88 anos. O pontífice faleceu às 2h35 pelo horário de Brasília (7h35 no horário local), encerrando um papado que durou quase 12 anos e marcou profundamente a história da Igreja Católica.
 
 Jorge Mario Bergoglio foi o 266º papa da Igreja e o primeiro latino-americano a assumir o posto. Natural de Buenos Aires, na Argentina, nasceu em 17 de dezembro de 1936 e entrou para a história não apenas por sua origem, mas por suas escolhas e posturas que trouxeram novos ares ao Vaticano.
