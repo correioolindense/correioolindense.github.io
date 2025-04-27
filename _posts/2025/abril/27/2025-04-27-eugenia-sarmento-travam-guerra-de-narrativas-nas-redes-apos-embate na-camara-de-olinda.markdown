@@ -3,10 +3,10 @@ layout: post
 title: "EUGÊNIA E SARMENTO TRAVAM GUERRA DE NARRATIVAS NAS REDES APÓS EMBATE NA CÂMARA DE OLINDA"
 categories: [ Olinda , Legislativo ]
 image: assets/images/2025/abril/27/01.jpg
-date:   2025-04-27  00:31:00 -0300
+date:   2025-04-27  09:31:00 -0300
 #tags: [sticky, featured]
 ---
-O clima esquentou na 12ª sessão ordinária da Câmara Municipal de Olinda. Durante discurso sobre os cortes no programa Bolsa Família, o vereador Sarmento denunciava a circulação de uma fake news que dizia que alunos de 16 anos ou mais perderiam o benefício caso não tivessem título de eleitor. Foi então que a vereadora Eugênia pediu um aparte e, sem economizar nas palavras, mandou o colega “estudar sobre o Bolsa Família” antes de criticar os cortes.
+O clima esquentou na 12ª sessão ordinária da Câmara Municipal de Olinda. Durante discurso sobre os cortes no programa Bolsa Família, o vereador Sarmento denunciava a circulação de uma fake news que dizia que alunos de 16 anos ou mais perderiam o benefício caso não tivessem título de eleitor. Foi então que a vereadora Eugênia pediu um aparte e sem economizar nas palavras, mandou o colega “estudar sobre o Bolsa Família” antes de criticar os cortes.
 
 Em sua fala, Eugênia defendeu que os cortes de beneficiários ocorrem principalmente por faltas às aulas, falta de vacinação e problemas administrativos do próprio município. Aproveitou o momento para atacar a direita brasileira e o ex-presidente Jair Bolsonaro, a quem chamou de “negacionista” e acusou de “fechar e vender 30 galpões da Conab”, medida que, segundo ela, comprometeu o controle da inflação e a soberania alimentar do país.
 
