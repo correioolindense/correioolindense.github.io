@@ -4,7 +4,7 @@ title: "100 DIAS DE GESTÃO: PREFEITA MIRELLA ADOTA MEDIDAS DE CONTENÇÃO E MOS
 categories: [ Olinda , Gestão ]
 image: assets/images/2025/abril/10/01.jpg
 date:   2025-04-10  00:04:00 -0300
-tags: [sticky, featured]
+tags: [featured]
 ---
 Passados os primeiros 100 dias da gestão da prefeita Mirella, a cidade de Olinda começa a sentir os primeiros reflexos de uma administração que alia vontade política, dedicação técnica e foco na eficiência da máquina pública. Desde que assumiu a Prefeitura, Mirella tem demonstrado comprometimento com a reestruturação da cidade, enfrentando desafios antigos com medidas firmes, como o decreto de corte de gastos publicado — uma decisão necessária diante do cenário financeiro encontrado no país como um todo.
 
