@@ -2,8 +2,8 @@
 layout: post
 title: "FELIPE NASCIMENTO PODE ASSUMIR SECRETARIA DE ESPORTES EM OLINDA; ODIN NEVES PODE IR PARA EDUCAÇÃO"
 categories: [ Olinda , Política ]
-image: assets/images/2024/maio/13/03.jpeg
-date:   2024-05-13  12:01:00 -0300
+image: assets/images/2025/maio/13/03.jpeg
+date:   2025-05-13  12:01:00 -0300
 #tags: [sticky, featured]
 ---
 A gestão da prefeita Mirella Almeida em Olinda se prepara para mudanças estratégicas no seu secretariado. Nos bastidores políticos da cidade, já é dada como certa a saída de Erivaldo Coutinho do comando da Secretaria de Esportes. O nome mais cotado para assumir a pasta é o do vereador Felipe Nascimento, atual primeiro cavalheiro da cidade e aliado de primeira hora da prefeita.
