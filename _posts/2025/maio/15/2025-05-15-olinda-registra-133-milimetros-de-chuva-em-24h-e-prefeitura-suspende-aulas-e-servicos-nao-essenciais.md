@@ -3,7 +3,7 @@ layout: post
 title: "OLINDA REGISTRA 133 MILÍMETROS DE CHUVA EM 24H E PREFEITURA SUSPENDE AULAS E SERVIÇOS NÃO ESSENCIAIS"
 categories: [ Olinda , Cidades ]
 image: assets/images/2025/maio/15/01.jpg
-date:   2025-05-14  08:50:00 -0300
+date:   2025-05-15  08:50:00 -0300
 #tags: [sticky, featured]
 ---
 A cidade de Olinda enfrentou um intenso volume de chuvas nas últimas 24 horas, registrando 133 milímetros de precipitação. A informação foi divulgada pela prefeita Mirella em suas redes sociais, na manhã desta quinta-feira (15).
