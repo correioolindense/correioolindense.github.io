@@ -16,7 +16,7 @@ Corpo de Bombeiros: 193
 
 A recomendação vale principalmente para regiões com histórico de alagamentos, deslizamentos ou dificuldades de escoamento da água. Equipes estão nas ruas realizando vistorias e atendendo às ocorrências.
 
-A Prefeitura também reforçou que continua acompanhando os dados da Agência Pernambucana de Águas e Clima (Apac) e que novas atualizações serão divulgadas a qualquer momento pelas redes sociais da prefeita Mirella, visto que a prefeitura está sem acesso ao Instagram devido um bug da META.
+A Prefeitura também reforçou que continua acompanhando os dados da Agência Pernambucana de Águas e Clima (Apac), informou também que as aulas seguem suspensas e que novas atualizações serão divulgadas a qualquer momento pelas redes sociais da prefeita Mirella, visto que a prefeitura está sem acesso ao Instagram devido um bug da META.
 
 **PREFEITA ESTÁ NAS RUAS DESDE ONTEM**
 
