@@ -8,7 +8,7 @@ date:   2025-05-15  21:40:00 -0300
 ---
 A cidade de Olinda enfrenta um novo episódio de chuvas intensas. Nas últimas 24 horas, já foram registrados mais de 90mm de precipitação, nas ultimas 48 horas já foram mais de 200mm, volume que preocupa moradores e autoridades. E a previsão é de mais chuva nas próximas horas, o que mantém a cidade em alerta.
 
-A Defesa Civil de Olinda está monitorando as áreas de risco e reforça o apelo à população: se puder, fique em casa. Em caso de emergência, é essencial acionar imediatamente os órgãos competentes.
+A Defesa Civil de Olinda está monitorando as áreas de risco e reforça o apelo à população: se puder, fique em casa. Em caso de emergência, é essencial acionar imediatamente os órgãos competentes, previsão é de mais chuvas nesta madrugada e durante toda sexta feira.
 
 Os contatos de emergência são:
 Defesa Civil: 0800.081.0060
