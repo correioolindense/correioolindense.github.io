@@ -12,7 +12,7 @@ Entre os destaques da programação estão oficinas criativas de poesia visual, 
 
 Um dos pontos altos será a homenagem ao artista J. Borges, com exposição e oficina conduzida por Pablo Borges. O Senac também marca presença com oficinas gastronômicas, orientação profissional e demonstrações de impressão 3D.
 
-Apesar da manutenção das atividades diurnas, os shows continuam cancelados, conforme orientação da Prefeitura de Olinda.
+Apesar da manutenção das atividades diurnas, os shows continuam cancelados, conforme orientação da Prefeitura de Olinda e Governo do estado pelo risco de chuvas fortes no começo da noite até a próxima quarta.
 
 Já no município de Jaboatão dos Guararapes, toda a programação da Semana S está cancelada para os dias 17 e 18 de maio, por orientação da gestão municipal.
 
