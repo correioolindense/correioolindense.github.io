@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "MAIS UMA AÇÃO DE FRENTE: MIRELLA PARTICIPA DE REUNIÃO E REFORÇA ARTICULAÇÃO COM GOVERNO ESTADUAL PARA ENFRENTAR CHUVAS"
-categories: [ Olinda , Segurança ]
+title: "MIRELLA PARTICIPA DE REUNIÃO E REFORÇA ARTICULAÇÃO COM GOVERNO ESTADUAL PARA ENFRENTAR CHUVAS"
+categories: [ Olinda , Cidades ]
 image: assets/images/2025/maio/17/05.jpg
 date:   2025-05-17  21:10:00 -0300
 #tags: [sticky, featured]
