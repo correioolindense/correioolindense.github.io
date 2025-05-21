@@ -6,7 +6,7 @@ image: assets/images/2025/maio/21/02.jpg
 date:   2025-05-21  19:00:00 -0300
 tags: [sticky, featured]
 ---
-*Por: Déborah Rocha
+Por: Déborah Rocha
 
 Para iniciar o presente artigo, é necessário conceituar o termo principal:
 
