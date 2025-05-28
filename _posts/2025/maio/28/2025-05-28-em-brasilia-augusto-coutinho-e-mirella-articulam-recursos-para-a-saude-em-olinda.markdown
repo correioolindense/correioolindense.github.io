@@ -6,7 +6,7 @@ image: assets/images/2025/maio/28/01.jpg
 date:   2025-05-28  00:10:00 -0300
 #tags: [sticky, featured]
 ---
-Em busca de melhorias na rede pública de saúde de Olinda, o deputado federal Augusto Coutinho (Republicanos-PE) e a prefeita Mirella Almeida (PSD) participaram de uma reunião com o secretário de atenção especializada do Ministério da Saúde, Mozart Salesy, em Brasília. O encontro teve como foco a liberação de investimentos federais para fortalecer os serviços municipais de saúde.
+Em busca de melhorias na rede pública de saúde de Olinda, o deputado federal Augusto Coutinho (Republicanos-PE) e a prefeita Mirella Almeida (PSD) participaram de uma reunião com o secretário de atenção especializada do Ministério da Saúde, Mozart Sales, em Brasília. O encontro teve como foco a liberação de investimentos federais para fortalecer os serviços municipais de saúde.
 
 Entre as prioridades apresentadas, destacam-se a destinação de recursos para a Unidade de Pronto Atendimento (UPA) de Rio Doce e a aquisição de novas ambulâncias para o município.
 
