@@ -4,7 +4,7 @@ title: "GOVERNADORA RAQUEL LYRA COMANDA AULA INAUGURAL DO CURSO DE FORMAÇÃO DE
 categories: [ Pernambuco , Cidades ]
 image: assets/images/2025/junho/06/04.jpg
 date:   2025-06-06  12:10:00 -0300
-tags: [ featured ]
+#tags: [ featured ]
 ---
 A governadora Raquel Lyra comandou, na manhã desta sexta-feira (6), a aula inaugural do Curso de Formação de Oficiais (CFO) da Polícia Militar de Pernambuco de 2025. Esta é a segunda turma do último concurso da PMPE a iniciar o CFO, e conta com 197 cadetes, sendo 154 homens e 43 mulheres, que agora iniciam a preparação para integrar as forças de segurança do Estado. A cerimônia foi realizada no auditório da Escola Judicial de Pernambuco (Esmape) e marcou o início de mais uma etapa estratégica dentro do programa Juntos pela Segurança.
 
