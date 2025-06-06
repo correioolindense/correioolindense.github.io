@@ -1,0 +1,33 @@
+---
+layout: post
+title: "JUNTOS PELA SEGURANÇA: COM INVESTIMENTOS DE R$ 118 MILHÕES, GOVERNADORA RAQUEL LYRA ANUNCIA CONSTRUÇÃO DE BATALHÕES E ENTREGA EQUIPAMENTOS À SEGURANÇA PÚBLICA"
+categories: [ Pernambuco , Cidades ]
+image: assets/images/2025/junho/06/02.jpg
+date:   2025-06-06  00:20:00 -0300
+#tags: [sticky, featured]
+---
+Para fortalecer a estrutura da segurança pública em Pernambuco, a governadora Raquel Lyra lançou, nesta quinta-feira (5), novos investimentos para o programa Juntos pela Segurança, que somam recursos de R$ 118 milhões. Do total, R$ 31 milhões foram destinados a novos equipamentos e insumos entregues, entre viaturas, coletes balísticos e armamentos, e R$ 87 milhões será direcionado para construção de oito unidades destinadas à Defesa Social, sendo quatro batalhões da Polícia Militar e quatro novas sedes para o Corpo de Bombeiros. O anúncio foi feito durante cerimônia no Quartel do Comando Geral da Polícia Militar de Pernambuco, no Recife, ocasião em que também foram entregues insígnias simbólicas a policiais militares recentemente promovidos. A vice-governadora Priscila Krause também participou da solenidade.
+
+“São investimentos importantes para que possamos garantir uma estrutura adequada à Polícia Militar e Corpo de Bombeiros, para que nossas forças operativas prestem de maneira mais eficiente o seu trabalho. Temos que cuidar de quem cuida. Pegamos os equipamentos públicos de segurança, de saúde, muitas vezes sucateados. O nosso trabalho tem sido de construção e reconstrução, há 30 anos, por exemplo, não se construía um novo prédio de batalhão em nosso estado. Já garantimos a construção para cidades que precisam desses equipamentos. Através do programa Juntos pela Segurança, vamos continuar avançando”, destacou a governadora Raquel Lyra. 
+
+“Nós estamos registrando o 13º mês de redução consecutiva nos homicídios no Estado. Maio fechou com uma queda de 8,1%, e no acumulado do ano, já são mais de 14% de redução. Hoje é mais um exemplo de como o investimento estratégico gera resultados: estamos entregando novos equipamentos, viaturas para as operativas, armas, coletes e, ao mesmo tempo, anunciando a construção de oito novas unidades da PM e do Corpo de Bombeiros. Essa solenidade representa o reconhecimento dos que já estão na tropa e o fortalecimento da nossa estrutura”, destacou o secretário de Defesa Social, Alessandro Carvalho.
+
+O reforço imediato anunciado pelo Governo do Estado, com os R$ 31 milhões, contempla a entrega de 850 pistolas 9 mm Beretta, 500 armas de incapacitação neuromuscular (Tasers), 7.940 coletes balísticos, além de 15 mil instrumentos de menor potencial ofensivo, incluindo 12 mil espargidores de gás pimenta e 3 mil espargidores incapacitantes não letais. Parte dos recursos é oriundo do Tesouro Estadual (R$ 22,8 milhões), complementados por aportes do Fundo Nacional de Segurança Pública (R$ 2,75 milhões), da Secretaria Nacional de Segurança Pública (R$ 3,81 milhões) e de emendas parlamentares (R$ 2,45 milhões).
+
+A frota das forças de segurança também será ampliada com 16 picapes 4x4, seis veículos sedãs — incluindo unidades destinadas à Patrulha Maria da Penha e ao Batalhão de Choque —, além de dois caminhões Auto Bomba Tanque e Salvamento e 17 conjuntos Bomba-Tanque para o Corpo de Bombeiros.
+
+Além do reforço imediato desses equipamentos, a governadora assinou a autorização da publicação de editais de licitação para a construção de oito novas unidades operacionais da SDS, investimentos que contemplam R$ 87 milhões. Serão quatro novos batalhões da Polícia Militar e quatro unidades do Corpo de Bombeiros, todos com projetos desenvolvidos pela Secretaria de Projetos Estratégicos (Sepe) e execução da Companhia Estadual de Habitação e Obras (Cehab).
+
+“Pernambuco não tinha modelos padronizados de batalhões, grupamentos ou unidades do Corpo de Bombeiros. Com a criação da Secretaria de Projetos Estratégicos pela governadora Raquel Lyra, passamos a desenvolver esses projetos com base técnica e planejamento. Hoje, já temos diversos modelos prontos para licitação. Essa primeira leva de oito equipamentos representa um investimento de R$ 87 milhões, e em breve vamos anunciar novas etapas”, explicou o secretário de Projetos Estratégicos, Rodrigo Ribeiro.
+
+As novas unidades incluem três Batalhões Integrados Especializados de Policiamento (Biesps), em Caruaru, Arcoverde e Petrolina, além do Batalhão Ambiental em Igarassu. Já os novos grupamentos do Corpo de Bombeiros serão implantados em Vitória de Santo Antão, Araripina, Caruaru e Belo Jardim. As novas unidades vão ampliar a capacidade de resposta do Estado em áreas estratégicas e contemplar diretamente 22 municípios da Região Metropolitana do Recife e do interior.
+
+O deputado federal Mendonça Filho elogiou os investimentos estaduais. “Eu não tenho dúvida de que esse trabalho de transformação verdadeira que está sendo realizado sob a liderança do Governo do Estado será um trabalho cada vez mais significativo, impactando a vida das pessoas”, disse o deputado. Já o deputado estadual Joaquim Lira destacou as ações preventivas feitas pela gestão. “O Governo de Pernambuco vem fazendo o seu papel contra a criminalidade. Quando constrói creches, coloca cozinha comunitária nas cidades, isso é o apoio ao enfrentamento”, disse o parlamentar. 
+
+O comandante da Polícia Militar, Coronel Ivanildo Torres, disse que os equipamentos vão “atender a todos no interior e na capital e os batalhões foram pensados para um trabalho digno aos policiais”. Por sua vez, a prefeita de Igarassu, Professora Elcione, falou sobre a gratidão que sente com as entregas. “Eu tenho certeza de que cada um vai sair daqui hoje grato, porque estava muito tempo esperando esse reconhecimento”, afirmou a gestora.
+
+Durante a solenidade, a governadora e a vice-governadora comandaram também a entrega simbólica de insígnias a 854 oficiais e praças recém-promovidos em Pernambuco, que ascenderam a novos postos e graduações. A cerimônia integra a programação oficial dos 200 anos de criação da PMPE e simboliza o reconhecimento ao mérito, à dedicação e ao compromisso dos servidores com a segurança da população.
+
+Também estavam presentes na cerimônia os secretários estaduais Simone Nunes (Desenvolvimento Urbano e Habitação), Juliana Gouveia (Mulher) e Coronel Hercílio Mamede (Casa Militar). Também prestigiaram o evento o prefeito Zeca Cavalcanti (Arcoverde); o delegado-geral da Polícia Civil, Renato Leite; o diretor-presidente da Cehab, Paulo Lira; o secretário-executivo de Defesa Civil, Clóvis Ramalho, e o comandante-geral do Corpo de Bombeiros, Coronel Cantarelli.
+
+Foto: Janaína Pepeu/Secom
