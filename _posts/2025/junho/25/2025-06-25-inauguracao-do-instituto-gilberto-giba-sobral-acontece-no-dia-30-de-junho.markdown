@@ -2,7 +2,7 @@
 layout: post
 title: "INAUGURAÇÃO DO INSTITUTO GILBERTO GIBA SOBRAL ACONTECE NO DIA 30 DE JUNHO"
 categories: [ Olinda , Cidades ]
-image: assets/images/2024/maio/25/02.jpeg
+image: assets/images/2025/maio/25/02.jpeg
 date:   2025-06-25 01:40:00 -0300
 ---
 Olinda se prepara para um evento especial e carregado de emoção: a inauguração do Instituto Gilberto Giba Sobral. A solenidade acontecerá no dia 30 de junho de 2025, às 9h30, na sede do instituto, localizada na Rua de São Bento, 104, Carmo, em frente à Praça Monsenhor Fabrício e ao Palácio dos Governadores (sede da Prefeitura de Olinda).
