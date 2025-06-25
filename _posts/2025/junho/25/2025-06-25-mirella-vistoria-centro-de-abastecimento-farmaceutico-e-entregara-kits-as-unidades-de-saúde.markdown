@@ -2,7 +2,7 @@
 layout: post
 title: "MIRELLA VISTORIA CENTRO DE ABASTECIMENTO FARMACÊUTICO E ENTREGARÁ KITS ÀS UNIDADES DE SAÚDE"
 categories: [ Olinda , Cidades ]
-image: assets/images/2025/maio/25/04.jpg
+image: assets/images/2025/junho/25/04.jpg
 date:   2025-06-25 09:40:00 -0300
 tags: [ featured ]
 ---
