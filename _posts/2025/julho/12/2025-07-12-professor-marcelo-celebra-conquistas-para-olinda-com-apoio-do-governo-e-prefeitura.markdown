@@ -35,3 +35,5 @@ As boas notícias para Olinda vieram acompanhadas de ações já consolidadas. N
 Essas intervenções integram um pacote de investimentos voltado à mobilidade urbana, segurança viária e desenvolvimento regional, e reafirmam o compromisso do Governo do Estado com a melhoria da qualidade de vida em Olinda e na Região Metropolitana do Recife.
 
 Professor Marcelo, que acompanhou a governadora durante as solenidades, reforçou: “É um novo tempo para Olinda, com mais diálogo, mais investimento e mais respeito pelo povo. Seguimos firmes com quem trabalha por nossa cidade.”
+
+Foto: Arquimedes Santos
