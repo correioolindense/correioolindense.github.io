@@ -4,7 +4,7 @@ title: "OLINDA INICIA OFICINAS DO PROJETO CORAÇÕES TERAPÉUTICOS EM APOIO A MU
 categories: [ Olinda , Cidades ]
 image: assets/images/2025/junho/04/02.jpg
 date:   2025-06-04  11:10:00 -0300
-#tags: [sticky, featured]
+tags: [ featured ]
 ---
 A Prefeitura de Olinda lançou, nesta terça-feira (3), no CRAS 4, no bairro de Peixinhos, o Projeto Corações Terapêuticos . A ação promovida pela Secretaria de Desenvolvimento Social e Direitos Humanos reúne mulheres assistidas pela rede socioassistencial do município para confeccionar almofadas em formato de coração, que serão doadas a pacientes em tratamento contra o câncer de mama.
 
