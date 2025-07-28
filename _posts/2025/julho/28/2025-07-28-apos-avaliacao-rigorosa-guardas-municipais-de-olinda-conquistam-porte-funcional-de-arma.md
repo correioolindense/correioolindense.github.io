@@ -6,7 +6,7 @@ image: assets/images/2025/julho/28/01.jpg
 date:   2025-07-28 13:01:00 -0300
 tags: [ featured]
 ---
-Olinda deu mais um passo decisivo para o fortalecimento da Segurança Pública. Nesta segunda-feira (data), a Guarda Municipal concluiu o processo para obtenção do porte funcional de arma de fogo, com validade de 10 anos, após uma criteriosa avaliação em parceria com a Polícia Federal.
+Olinda deu mais um passo decisivo para o fortalecimento da Segurança Pública. Nesta segunda-feira (28), a Guarda Municipal concluiu o processo para obtenção do porte funcional de arma de fogo, com validade de 10 anos, após uma criteriosa avaliação em parceria com a Polícia Federal.
 
 O ato aconteceu na sede da Polícia Federal, com a presença da prefeita Mirella, do secretário de Segurança Cidadã, coronel Pereira Neto, do secretário executivo de Segurança, Adeildo Júnior, e do comandante e instrutor da corporação, Abimael Simplício.
 
