@@ -2,7 +2,7 @@
 layout: post
 title: "MIRELLA E DUEIRE ENTREGAM NOVAS VIATURAS PARA A SEGURANÇA EM OLINDA"
 categories: [ Olinda, Cidades ]
-image: assets/images/2025/julho/30/02.jpg
+image: assets/images/2025/julho/30/01.jpg
 date:   2025-07-30 20:02:00 -0300
 tags: [ featured]
 ---
