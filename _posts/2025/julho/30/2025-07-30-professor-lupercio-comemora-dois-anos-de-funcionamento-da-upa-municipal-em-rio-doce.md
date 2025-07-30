@@ -2,7 +2,7 @@
 layout: post
 title: "PROFESSOR LUPÉRCIO COMEMORA DOIS ANOS DE FUNCIONAMENTO DA UPA MUNICIPAL EM RIO DOCE"
 categories: [ Olinda, Cidades ]
-image: assets/images/2025/julho/30/01.jpg
+image: assets/images/2025/julho/30/02.jpg
 date:   2025-07-30 20:01:00 -0300
 tags: [ featured]
 ---
