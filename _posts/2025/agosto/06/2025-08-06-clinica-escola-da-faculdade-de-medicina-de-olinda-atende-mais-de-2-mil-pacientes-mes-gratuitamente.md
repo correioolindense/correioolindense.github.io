@@ -27,20 +27,37 @@ A Clínica Escola oferece experiências práticas abrangentes e de alta qualidad
 **ESPECIALIDADES OFERECIDAS**
  
 Cardiologia
+
 Endocrinologia
+
 Psiquiatria
+
 Pediatria
+
 Ginecologia
+
 Dermatologia
+
 Clínica médica
+
 Mastologia
+
 Clínica cirúrgica
+
 Genética médica
+
 Pneumologia
+
 Hematologia
+
 Reumatologia
+
 Neurologia
+
 Obstetrícia
+
 Geriatria
+
 Gastroenterologia
+
 Nutrição
