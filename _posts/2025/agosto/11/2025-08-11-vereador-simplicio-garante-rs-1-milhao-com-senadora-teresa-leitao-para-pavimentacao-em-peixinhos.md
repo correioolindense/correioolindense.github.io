@@ -3,7 +3,7 @@ layout: post
 title: "VEREADOR SIMPLÍCIO GARANTE R$ 1 MILHÃO COM SENADORA TERESA LEITÃO PARA PAVIMENTAÇÃO EM PEIXINHOS"
 categories: [ Olinda, Cidades ]
 image: assets/images/2025/agosto/11/01.jpg
-date:   2025-08-11 18:26:00 -0300
+date:   2025-08-11 18:40:00 -0300
 tags: [ featured]
 ---
 Olinda vai receber um importante investimento para melhorar a mobilidade urbana e a infraestrutura do bairro do Peixinhos. A senadora Teresa Leitão (PT) atendeu a uma solicitação do vereador Simplicio (PV) e destinou R$ 1 milhão em emenda de comissão ao Orçamento da União de 2025 para a pavimentação da Rua José Alves de Araújo.
