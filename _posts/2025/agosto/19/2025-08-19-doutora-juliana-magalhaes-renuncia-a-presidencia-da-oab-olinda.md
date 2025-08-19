@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JULIANA MAGALHÃES RENUNCIA À PRESIDÊNCIA DA OAB OLINDA"
+title: "DOUTORA JULIANA MAGALHÃES RENUNCIA À PRESIDÊNCIA DA OAB OLINDA"
 categories: [ Olinda, Cidades ]
 image: assets/images/2025/agosto/19/05.jpg
 date:   2025-08-19 20:40:00 -0300
