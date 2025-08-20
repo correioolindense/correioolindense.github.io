@@ -12,8 +12,6 @@ Marcílio iniciou sua militância política ainda nos anos 1980, período de red
 
 Em sua trajetória, ocupou a Secretaria de Planejamento da Prefeitura de Olinda e exerceu o cargo de vice-prefeito na gestão do prefeito Luís Freire (1989–1992). Ao longo da carreira, também esteve ligado ao PPS, chegando a ocupar a secretaria-geral estadual da legenda.
 
-Além da política institucional, Marcílio Domingues sempre foi lembrado como um articulador respeitado e um homem de diálogo. Em 2010, ainda participou da vida partidária, tendo figurado como candidato a suplente do senador Marco Maciel por Pernambuco, fato que não se concretizou por alguma burocracia eleitoral, por fim, Aline Mariano e Raul Jungmann foram os suplentes.
-
-Com sua partida, Olinda se despede de um político que atravessou décadas de lutas, conquistas e debates, deixando um legado de compromisso público e dedicação à cidade.
+Além da política institucional, Marcílio Domingues sempre foi lembrado como um articulador respeitado e um homem de diálogo. Com sua partida, Olinda se despede de um político que atravessou décadas de lutas, conquistas e debates, deixando um legado de compromisso público e dedicação à cidade.
 
 Familiares, amigos e companheiros de trajetória prestaram homenagens, destacando sua firmeza de caráter e o amor por Olinda.
