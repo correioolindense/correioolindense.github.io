@@ -3,7 +3,7 @@ layout: post
 title: "OLINDA REGULAMENTA LEI DE INOVAÇÃO E LANÇA OFICIALMENTE O PROGRAMA OLINDA DIGITAL"
 categories: [ Olinda, Cidades ]
 image: assets/images/2025/agosto/20/01.jpg
-date:   2025-08-20 23:20:00 -0300
+date:   2025-08-20 13:20:00 -0300
 tags: [ featured]
 ---
 Olinda dá um passo decisivo para consolidar sua política de inovação. A Lei nº 6.349, de 2024, que instituiu o Programa Olinda Digital, acaba de ser plenamente regulamentada através de uma série de decretos publicados hoje. Com isso, a cidade passa a contar com um arcabouço legal e institucional robusto para fomentar ciência, tecnologia, economia criativa e desenvolvimento sustentável.
