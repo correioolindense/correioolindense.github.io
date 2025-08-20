@@ -3,7 +3,7 @@ layout: post
 title: "GOVERNO DO ESTADO LANÇA SITE PARA PRESTAÇÃO DE CONTAS DO PROGRAMA DO TÊNIS ESCOLAR"
 categories: [ Olinda, Cidades ]
 image: assets/images/2025/agosto/19/01.jpg
-date:   2025-08-19 23:20:00 -0300
+date:   2025-08-19 00:01:00 -0300
 tags: [ featured]
 ---
 A partir desta terça-feira, 19 de agosto de 2025, passa a funcionar o site www.meutenis.pe.gov.br, plataforma oficial criada pelo Governo de Pernambuco para a prestação de contas do programa de distribuição de tênis escolares.
