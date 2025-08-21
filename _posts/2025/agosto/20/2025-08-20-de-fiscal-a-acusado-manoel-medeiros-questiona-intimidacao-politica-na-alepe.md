@@ -3,7 +3,7 @@ layout: post
 title: "DE FISCAL A ACUSADO: MANOEL MEDEIROS QUESTIONA INTIMIDAÇÃO POLÍTICA NA ALEPE"
 categories: [ Olinda, Cidades ]
 image: assets/images/2025/agosto/20/06.jpg
-date:   2025-08-20 20:01:00 -0300
+date:   2025-08-22 20:01:00 -0300
 tags: [ featured]
 ---
 A política pernambucana viveu mais um dia de fortes embates nesta quarta-feira (20). O presidente da Assembleia Legislativa de Pernambuco (Alepe), deputado Álvaro Porto (PSDB), acusou o secretário-executivo de Informações Estratégicas do governo Raquel Lyra, Manoel Medeiros Neto, de ser responsável pela criação de uma suposta “milícia digital” voltada a atacar parlamentares e instituições do Estado.
