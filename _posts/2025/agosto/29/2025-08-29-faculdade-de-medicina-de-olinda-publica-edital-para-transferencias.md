@@ -3,7 +3,7 @@ layout: post
 title: "FACULDADE DE MEDICINA DE OLINDA PUBLICA EDITAL PARA TRANSFERÊNCIAS"
 categories: [ Olinda, Cidades ]
 image: assets/images/2025/agosto/29/01.jpg
-date:   2025-09-29 12:01:00 -0300
+date:   2025-08-29 12:01:00 -0300
 tags: [ featured]
 ---
 A Faculdade de Medicina de Olinda (FMO) abriu edital de transferência para alunos de outras instituições de ensino de medicina, portadores de diploma e candidatos que usam a nota do Enem para acesso.
