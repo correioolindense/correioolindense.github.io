@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SURFE: CRIANÇÃS SURFISTAS COMPETEM EM OLINDA"
+title: "SURFE: CRIANÇAS SURFISTAS COMPETEM EM OLINDA"
 categories: [ Olinda , Cidades ]
 image: assets/images/2025/setembro/02/01.jpg
 date:   2025-09-02  01:50:00 -0300
