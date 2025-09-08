@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TRECHO DA ORLA DE OLINDA SERÁ INTERDITADA NESTA SEGUNDA-FEIRA (08), ÀS 9H"
+title: "TRECHO DA ORLA DE OLINDA SERÁ INTERDITADO NESTA SEGUNDA-FEIRA (08), ÀS 9H"
 categories: [ Olinda, Cidades ]
 image: assets/images/2025/setembro/08/01.jpg
 date:   2025-09-08 11:00:00 -0300
