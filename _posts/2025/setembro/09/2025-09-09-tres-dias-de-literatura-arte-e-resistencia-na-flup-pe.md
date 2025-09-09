@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TRÊS DIAS DE LITERATURA, ARTE E RESISTÊNCIA NA FLUP PE"
+title: "FLUP CHEGA A PERNAMBUCO EM 2025 COM DEBATES SOBRE NEGRITUDE, PERIFERIAS E POTÊNCIA CULTURAL"
 categories: [ Olinda, Cidades ]
 image: assets/images/2025/setembro/09/02.jpg
 date:   2025-09-09 10:40:00 -0300
