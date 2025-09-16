@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TERÇA DELAS PROMOVE ENCONTRO SOBRE EMISSÃO D NOTAS FISCAIS ELETRÔNICAS EM OLINDA"
+title: "TERÇA DELAS PROMOVE ENCONTRO SOBRE EMISSÃO DE NOTAS FISCAIS ELETRÔNICAS EM OLINDA"
 categories: [ Olinda, Cidades ]
 image: assets/images/2025/setembro/16/01.jpg
 date:   2025-09-16 13:45:00 -0300
