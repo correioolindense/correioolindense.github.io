@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OLINDA PROMOVE MUTIRÃO DE LIMPESA E PLANTIO DE ÁRVORES NO DIA MUNDIAL DA LIMPEZA"
+title: "OLINDA PROMOVE MUTIRÃO DE LIMPEZA E PLANTIO DE ÁRVORES NO DIA MUNDIAL DA LIMPEZA"
 categories: [ Olinda, Cidades ]
 image: assets/images/2025/setembro/16/04.jpg
 date:   2025-09-16 14:00:00 -0300
