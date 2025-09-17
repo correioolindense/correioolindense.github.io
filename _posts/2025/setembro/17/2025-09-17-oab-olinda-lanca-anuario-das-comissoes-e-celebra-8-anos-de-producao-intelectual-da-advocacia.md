@@ -6,7 +6,7 @@ image: assets/images/2025/setembro/17/05.jpg
 date:   2025-09-17 14:50:00 -0300
 tags: [ featured]
 ---
-A advocacia olindense se prepara para um momento histórico: no próximo dia 18 de setembro, às 19h, será realizado, na Uninassau Olinda (Shopping Patteo, Casa Caiada), o lançamento do Anuário das Comissões da OAB Olinda. As inscrições para o evento já estão disponíveis pelo Sympla, e a pré-venda promocional do exemplar custa R$ 50,00.
+A advocacia olindense se prepara para um momento histórico: no próximo dia 19 de setembro, às 19h, será realizado, na Uninassau Olinda (Shopping Patteo, Casa Caiada), o lançamento do Anuário das Comissões da OAB Olinda. As inscrições para o evento já estão disponíveis pelo Sympla, e a pré-venda promocional do exemplar custa R$ 50,00.
 
 **De Revista a Anuário: uma trajetória de oito anos**
 
@@ -21,7 +21,7 @@ A iniciativa conta com o apoio da Uninassau Olinda e reforça a importância da 
 **Serviço**
 
 Evento: Lançamento do Anuário das Comissões da OAB Olinda
-Data: 18 de setembro de 2025, às 19h
+Data: 19 de setembro de 2025, às 19h
 Local: Uninassau Olinda – Shopping Patteo, Casa Caiada, Olinda-PE
 Inscrições: Sympla
 Pré-venda promocional: R$ 50,00
