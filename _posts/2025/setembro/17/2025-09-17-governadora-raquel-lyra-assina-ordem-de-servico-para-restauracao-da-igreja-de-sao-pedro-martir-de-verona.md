@@ -1,0 +1,27 @@
+---
+layout: post
+title: "GOVERNADORA RAQUEL LYRA ASSINA ORDEM DE SERVIÇO PARA RESTAURAÇÃO DA IGREJA DE SÃO PEDRO MÁRTIR DE VERONA"
+categories: [ Olinda, Cidades ]
+image: assets/images/2025/setembro/17/04.jpg
+date:   2025-09-17 13:20:00 -0300
+tags: [ featured]
+---
+Em mais uma iniciativa para preservação do patrimônio histórico de Pernambuco, a governadora Raquel Lyra assinou, nesta terça-feira (16), a ordem de serviço que permite o início da restauração da Igreja de São Pedro Mártir de Verona, no bairro do Carmo, em Olinda, que está fechada desde 2015. O projeto, orçado em R$ 1,2 milhão, será executado pela Fundação do Patrimônio Histórico e Artístico de Pernambuco (Fundarpe) com recursos do Instituto do Patrimônio Histórico e Artístico Nacional (Iphan), por meio do Novo PAC. Com esse investimento, a intervenção proporcionará novos usos para realização de eventos religiosos no monumento. A ação integra obras de restaurações em patrimônios localizados em Olinda, como o Museu de Arte Contemporânea de Pernambuco (MAC-PE) e o Mosteiro de São Bento, vistoriados nesta terça pela gestora e pela vice-governadora Priscila Krause.
+
+“Nós estamos mais uma vez aqui em Olinda, trabalhando pela restauração do nosso patrimônio histórico e cultural. Quando olhamos para Olinda, vemos que é um patrimônio da humanidade e precisa ser cuidado com dignidade. Então, a partir desses investimentos, vamos devolver ao pernambucano, ao olindense, ao Brasil e ao mundo patrimônios que falam sobre a nossa cultura, a nossa história e a nossa religiosidade”, destacou a governadora Raquel Lyra. 
+
+Com os investimentos, a igreja passará por serviços de recuperação das fachadas, pisos, esquadrias e coberta, além da modernização das instalações elétricas, novo sistema de iluminação, implantação de infraestrutura de prevenção e combate a incêndio e adequações de acessibilidade. A intervenção proporcionará a possibilidade de novos usos para realização de eventos (musicais, celebrações eucarísticas, batizados, espaço para reuniões da comunidades). 
+
+Presente nas agendas, o superintendente do Iphan em Pernambuco, Fred Brennand, destacou a importância dos investimentos do Governo de Pernambuco em parceria com o Governo Federal. “Temos grandes parcerias com a Fundarpe, ligada ao Governo do Estado, o que reforça o compromisso da gestão estadual na preservação do patrimônio e da cultura. O Governo Federal, por meio do Iphan, também demonstra compromisso com a preservação cultural, com os importantes recursos destinados para preservação”, ressaltou. 
+
+A irmandade que deu origem à igreja foi instituída em 1711, e a atual construção data da segunda metade do século XVIII. A presidente da Fundarpe, Renata Borba, comentou sobre as ações para preservação histórica de Pernambuco. “O Governo do Estado tem fortalecido a Fundarpe como órgão de preservação do nosso patrimônio. Só aqui em Olinda, já são três obras em andamento. Em todo o estado de Pernambuco, são 12 obras de restauração do nosso patrimônio edificado, indo de Fernando de Noronha ao Sertão. Em todo o estado, já somamos R$ 75 milhões investidos”, afirmou Renata Borba. 
+
+O Arcebispo de Olinda e Recife, Dom Paulo Jackson, celebrou as restaurações realizadas no Sítio Histórico de Olinda. “Restaurar patrimônio histórico e cultural como essa Igreja de São Pedro Mártir de Verona é devolver à comunidade esse espaço vital de espiritualidade e de fé”, disse. Para a prefeita de Olinda, Mirella Almeida, o município possui um arcabouço turístico enorme e o turismo religioso é um deles. “Quando observamos investimentos por parte dos governos federal e estadual, voltados especialmente à fé e à religiosidade das pessoas, entendemos que há um cuidado ao próximo”, frisou a prefeita.
+
+VISTORIAS - Antes de assinar o ordem de serviço, a governadora Raquel Lyra vistoriou o andamento das obras do Museu de Arte Contemporânea de Pernambuco (MAC-PE), que recebe um investimento de R$ 3,8 milhões. O projeto contempla serviços de conservação e restauro do edifício histórico, antiga cadeia eclesiástica de Olinda, construída no século XVIII e tombada em âmbito estadual e federal. Também haverá implantação de sistemas modernos de prevenção a incêndios, segurança, climatização e acessibilidade. Fundado em 1966, o MAC-PE é considerado um dos principais museus de arte moderna do país, reunindo mais de quatro mil obras. O acervo inclui trabalhos de Portinari, Cícero Dias, Eliseu Visconti, Di Cavalcanti, João Câmara, Burle Marx e Francisco Brennand.
+
+Logo em seguida, a gestora vistoriou as obras do Mosteiro de São Bento, onde foi recebida pelo Arcebispo Dom Paulo Jackson. Atualmente, duas frentes de trabalho estão em andamento. O primeiro é da obra civil de consolidação estrutural e geotecnia, com investimento de R$ 1,08 milhão, que inclui reforço de fundações, estabilização do solo, conservação da coberta e implantação do sistema de combate a incêndio. E o segundo andamento é da restauração dos bens integrados do mosteiro, orçada em R$ 14,2 milhões, que prevê a recuperação da nave, capela-mor, sacristia, coro, capela do Santíssimo, capela abacial e sala capitular. A previsão de reabertura do mosteiro para celebrações e missas é em junho de 2026, após conclusão das ações na nave e capela-mor.
+
+Acompanharam as agendas o prefeito de Moreno, Edmilson Cupertino; o vice-prefeito de Olinda, Chiquinho; vereadores e lideranças locais. 
+
+Foto: Hesíodo Goes
