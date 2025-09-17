@@ -21,7 +21,11 @@ A iniciativa conta com o apoio da Uninassau Olinda e reforça a importância da 
 **Serviço**
 
 Evento: Lançamento do Anuário das Comissões da OAB Olinda
+
 Data: 19 de setembro de 2025, às 19h
+
 Local: Uninassau Olinda – Shopping Patteo, Casa Caiada, Olinda-PE
+
 Inscrições: Sympla
+
 Pré-venda promocional: R$ 50,00
