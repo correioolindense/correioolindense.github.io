@@ -9,6 +9,33 @@
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js" type="text/javascript"></script>
   </head>
   <body>
+        <!-- SHIM: grava o token no localStorage quando o provider envia o postMessage -->
+    <script>
+      (function () {
+        window.addEventListener('message', function (e) {
+          try {
+            if (typeof e.data !== 'string') return;
+            var prefix = 'authorization:github:success:';
+            if (!e.data.startsWith(prefix)) return;
+
+            var payload = JSON.parse(e.data.slice(prefix.length)); // { token, provider }
+            // Estrutura que o Decap usa no localStorage
+            var user = {
+              token: payload.token,
+              backendName: 'github',
+              login: 'github'
+            };
+            localStorage.setItem('netlify-cms-user', JSON.stringify(user));
+
+            // recarrega para o Decap ler o token e carregar as coleções
+            location.replace(location.href.split('#')[0] + '#/');
+            location.reload();
+          } catch (err) {
+            console.error('Auth shim error:', err);
+          }
+        });
+      })();
+    </script>
     <!-- Include the script that builds the page and powers Decap CMS -->
     <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
   </body>
