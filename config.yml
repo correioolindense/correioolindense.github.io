@@ -3,7 +3,7 @@ backend:
   repo: correioolindense/correioolindense.github.io
   branch: main
   base_url: https://decap-oauth-provider.onrender.com   # <<< troque para a URL do Render
-  auth_endpoint: /auth
+  auth_endpoint: auth
 
 site_url: https://correioolindense.com.br
 display_url: https://correioolindense.com.br

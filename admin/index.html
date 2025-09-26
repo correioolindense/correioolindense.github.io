@@ -6,40 +6,54 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Admin</title>
-  <!-- Include the identity widget -->
-  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js" type="text/javascript"></script>
 </head>
 
 <body>
   <!-- Include the script that builds the page and powers Decap CMS -->
   <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
-  <!-- SHIM: grava o token no localStorage quando o provider envia o postMessage -->
+    <!-- SHIM corrigido -->
   <script>
     (function () {
+      // Verifica se já está autenticado
+      if (localStorage.getItem('decap-cms-user')) {
+        console.log('Já autenticado');
+        return;
+      }
+
       window.addEventListener('message', function (e) {
         try {
           if (typeof e.data !== 'string') return;
+          
           var prefix = 'authorization:github:success:';
           if (!e.data.startsWith(prefix)) return;
 
-          var payload = JSON.parse(e.data.slice(prefix.length)); // { token, provider }
-
-          // >>> formato que o Decap espera <<<
+          var payload = JSON.parse(e.data.slice(prefix.length));
+          
+          // Formato CORRETO que o Decap CMS espera
           var userObj = {
             token: payload.token,
             backendName: 'github',
-            user: { login: 'github' }       // <= precisa estar aninhado aqui
+            name: 'github-user',
+            login: 'github'
           };
 
-          localStorage.setItem('netlify-cms-user', JSON.stringify(userObj));
-
-          // recarrega para o Decap ler o token e montar o painel
-          location.replace(location.href.split('#')[0] + '#/');
-          location.reload();
+          console.log('Salvando token no localStorage');
+          localStorage.setItem('decap-cms-user', JSON.stringify(userObj));
+          
+          // Recarrega suavemente
+          setTimeout(() => {
+            window.location.href = window.location.origin + window.location.pathname;
+          }, 100);
+          
         } catch (err) {
           console.error('Auth shim error:', err);
         }
       });
+
+      // Limpa tokens antigos do Netlify se existirem
+      if (localStorage.getItem('netlify-cms-user')) {
+        localStorage.removeItem('netlify-cms-user');
+      }
     })();
   </script>
 </body>
