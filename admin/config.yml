@@ -13,7 +13,6 @@ media_folder: "assets/images"
 public_folder: "/assets/images"
 
 publish_mode: editorial_workflow
-local_backend: true
 
 collections:
   - name: "posts"
