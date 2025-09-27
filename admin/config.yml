@@ -9,8 +9,8 @@ site_url: https://correioolindense.com.br
 display_url: https://correioolindense.com.br
 
 # Biblioteca de mídia aponta para sua pasta de imagens
-media_folder: "assets/images"
-public_folder: "/assets/images"
+media_folder: "assets/images/{{year}}/{{fields.month_dir}}/{{day}}"
+#public_folder: "/assets/images"
 
 publish_mode: editorial_workflow
 
@@ -21,40 +21,37 @@ collections:
     create: true
 
     # cria o arquivo em _posts/ANO/mes/dia/AAAA-MM-DD-slug.md
-    path: "{{year}}/{{fields.mes_extenso}}/{{day}}/{{year}}-{{month}}-{{day}}-{{slug}}"
+    path: "{{year}}/{{fields.month_dir}}/{{day}}/{{year}}-{{month}}-{{day}}-{{slug}}"
     slug: "{{slug}}"
     preview_path: "{{slug}}"
 
     fields:
+      # Campos ocultos usados apenas para montar o path
+      - { label: "year_dir",  name: "year_dir",  widget: "hidden", default: "" }
+      - { label: "month_dir", name: "month_dir", widget: "hidden", default: "" }
+      - { label: "day_dir",   name: "day_dir",   widget: "hidden", default: "" }
+
       # front matter conforme seu tema
       - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
       - { label: "Título", name: "title", widget: "string" }
       - { label: "Categorias", name: "categories", widget: "list", hint: "Ex.: [ Olinda, Cidades ]" }
       - { label: "Data", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss ZZ", hint: "Ex.: 2025-09-11 12:30:00 -0300" }
-      # Campo HIDDEN para converter mês numérico para extenso
-      - { 
-          label: "Mês por extenso", 
-          name: "mes_extenso", 
-          widget: "hidden", 
-          default: "{% raw %}{{month | format_mes}}{% endraw %}" 
-        }
       - { 
           label: "Imagem (capa)", 
           name: "image", 
           widget: "image",
-          media_folder: "assets/images/{{year}}/{% raw %}{{month | format_mes}}{% endraw %}/{{day}}",
-          public_folder: "/assets/images/{{year}}/{% raw %}{{month | format_mes}}{% endraw %}/{{day}}"
+          hint: "Ex.: assets/images/2025/setembro/11/03.jpg"
         }
       - { label: "Tags", name: "tags", widget: "list", required: false }
       - { label: "Conteúdo", name: "body", widget: "markdown" }
-
-  - name: "pages"
-    label: "Páginas"
-    folder: "_pages"
-    create: true
-    slug: "{{slug}}"
-    fields:
-      - { label: "Layout", name: "layout", widget: "string", default: "page", required: false }
-      - { label: "Título", name: "title", widget: "string" }
-      - { label: "Permalink", name: "permalink", widget: "string", required: false }
-      - { label: "Conteúdo", name: "body", widget: "markdown" }
+  #
+  #- name: "pages"
+  #  label: "Páginas"
+  #  folder: "_pages"
+  #  create: true
+  #  slug: "{{slug}}"
+  #  fields:
+  #    - { label: "Layout", name: "layout", widget: "string", default: "page", required: false }
+  #    - { label: "Título", name: "title", widget: "string" }
+  #    - { label: "Permalink", name: "permalink", widget: "string", required: false }
+  #    - { label: "Conteúdo", name: "body", widget: "markdown" }

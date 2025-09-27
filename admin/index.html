@@ -11,7 +11,7 @@
 <body>
   <!-- Include the script that builds the page and powers Decap CMS -->
   <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
-    <!-- SHIM corrigido -->
+  <!-- SHIM corrigido -->
   <script>
     (function () {
       // Verifica se já está autenticado
@@ -23,12 +23,12 @@
       window.addEventListener('message', function (e) {
         try {
           if (typeof e.data !== 'string') return;
-          
+
           var prefix = 'authorization:github:success:';
           if (!e.data.startsWith(prefix)) return;
 
           var payload = JSON.parse(e.data.slice(prefix.length));
-          
+
           // Formato CORRETO que o Decap CMS espera
           var userObj = {
             token: payload.token,
@@ -39,12 +39,12 @@
 
           console.log('Salvando token no localStorage');
           localStorage.setItem('decap-cms-user', JSON.stringify(userObj));
-          
+
           // Recarrega suavemente
           setTimeout(() => {
             window.location.href = window.location.origin + window.location.pathname;
           }, 100);
-          
+
         } catch (err) {
           console.error('Auth shim error:', err);
         }
@@ -54,6 +54,247 @@
       if (localStorage.getItem('netlify-cms-user')) {
         localStorage.removeItem('netlify-cms-user');
       }
+    })();
+  </script>
+  <script>
+    (function () {
+      function onReady(fn) { document.readyState !== 'loading' ? fn() : document.addEventListener('DOMContentLoaded', fn); }
+      function pad2(n) { n = String(n).trim(); return n.length === 1 ? '0' + n : n; }
+      const nomes = ['janeiro', 'fevereiro', 'marco', 'abril', 'maio', 'junho', 'julho', 'agosto', 'setembro', 'outubro', 'novembro', 'dezembro'];
+
+      onReady(function () {
+        if (!window.CMS || !CMS.registerEventListener) return;
+
+        CMS.registerEventListener({
+          name: 'preSave',
+          handler: ({ entry }) => {
+            const d = entry.get('data');
+            const dt = new Date(d.get('date'));   // usa a "Data" do post
+            if (isNaN(dt)) throw new Error('Preencha a Data do post.');
+
+            const year = String(dt.getFullYear());
+            const monthName = nomes[dt.getMonth()];   // por extenso em PT (ascii)
+            const day = pad2(dt.getDate());
+
+            entry.get('data').set('year_dir', year);
+            entry.get('data').set('month_dir', monthName);
+            entry.get('data').set('day_dir', day);
+          }
+        });
+      });
+    })();
+  </script>
+  <!-- SCRIPT DE DEBUG COMPLETO -->
+  <script>
+    (function () {
+      console.log(' [DEBUG] Decap CMS Debug Mode Ativado');
+      console.log(' [DEBUG] URL:', window.location.href);
+      console.log(' [DEBUG] User Agent:', navigator.userAgent);
+
+      // ===== 1. DEBUG DO LOCALSTORAGE =====
+      console.group(' [DEBUG] LocalStorage Analysis');
+      const lsKeys = Object.keys(localStorage);
+      lsKeys.forEach(key => {
+        try {
+          const value = localStorage.getItem(key);
+          console.log(`${key}:`, JSON.parse(value));
+        } catch (e) {
+          console.log(`${key}:`, localStorage.getItem(key));
+        }
+      });
+      console.groupEnd();
+
+      // ===== 2. DEBUG DE AUTENTICAÇÃO =====
+      console.group('[DEBUG] Authentication Status');
+      const decapUser = localStorage.getItem('decap-cms-user');
+      const netlifyUser = localStorage.getItem('netlify-cms-user');
+
+      console.log('decap-cms-user:', decapUser ? 'EXISTE' : 'NÃO EXISTE');
+      console.log('netlify-cms-user:', netlifyUser ? 'EXISTE' : 'NÃO EXISTE');
+
+      if (decapUser) {
+        try {
+          const userObj = JSON.parse(decapUser);
+          console.log('Token exists:', !!userObj.token);
+          console.log('Backend:', userObj.backendName);
+          console.log('User info:', userObj);
+        } catch (e) {
+          console.error('Erro ao parsear user:', e);
+        }
+      }
+      console.groupEnd();
+
+      // ===== 3. DEBUG DO POSTMESSAGE =====
+      window.addEventListener('message', function (e) {
+        console.group('[DEBUG] PostMessage Received');
+        console.log('Origin:', e.origin);
+        console.log('Data:', e.data);
+        console.log('Data Type:', typeof e.data);
+        console.log('Source:', e.source);
+
+        try {
+          if (typeof e.data === 'string') {
+            const prefix = 'authorization:github:success:';
+            if (e.data.startsWith(prefix)) {
+              console.log('Token message detected');
+              const payload = JSON.parse(e.data.slice(prefix.length));
+              console.log('Token payload:', payload);
+
+              const userObj = {
+                token: payload.token,
+                backendName: 'github',
+                name: 'github-user',
+                login: 'github'
+              };
+
+              console.log('Saving to localStorage...');
+              localStorage.setItem('decap-cms-user', JSON.stringify(userObj));
+              console.log('Saved successfully');
+
+              setTimeout(() => {
+                console.log('Reloading page...');
+                window.location.href = window.location.origin + window.location.pathname;
+              }, 100);
+            }
+          }
+        } catch (err) {
+          console.error('Auth shim error:', err);
+        }
+        console.groupEnd();
+      });
+
+      // ===== 4. DEBUG DAS CHAMADAS API =====
+      console.group('[DEBUG] API Call Monitoring');
+
+      // Monitora fetch
+      const originalFetch = window.fetch;
+      window.fetch = function (...args) {
+        const url = args[0];
+        const method = args[1]?.method || 'GET';
+
+        console.group(`[API ${method}] ${url}`);
+        console.log('Request args:', args);
+
+        const startTime = Date.now();
+
+        return originalFetch.apply(this, args).then(response => {
+          console.log(`Status: ${response.status} ${response.statusText}`);
+          console.log(`Time: ${Date.now() - startTime}ms`);
+          console.log('Headers:', Object.fromEntries(response.headers.entries()));
+
+          // Clone response para logging do body
+          response.clone().text().then(body => {
+            try {
+              const jsonBody = JSON.parse(body);
+              console.log('Response Body:', jsonBody);
+            } catch {
+              console.log('Response Body:', body.substring(0, 500) + (body.length > 500 ? '...' : ''));
+            }
+          }).catch(e => console.log('Body logging error:', e));
+
+          console.groupEnd();
+          return response;
+        }).catch(error => {
+          console.error(`Fetch Error:`, error);
+          console.groupEnd();
+          throw error;
+        });
+      };
+
+      // Monitora XMLHttpRequest
+      const originalOpen = XMLHttpRequest.prototype.open;
+      const originalSend = XMLHttpRequest.prototype.send;
+
+      XMLHttpRequest.prototype.open = function (method, url) {
+        this._debugMethod = method;
+        this._debugUrl = url;
+        this._debugStartTime = Date.now();
+        return originalOpen.apply(this, arguments);
+      };
+
+      XMLHttpRequest.prototype.send = function (body) {
+        console.group(`[XHR ${this._debugMethod}] ${this._debugUrl}`);
+        console.log('Request Body:', body);
+
+        this.addEventListener('load', function () {
+          console.log(`Status: ${this.status} ${this.statusText}`);
+          console.log(`Time: ${Date.now() - this._debugStartTime}ms`);
+          console.log('Response:', this.responseText.substring(0, 1000));
+        });
+
+        this.addEventListener('error', function () {
+          console.error(`XHR Error:`, this.statusText);
+        });
+
+        console.groupEnd();
+        return originalSend.apply(this, arguments);
+      };
+      console.groupEnd();
+
+      // ===== 5. DEBUG DO DECAP CMS =====
+      console.group('[DEBUG] Decap CMS Events');
+
+      // Aguarda o Decap CMS carregar
+      setTimeout(() => {
+        if (window.CMS) {
+          console.log('Decap CMS loaded:', window.CMS);
+
+          // Monitora eventos do CMS
+          const originalRegisterEventListener = window.CMS.registerEventListener;
+          window.CMS.registerEventListener = function (event, handler) {
+            console.log(`CMS Event Registered: ${event}`);
+            return originalRegisterEventListener.call(this, event, handler);
+          };
+        } else {
+          console.warn('Decap CMS not found in window.CMS');
+        }
+      }, 1000);
+      console.groupEnd();
+
+      // ===== 6. DEBUG DE ERROS GLOBAIS =====
+      console.group('[DEBUG] Global Error Monitoring');
+
+      window.addEventListener('error', function (e) {
+        console.error('Global Error:', e.error);
+        console.error('Error details:', {
+          message: e.message,
+          filename: e.filename,
+          lineno: e.lineno,
+          colno: e.colno
+        });
+      });
+
+      window.addEventListener('unhandledrejection', function (e) {
+        console.error('Unhandled Promise Rejection:', e.reason);
+        console.error('Promise:', e.promise);
+      });
+
+      // Monitora console.errors
+      const originalConsoleError = console.error;
+      console.error = function (...args) {
+        originalConsoleError.apply(console, args);
+        console.group('Console Error Detected');
+        args.forEach(arg => console.log('Error detail:', arg));
+        console.groupEnd();
+      };
+      console.groupEnd();
+
+      // ===== 7. DEBUG DE CONFIGURAÇÃO =====
+      console.group('[DEBUG] Configuration Check');
+      console.log('Window location:', {
+        href: window.location.href,
+        origin: window.location.origin,
+        pathname: window.location.pathname,
+        hash: window.location.hash
+      });
+
+      // Verifica se o CMS está tentando carregar a config
+      const configScript = document.querySelector('script[src*="config.yml"]');
+      console.log('Config script element:', configScript);
+      console.groupEnd();
+
+      console.log('[DEBUG] Debug setup complete - monitoring started');
+
     })();
   </script>
 </body>
