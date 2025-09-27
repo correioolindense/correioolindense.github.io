@@ -5,7 +5,7 @@ title: Ossesio aprova PL que criminaliza desafios perigosos voltados às crianç
 categories:
   - Cidades
 date: 2025-09-27 16:02:00 -0300
-image: 496cb272-7cbd-47e6-a4ec-b69b7e7610f1.jpeg
+image: https://drive.google.com/file/d/1zUGIFjlS0N9uZHNk079IJ4PqHP40osUv/view?usp=drivesdk
 ---
 Visando frear a disseminação de conteúdos maléficos ou perigosos direcionados as crianças e adolescentes, como os da "baleia-azul" e o "desafio do desodorante", que ocasionou em morte e lesões, o deputado federal Ossesio Silva (Republicanos/PE), aprovou na última quarta-feira (24), na Comissão de Comunicação na Câmara Federal, o Projeto de Lei 1.699/2025. ​
 
