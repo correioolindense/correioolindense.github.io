@@ -21,24 +21,30 @@ collections:
     create: true
 
     # cria o arquivo em _posts/ANO/mes/dia/AAAA-MM-DD-slug.md
-    path: "{{fields.ano}}/{{fields.mes}}/{{fields.dia}}/{{year}}-{{month}}-{{day}}-{{slug}}"
+    path: "{{year}}/{{month}}/{{day}}/{{year}}-{{month}}-{{day}}-{{slug}}"
     slug: "{{slug}}"
     preview_path: "{{slug}}"
 
     fields:
-      - { label: "Ano (YYYY)", name: "ano", widget: "string", pattern: ["^\\d{4}$", "Use 4 dígitos"], hint: "Ex.: 2025" }
-      - label: "Mês (português)"
-        name: "mes"
-        widget: "select"
-        options: [janeiro, fevereiro, março, abril, maio, junho, julho, agosto, setembro, outubro, novembro, dezembro]
-        default: setembro
-      - { label: "Dia (DD)", name: "dia", widget: "string", pattern: ["^\\d{2}$", "Use 2 dígitos"], hint: "Ex.: 11" }
+      #- { label: "Ano (YYYY)", name: "ano", widget: "string", pattern: ["^\\d{4}$", "Use 4 dígitos"], hint: "Ex.: 2025" }
+      #- label: "Mês (português)"
+      #  name: "mes"
+      #  widget: "select"
+      #  options: [janeiro, fevereiro, março, abril, maio, junho, julho, agosto, setembro, outubro, novembro, dezembro]
+      #  default: setembro
+      #- { label: "Dia (DD)", name: "dia", widget: "string", pattern: ["^\\d{2}$", "Use 2 dígitos"], hint: "Ex.: 11" }
 
       # front matter conforme seu tema
       - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
       - { label: "Título", name: "title", widget: "string" }
       - { label: "Categorias", name: "categories", widget: "list", hint: "Ex.: [ Olinda, Cidades ]" }
-      - { label: "Imagem (capa)", name: "image", widget: "image", hint: "Salve em assets/images/ANO/mês/dia/arquivo.jpg" }
+      - { 
+          label: "Imagem (capa)", 
+          name: "image", 
+          widget: "image",
+          media_folder: "assets/images/{{year}}/{{month}}/{{day}}",
+          public_path: "/assets/images/{{year}}/{{month}}/{{day}}"
+        }
       - { label: "Data", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss ZZ", hint: "Ex.: 2025-09-11 12:30:00 -0300" }
       - { label: "Tags", name: "tags", widget: "list", required: false }
       - { label: "Conteúdo", name: "body", widget: "markdown" }
