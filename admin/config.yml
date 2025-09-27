@@ -9,8 +9,10 @@ site_url: https://correioolindense.com.br
 display_url: https://correioolindense.com.br
 
 # Biblioteca de mídia aponta para sua pasta de imagens
-media_folder: "assets/images/{{year}}/{{month}}/{{day}}"
+#media_folder: "assets/images/{{year}}/{{month}}/{{day}}"
 #public_folder: "/assets/images"
+media_folder: "assets/images"
+public_folder: "/assets/images"
 
 publish_mode: editorial_workflow
 
