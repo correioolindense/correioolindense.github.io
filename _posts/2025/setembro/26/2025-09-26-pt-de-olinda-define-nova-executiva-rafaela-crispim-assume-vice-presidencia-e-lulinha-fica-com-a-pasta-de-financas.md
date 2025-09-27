@@ -1,10 +1,14 @@
 ---
 layout: post
-title: "PT DE OLINDA DEFINE NOVA EXECUTIVA: RAFAELA CRISPIM ASSUME VICE-PRESIDÊNCIA E LULINHA FICA COM A PASTA DE FINANÇAS"
-categories: [ Olinda, Cidades ]
-image: assets/images/2025/setembro/26/02.jpg
-date:   2025-09-26 22:10:00 -0300
-tags: [ featured]
+title: "PT DE OLINDA DEFINE NOVA EXECUTIVA: RAFAELA CRISPIM ASSUME
+  VICE-PRESIDÊNCIA E LULINHA FICA COM A PASTA DE FINANÇAS"
+categories:
+  - Olinda
+  - Cidades
+date: 2025-09-26 22:10:00 -0300
+image: assets/images/496cb272-7cbd-47e6-a4ec-b69b7e7610f1.jpeg
+tags:
+  - featured
 ---
 O Diretório Municipal do Partido dos Trabalhadores (PT) de Olinda oficializou, em sua primeira reunião, a nova composição da executiva que conduzirá a sigla nos próximos anos. A formação aprovada une renovação e experiência, destacando a chegada da conselheira tutelar Rafaela Crispim à vice-presidência e a ida do ex-presidente Lulinha para a secretaria de Finanças.
 
