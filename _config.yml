@@ -22,7 +22,7 @@ plugins:
   - jekyll-seo-tag
 
 # Paginate
-paginate: 10
+paginate: 24
 
 authors:
     alexandre:
@@ -85,7 +85,6 @@ cache_dir: .jekyll-cache
 #
 exclude:
   - .sass-cache/
-  - .jekyll-cache/
   - gemfiles/
   - Gemfile
   - Gemfile.lock

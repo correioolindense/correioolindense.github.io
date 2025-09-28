@@ -30,17 +30,22 @@ jobs:
           bundler-cache: true
 
       # Garante que o caminho exista (evita o Path Validation Error)
-      - name: Ensure cache dir
-        run: mkdir -p .jekyll-cache
+      - name: Ensure cache dirs
+        run: |
+          mkdir -p .jekyll-cache
+          mkdir -p _site
 
       # Restaura o cache, se houver
-      - name: Restore .jekyll-cache
+      - name: Restore Jekyll caches
         uses: actions/cache/restore@v4
         with:
-          path: .jekyll-cache
-          key: jekyll-cache-${{ hashFiles('_config.yml', 'Gemfile.lock') }}
+          path: |
+            .jekyll-cache
+            .jekyll-metadata
+            _site
+          key: jekyll-all-${{ hashFiles('_config.yml', 'Gemfile.lock') }}
           restore-keys: |
-            jekyll-cache-
+            jekyll-all-
 
       - name: Setup Pages
         id: pages
@@ -53,12 +58,15 @@ jobs:
           bundle exec jekyll build --incremental --baseurl "${{ steps.pages.outputs.base_path }}" --verbose
 
       # Salva o cache SEM depender do "post job" (resolve seu warning)
-      - name: Save .jekyll-cache
+      - name: Save Jekyll caches
         if: always()
         uses: actions/cache/save@v4
         with:
-          path: .jekyll-cache
-          key: jekyll-cache-${{ hashFiles('_config.yml', 'Gemfile.lock') }}-${{ github.run_id }}
+          path: |
+            .jekyll-cache
+            .jekyll-metadata
+            _site
+          key: jekyll-all-${{ hashFiles('_config.yml', 'Gemfile.lock') }}-${{ github.run_id }}
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
