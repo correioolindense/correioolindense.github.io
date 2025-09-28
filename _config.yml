@@ -64,7 +64,16 @@ defaults:
   - scope:
       path: "_pages"
     values:
-      layout: page      
+      layout: page    
+
+# Diz explicitamente ao Jekyll onde ficar o cache
+cache_dir: .jekyll-cache
+
+# plugins:
+#   - jekyll-paginate
+#   - jekyll-feed
+#   - jekyll-sitemap
+#   - jekyll-seo-tag
     
 # Exclude from processing.
 # The following items will not be processed, by default.

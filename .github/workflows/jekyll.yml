@@ -1,4 +1,3 @@
-# Build & deploy Jekyll para GitHub Pages com cache de Bundler + .jekyll-cache
 name: Deploy Jekyll site to Pages
 
 on:
@@ -11,7 +10,6 @@ permissions:
   pages: write
   id-token: write
 
-# Evita execuções concorrentes do mesmo deploy
 concurrency:
   group: "pages"
   cancel-in-progress: false
@@ -20,7 +18,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout (shallow)
         uses: actions/checkout@v4
         with:
           fetch-depth: 1
@@ -28,12 +26,16 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.2'          # pode manter '3.1' se preferir
-          bundler-cache: true          # usa Gemfile.lock para cache automático das gems
-          cache-version: 0
+          ruby-version: '3.2'         # (pode manter 3.1 se quiser)
+          bundler-cache: true
 
-      - name: Cache .jekyll-cache
-        uses: actions/cache@v4
+      # Garante que o caminho exista (evita o Path Validation Error)
+      - name: Ensure cache dir
+        run: mkdir -p .jekyll-cache
+
+      # Restaura o cache, se houver
+      - name: Restore .jekyll-cache
+        uses: actions/cache/restore@v4
         with:
           path: .jekyll-cache
           key: jekyll-cache-${{ hashFiles('_config.yml', 'Gemfile.lock') }}
@@ -44,11 +46,19 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
 
-      - name: Build with Jekyll
+      - name: Build with Jekyll (incremental)
         env:
           JEKYLL_ENV: production
         run: |
           bundle exec jekyll build --incremental --baseurl "${{ steps.pages.outputs.base_path }}" --verbose
+
+      # Salva o cache SEM depender do "post job" (resolve seu warning)
+      - name: Save .jekyll-cache
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: .jekyll-cache
+          key: jekyll-cache-${{ hashFiles('_config.yml', 'Gemfile.lock') }}-${{ github.run_id }}
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
