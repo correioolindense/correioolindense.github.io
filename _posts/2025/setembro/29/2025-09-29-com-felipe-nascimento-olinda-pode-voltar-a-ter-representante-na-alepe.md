@@ -2,7 +2,7 @@
 layout: post
 title: "COM FELIPE NASCIMENTO, OLINDA PODE VOLTAR A TER REPRESENTANTE NA ALEPE"
 categories: [ Olinda, Cidades ]
-image:assets/images/2025/setembro/29/04.jpg
+image: assets/images/2025/setembro/29/04.jpg
 date:   2025-09-29 16:40:00 -0300
 tags: [ featured]
 ---
