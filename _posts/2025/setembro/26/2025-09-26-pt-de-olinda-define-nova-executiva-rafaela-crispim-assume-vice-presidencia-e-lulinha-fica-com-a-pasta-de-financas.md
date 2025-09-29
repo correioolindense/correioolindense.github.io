@@ -6,7 +6,7 @@ categories:
   - Olinda
   - Cidades
 date: 2025-09-26 22:10:00 -0300
-image: assets/images/2025/setembro/24/08.jpg
+image: assets/images/2025/setembro/26/02.jpg
 tags:
   - featured
 ---
