@@ -11,6 +11,7 @@ A comunidade de Rua Santana, em Olinda, vai receber nesta quarta-feira, 1º de o
 A ação é uma realização da Prefeitura de Olinda, em parceria com diversas instituições, e conta com a solicitação do líder comunitário Aruá do Gás, que tem atuado na aproximação entre o poder público e a comunidade local.
 
 Entre os principais serviços disponíveis, estão:
+
 	•	Emissão gratuita do novo RG
 	•	Emissão de registros civis (nascimento, casamento e óbito)
 	•	Orientações do Procon
@@ -18,17 +19,20 @@ Entre os principais serviços disponíveis, estão:
 	•	Exames de vista com o Instituto Altino Ventura
 
 Além disso, será oferecido o serviço do Serasa Limpa Nome, também gratuito, permitindo que cidadãos renegociem dívidas e regularizem sua situação financeira. Para esse atendimento, é necessário levar cópias dos seguintes documentos:
+
 	•	RG
 	•	CPF
 	•	Carteira de Trabalho
 	•	Comprovante de residência
 
 Na área de saúde, os moradores terão acesso a:
+
 	•	Atendimento clínico geral e odontológico
 	•	Testes rápidos (hepatites B e C, sífilis e HIV)
 	•	Vacinação
 
 Já na parte social, serão realizados:
+
 	•	Cadastro Único / CRAS
 	•	Atendimento do Bolsa Família
 	•	Orientação jurídica gratuita, com advogado disponível para tratar de BPC, LOAS, pensão e divórcio
