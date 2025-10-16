@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "“DO AFRO AO FREVO” CELEBRA DIVERSIDADE E TREDIÇÃO CULTURAL EM PEIXINHOS, OLINDA"
+title: "“DO AFRO AO FREVO” CELEBRA DIVERSIDADE E TRADIÇÃO CULTURAL EM PEIXINHOS, OLINDA"
 categories: [ Olinda, Cidades ]
 image: assets/images/2025/outubro/16/01.jpg
 date:   2025-10-16 14:20:00 -0300
