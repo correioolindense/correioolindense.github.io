@@ -17,11 +17,19 @@ Além da tradicional premiação para os primeiros colocados, os participantes a
 Com espírito esportivo e clima de confraternização, a Corrida Onda Verde promete ser um grande encontro entre atletas, agentes de trânsito e a comunidade olindense, marcando mais um passo rumo a uma cidade mais saudável e integrada.
 
 **Serviço:**
+
 Evento: Corrida Onda Verde – 1ª Edição
+
 Data: 23 de novembro de 2025
+
 Horário: 6h30
+
 Local: Praça Duque de Caxias – Olinda
+
 Percurso: 5 km
+
 Inscrições: www.menthorcorridas.com.br
+
 Valores: R$ 82,90 (público geral) / R$ 64,90 (agentes de segurança pública)
+
 Cupom: lela10 – 10% de desconto
