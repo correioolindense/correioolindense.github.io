@@ -6,7 +6,7 @@ image: assets/images/2025/novembro/05/03.jpg
 date:   2025-11-05 20:01:00 -0300
 tags: [ featured]
 ---
-O compromisso com a saúde pública de Olinda ganhou mais um importante reforço nesta semana. Representando o mandato da senadora Teresa Leitão (PT), o presidente municipal do partido e assessor parlamentar Hélder Pires participou de uma audiência com a secretária municipal de Saúde, Ana Callou, acompanhado do presidente da Câmara de Vereadores de Olinda, Saulo Holanda (PCdoB), e do líder comunitário Gilson de Gós.
+O compromisso com a saúde pública de Olinda ganhou mais um importante reforço nesta semana. Representando o mandato da senadora Teresa Leitão (PT), o presidente municipal do partido e assessor parlamentar Hélder Pires participou de uma audiência com a secretária municipal de Saúde, Ana Callou, acompanhado do presidente da Câmara de Vereadores de Olinda, Saulo Holanda (MDB), e do líder comunitário Gilson de Gós.
 
 Durante o encontro, foi anunciado que, a partir de uma solicitação feita pelo vereador e pelas comunidades de Sítio Novo e Salgadinho, a senadora Teresa Leitão destinará R$ 300 mil no orçamento de 2026 para a estruturação em média e alta complexidade do novo prédio onde funcionará a Policlínica Martagão Gesteira, em Salgadinho.
 
