@@ -8,7 +8,7 @@ tags: [ featured]
 ---
 A senadora Teresa Leitão (PT) esteve na manhã desta quarta-feira (19) na Câmara Municipal de Olinda, onde se reuniu com vereadores para detalhar o conjunto de emendas destinadas ao município e apresentar novas ações previstas para os próximos meses. O encontro ocorreu a convite do presidente da Casa, Saulo Holanda, e reuniu parlamentares da base e de diferentes campos políticos.
 
-Durante a reunião, Teresa destacou que parte dos recursos já está empenhada e com convênios formalizados. Entre eles, a emenda de R$ 4 milhões para instalação do elevador da Sé, equipamento considerado estratégico para fortalecer a acessibilidade e ampliar o fluxo turístico no Sítio Histórico.
+Durante a reunião, Teresa destacou que parte dos recursos já está empenhada e com convênios formalizados. Entre eles, a emenda de R$ 600 mil para instalação do elevador da Sé, equipamento considerado estratégico para fortalecer a acessibilidade e ampliar o fluxo turístico no Sítio Histórico.
 
 “Tenho um olhar especial para o Sítio Histórico de Olinda. Essa emenda do elevador já está empenhada e com convênio aprovado”, afirmou a senadora.
 
