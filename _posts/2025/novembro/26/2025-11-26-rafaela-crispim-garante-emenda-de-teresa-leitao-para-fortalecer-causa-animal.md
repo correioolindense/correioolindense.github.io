@@ -3,7 +3,7 @@ layout: post
 title: "RAFAELA CRISPIM GARANTE EMENDA DE TERESA LEITÃO PARA FORTALECER A CAUSA ANIMAL EM 2026"
 categories: [ Olinda, Cidades ]
 image: assets/images/2025/novembro/26/02.jpg
-date:   2025-10-26 10:59:00 -0300
+date:   2025-11-26 10:59:00 -0300
 tags: [ featured]
 ---
 A defesa animal em Olinda acaba de receber um importante reforço. Graças à articulação direta de Rafaela Crispim, a ONG Mundo do Marley foi contemplada com uma emenda parlamentar da senadora Teresa Leitão, prevista para ser executada em 2026. A iniciativa é fruto de uma mobilização construída com conhecimento de causa: Rafaela acompanha de perto a realidade do abrigo, suas urgências e o impacto que ele tem na vida dos animais e da comunidade.
