@@ -8,7 +8,7 @@ tags: [ featured]
 ---
 Vem aí a 6ª edição do Festival da Tapioca. Com música, aulas-show e muito mais, o encontro acontece entre sexta (12) e domingo (14), no Alto da Sé, no Carmo. Nos dois primeiros dias, a programação vai das 15h às 21h. No domingo, das 14h às 20h.
 
-O Festival da Tapioca é promovido pela Prefeitura de Olinda, através da Secretaria de Patrimônio Cultura, e contará com muitos sabores e energia única que só a Marim dos Caetés oferece. Dentro da programação, o Chef César Santos vai ensinar os presentes a prepararem algumas iguarias e vai montar uma tapioca gigante em sua “cozinha-show”.
+O Festival da Tapioca é promovido pela Prefeitura de Olinda, através da Secretaria de Desenvolvimento Econômico, e contará com muitos sabores e energia única que só a Marim dos Caetés oferece. Dentro da programação, o Chef César Santos vai ensinar os presentes a prepararem algumas iguarias e vai montar uma tapioca gigante em sua “cozinha-show”.
 
 Além disso, as 47 tapioqueiras inscritas no Festival da Tapioca vão disputar o concurso da tapioca mais criativa. Ainda, no sábado (13), ocorrerá a Feira do Bem, com 20 empreendedoras mães atípicas comercializando artesanatos, comidas e muito mais.
 
