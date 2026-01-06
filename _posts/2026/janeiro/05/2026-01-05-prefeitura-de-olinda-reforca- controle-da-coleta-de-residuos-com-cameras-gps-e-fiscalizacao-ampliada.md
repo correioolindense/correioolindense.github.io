@@ -2,7 +2,7 @@
 layout: post
 title: "PREFEITURA DE OLINDA REFORÇA CONTROLE DA COLETA DE RESÍDUOS COM CÂMERAS, GPS E FISCALIZAÇÃO AMPLIADA"
 categories: [ Olinda, Cidades ]
-image: assets/images/2025/dezembro/05/02.jpg
+image: assets/images/2026/janeiro/05/02.jpg
 date:   2026-01-05 22:49:00 -0300
 tags: [featured]
 ---
