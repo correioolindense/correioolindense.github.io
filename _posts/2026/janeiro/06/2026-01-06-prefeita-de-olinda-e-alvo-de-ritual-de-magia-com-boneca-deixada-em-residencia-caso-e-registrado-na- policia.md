@@ -2,7 +2,7 @@
 layout: post
 title: "PREFEITA DE OLINDA É ALVO DE RITUAL DE MAGIA COM BONECA DEIXADA EM RESIDÊNCIA; CASO É REGISTRADO NA POLÍCIA"
 categories: [ Olinda, Cidades ]
-image: assets/images/2025/dezembro/06/03.jpg
+image: assets/images/2026/janeiro/06/03.jpg
 date:   2026-01-06 14:26:00 -0300
 tags: [featured]
 ---
