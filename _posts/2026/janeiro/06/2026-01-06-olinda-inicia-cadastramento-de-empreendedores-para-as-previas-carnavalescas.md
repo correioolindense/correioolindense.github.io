@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "PROTESTO CONTRA GESTÃO EM OLINDA TEM BAIXA ADESÃO E TERMINA ANTES DO PREVISTO"
+title: "OLINDA INICIA CADASTRAMENTO DE EMPREENDEDORES PARA AS PRÉVIAS CARNAVALESCAS"
 categories: [ Olinda, Cidades ]
-image: assets/images/2025/dezembro/06/02.jpg
+image: assets/images/2026/janeiro/06/02.jpg
 date:   2026-01-06 14:07:00 -0300
 tags: [featured]
 ---
