@@ -2,7 +2,7 @@
 layout: post
 title: "PROTESTO CONTRA GESTÃO EM OLINDA TEM BAIXA ADESÃO E TERMINA ANTES DO PREVISTO"
 categories: [ Olinda, Cidades ]
-image: assets/images/2025/dezembro/06/01.jpg
+image: assets/images/2026/janeiro/06/01.jpg
 date:   2026-01-06 11:57:00 -0300
 tags: [featured]
 ---
