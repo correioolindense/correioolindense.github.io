@@ -2,7 +2,7 @@
 layout: post
 title: "DANIEL COELHO E LUPÉRCIO ANUNCIAM DOBRADINHA EM OLINDA"
 categories: [ Olinda, Cidades ]
-image: assets/images/2025/dezembro/07/01.jpg
+image: assets/images/2026/janeiro/07/01.jpg
 date:   2026-01-07 17:55:00 -0300
 tags: [featured]
 ---
