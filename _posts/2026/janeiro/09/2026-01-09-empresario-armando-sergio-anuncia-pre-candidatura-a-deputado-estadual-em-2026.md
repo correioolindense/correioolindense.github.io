@@ -2,7 +2,7 @@
 layout: post
 title: "EMPRESÁRIO ARMANDO SÉRGIO ANUNCIA PRÉ-CANDIDATURA A DEPUTADO ESTADUAL EM 2026"
 categories: [ Olinda, Cidades ]
-image: assets/images/2026/janeiro/09/04.jpg
+image: assets/images/2026/janeiro/09/03.jpg
 date:   2026-01-09 13:13:00 -0300
 tags: [ featured]
 ---
