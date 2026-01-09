@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "MIRELLA SE REÚNE COM DANIEL COELHO PARA FORTALECER AÇÕES DE SUSTENTABILIDADE NO CARNAVAL DE OLINDA”
+title: "MIRELLA SE REÚNE COM DANIEL COELHO PARA FORTALECER AÇÕES DE SUSTENTABILIDADE NO CARNAVAL DE OLINDA"
 categories: [ Olinda, Cidades ]
-image: assets/images/2025/dezembro/09/04.jpg
+image: assets/images/2026/janeiro/09/04.jpg
 date:   2026-01-09 17:22:00 -0300
-tags: [featured]
+tags: [ featured]
 ---
 A prefeita de Olinda, Mirella Almeida, reuniu-se com o secretário de Meio Ambiente de Pernambuco, Daniel Coelho, para reforçar estratégias e fortalecer a parceria entre o município e o Governo do Estado na preparação do Carnaval 2026. O encontro contou com a participação de equipes técnicas da Prefeitura, representantes da Agência Estadual de Meio Ambiente (CPRH) e teve como foco a construção de uma festa cada vez mais sustentável, socialmente responsável e integrada ao cuidado com a cidade.
 
