@@ -2,7 +2,7 @@
 layout: post
 title: "TIMBALADA VAI ANIMAR A CORRIDA DO NOVO ATACAREJO DIA 25"
 categories: [ Olinda, Cidades ]
-image: assets/images/2025/dezembro/09/02.jpg
+image: assets/images/2026/janeiro/09/02.jpg
 date:   2026-01-09 07:42:00 -0300
 tags: [featured]
 ---
