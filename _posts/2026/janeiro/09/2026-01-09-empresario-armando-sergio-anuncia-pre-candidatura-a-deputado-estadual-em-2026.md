@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "EMPRESÁRIO ARMANDO SÉRGIO ANUNCIA PRÉ-CANDIDATURA A DEPUTADO ESTADUAL EM 2026”
+title: "EMPRESÁRIO ARMANDO SÉRGIO ANUNCIA PRÉ-CANDIDATURA A DEPUTADO ESTADUAL EM 2026"
 categories: [ Olinda, Cidades ]
-image: assets/images/2025/dezembro/09/03.jpg
+image: assets/images/2026/janeiro/09/04.jpg
 date:   2026-01-09 13:13:00 -0300
-tags: [featured]
+tags: [ featured]
 ---
 O empresário do setor de comunicação Armando Sérgio anunciou sua intenção de disputar as eleições de 2026 como candidato a deputado estadual pelo partido Agir. A movimentação reforça seu retorno ao cenário eleitoral pernambucano, após uma trajetória marcada por diversas participações em disputas majoritárias e proporcionais ao longo dos últimos anos.
 
