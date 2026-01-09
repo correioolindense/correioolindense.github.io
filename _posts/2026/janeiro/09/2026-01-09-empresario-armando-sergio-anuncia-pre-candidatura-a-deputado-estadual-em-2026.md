@@ -14,7 +14,7 @@ Segundo o pré-candidato, a campanha está sendo construída com foco em inovaç
 
 “A gente está montando uma estratégia diferenciada que vai surpreender muita gente. Vamos trabalhar muito, no micro e no macro, rodando Pernambuco inteiro”, afirmou.
 
-Figura conhecida da política estadual e, especialmente, de Olinda, Armando Sérgio acumula um histórico consistente de participação eleitoral. Foi candidato a prefeito de Olinda nos anos de 2004, 2012 e 2020, além de ter disputado uma vaga de deputado estadual em 2014 e de vereador em 2008.
+Figura conhecida da política estadual e, especialmente, de Olinda, Armando Sérgio acumula um histórico consistente de participação eleitoral. Foi candidato a prefeito de Olinda nos anos de 2000, 2004, 2012 e 2020, além de ter disputado uma vaga de deputado estadual em 2014 e de vereador em 2008.
 
 Em 2016, teve atuação destacada nos bastidores da política, sendo um dos coordenadores da campanha vitoriosa do professor Lupércio à Prefeitura de Olinda, experiência que consolidou sua presença no cenário político da cidade.
 
