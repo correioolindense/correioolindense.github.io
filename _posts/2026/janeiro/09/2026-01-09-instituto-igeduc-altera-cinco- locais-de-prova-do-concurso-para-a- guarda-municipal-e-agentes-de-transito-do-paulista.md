@@ -2,7 +2,7 @@
 layout: post
 title: "INSTITUTO IGEDUC ALTERA CINCO LOCAIS DE PROVA DO CONCURSO PARA A GUARDA MUNICIPAL E AGENTES DE TRÂNSITO DO PAULISTA"
 categories: [ Olinda, Cidades ]
-image: assets/images/2025/dezembro/09/01.jpg
+image: assets/images/2026/janeiro/09/01.jpg
 date:   2026-01-09 07:40:00 -0300
 tags: [featured]
 ---
