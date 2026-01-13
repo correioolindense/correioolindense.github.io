@@ -10,9 +10,9 @@ Reconhecido como um dos maiores e mais autênticos carnavais do mundo, o Carnava
 
 Para garantir que essa tradição continue viva, organizada e cada vez mais estruturada, o apoio da iniciativa privada é fundamental. Os patrocínios viabilizam desde a montagem de palcos, infraestrutura, serviços e logística até ações de apoio cultural, comunicação e acolhimento ao público, fortalecendo toda a cadeia produtiva do Carnaval.
 
-Nesse contexto, a Prefeitura de Olinda divulgou, nesta terça-feira (13/01), os nomes dos patrocinadores já confirmados para o Carnaval 2026. Na categoria Master, estão as empresas Amstel e Esportes da Sorte, que assumem papel de destaque no apoio à maior festa popular da cidade.
+Nesse contexto, a Prefeitura de Olinda divulgou, nesta terça-feira (13/01), os nomes dos patrocinadores já confirmados para o Carnaval 2026. Na categoria Master, estão o Governo de Pernambuco e as empresas Amstel e Esportes da Sorte, que assumem papel de destaque no apoio à maior festa popular da cidade.
 
-Além dos patrocinadores master, também estão confirmados: Smirnoff ICE, Fini, Pitú, Caixa Econômica Federal e Governo de Pernambuco, ampliando o leque de parcerias e fortalecendo o investimento na realização do evento.
+Além dos patrocinadores master, também estão confirmados: Smirnoff ICE, Fini, Pitú, Caixa Econômica Federal e Governo Federal, ampliando o leque de parcerias e fortalecendo o investimento na realização do evento.
 
 O apoio dessas marcas representa um reforço importante para que Olinda siga oferecendo um Carnaval grandioso, gratuito, plural e bem estruturado, garantindo conforto, segurança e qualidade para moradores, turistas e foliões. Mais do que patrocinar uma festa, essas parcerias contribuem diretamente para a preservação da identidade cultural da cidade e para o fortalecimento da economia local, que se aquece significativamente durante o período carnavalesco.
 
