@@ -12,7 +12,7 @@ Para garantir que essa tradição continue viva, organizada e cada vez mais estr
 
 Nesse contexto, a Prefeitura de Olinda divulgou, nesta terça-feira (13/01), os nomes dos patrocinadores já confirmados para o Carnaval 2026. Na categoria Master, estão as empresas Amstel e Esportes da Sorte, que assumem papel de destaque no apoio à maior festa popular da cidade.
 
-Além dos patrocinadores master, também estão confirmados: Smirnoff ICE, Fini, Pitú, Caixa Econômica Federal e Governo Federal, ampliando o leque de parcerias e fortalecendo o investimento na realização do evento.
+Além dos patrocinadores master, também estão confirmados: Smirnoff ICE, Fini, Pitú, Caixa Econômica Federal e Governo Estadual, ampliando o leque de parcerias e fortalecendo o investimento na realização do evento.
 
 O apoio dessas marcas representa um reforço importante para que Olinda siga oferecendo um Carnaval grandioso, gratuito, plural e bem estruturado, garantindo conforto, segurança e qualidade para moradores, turistas e foliões. Mais do que patrocinar uma festa, essas parcerias contribuem diretamente para a preservação da identidade cultural da cidade e para o fortalecimento da economia local, que se aquece significativamente durante o período carnavalesco.
 
