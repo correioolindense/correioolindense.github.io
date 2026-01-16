@@ -2,7 +2,7 @@
 layout: post
 title: "COM FÓRUM DOS BAIRROS, EUGÊNIA LIMA APOSTA NO DIÁLOGO DIRETO COM AS COMUNIDADES"
 categories: [ Olinda, Cidades ]
-image: assets/images/2026/janeiro/15/02.jpg
+image: assets/images/2026/janeiro/16/02.jpg
 date:   2026-01-16 15:33:00 -0300
 tags: [featured]
 ---
