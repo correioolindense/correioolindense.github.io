@@ -3,7 +3,7 @@ layout: post
 title: "INSCRIÇÕES PARA O VESTIBULAR DA FMO TERMINAM AMANHÃ (29)"
 categories: [ Olinda, Cidades ]
 image: assets/images/2026/janeiro/28/03.jpg
-date:   2026-01-28 15:03:00 -0300
+date:   2026-01-28 09:03:00 -0300
 tags: [featured]
 ---
 As inscrições para o concurso vestibular da Faculdade de Medicina de Olinda (FMO) terminam amanhã (29). As provas estão marcadas para acontecer no domingo (01.02).
