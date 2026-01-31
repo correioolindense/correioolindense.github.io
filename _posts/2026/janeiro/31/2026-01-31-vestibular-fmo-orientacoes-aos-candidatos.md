@@ -14,8 +14,8 @@ Portar documento de identidade oficial e duas canetas esferográfica de cor pret
 
 O endereço da faculdade é Rua Doutor Manoel de Almeida Belo, 1333, Bairro Novo, Olinda, Pernambuco. CEP 53.030-030.
 
-[Clique aqui para obter a localização no Google Maps](https://maps.app.goo.gl/TMj2okNRBiJpzBSq8)
+[Clique aqui para obter a localização no Google Maps https://maps.app.goo.gl/TMj2okNRBiJpzBSq8](https://maps.app.goo.gl/TMj2okNRBiJpzBSq8)
 
 Os resultados serão divulgados no dia 03 de fevereiro no Instagram institucional. As matrículas deverão ser realizadas a partir do dia 06.02.26.
 
-Mais informações: [Instagram](https://www.instagram.com/fmo.edu.br)
+Mais informações Instagram: [https://www.instagram.com/fmo.edu.br](https://www.instagram.com/fmo.edu.br)
