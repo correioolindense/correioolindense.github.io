@@ -3,7 +3,7 @@ layout: post
 title: "PASTOR RÔMULO SANTOS UNE FÉ, AÇÃO SOCIAL E PARTICIPAÇÃO POLÍTICA NA RMR"
 categories: [ Olinda, Cidades ]
 image: assets/images/2026/fevereiro/02/02.jpg
-date:   2026-02-02 16:12:00 -0300
+date:   2026-02-02 16:01:00 -0300
 tags: [featured]
 ---
 Aos 25 anos de idade, o pastor Rômulo Santos tem se consolidado como uma jovem liderança religiosa e comunitária na Região Metropolitana do Recife. Com cinco anos de tempo de pastoreio após ter assumido anteriormente a posse missionária, ele atua de forma contínua na promoção de ações sociais e no fortalecimento de vínculos comunitários, especialmente em áreas de maior vulnerabilidade social.
