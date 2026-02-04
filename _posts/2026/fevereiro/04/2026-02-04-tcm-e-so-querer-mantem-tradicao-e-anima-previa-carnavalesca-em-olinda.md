@@ -15,5 +15,3 @@ O percurso do desfile terá saída do espaço Casa de Vó, ao lado da Igreja de 
 A animação ficará por conta da Orquestra de Frevo Henrique Dias, do Samba da Lua — projeto solo do músico Da Lua, integrante de bandas como Nação Zumbi e Banda Eddie — e de Nego Thor, que contará com a participação especial de Cássio Vitor.
 
 A comissão organizadora da TCM É Só Querer é formada por Odin Neves, Valdenise Honório, Silvana Brito, Eline Lima, Flávio Tavares, M° Goretti Pessoa e Alexandre de Souza – Xandera.
-
-O evento conta com o apoio da PBR Gráfica; AK Serviços LTDA; Dayson Magno LTDA; Concip Construtora; Cooperativa Agrícola; General Goods e AWM, reforçando a parceria entre iniciativa privada e manifestações culturais tradicionais do Carnaval olindense.
