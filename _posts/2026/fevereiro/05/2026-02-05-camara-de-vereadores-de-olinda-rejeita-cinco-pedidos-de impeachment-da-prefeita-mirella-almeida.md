@@ -6,7 +6,7 @@ image: assets/images/2026/fevereiro/05/01.jpg
 date:   2026-02-05 11:07:00 -0300
 tags: [featured]
 ---
-A Câmara de Vereadores de Olinda rejeitou, hoje, cinco pedidos de impeachment protocolados contra a prefeita Mirella Almeida (PSD). As propostas foram analisadas inicialmente pela Procuradoria da Casa Bernardo Vieira de Melo e não avançaram para apreciação em plenário.
+A Câmara de Vereadores de Olinda rejeitou, hoje, cinco pedidos de impeachment protocolados contra a prefeita Mirella Almeida (PSD). As propostas foram analisadas inicialmente pela Procuradoria da Casa Bernardo Vieira de Melo e não avançaram na apreciação em plenário.
 
 De acordo com o regimento interno, os pedidos de impeachment só podem ser apreciados pelos vereadores após parecer da Procuradoria da Câmara. Para que o processo tenha prosseguimento, também é necessário o apoio da maioria simples dos parlamentares, respeitando o quórum mínimo de nove vereadores, o que não ocorreu neste caso.
 
