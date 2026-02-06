@@ -8,8 +8,6 @@
       <title>{{page.title}}</title>
       {% seo %}
       <link rel="shortcut icon" type="image/x-icon" href="{{site.baseurl}}/{{site.favicon}}">
-      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8357381444082200"
-         crossorigin="anonymous"></script>
       <script async src="https://www.googletagmanager.com/gtag/js?id=G-F9FNXQ8G6F"></script>
       <script>
          window.dataLayer = window.dataLayer || [];
@@ -106,6 +104,30 @@
          </div>
       </div>
    </footer>
+  <script>
+  window.addEventListener('load', function () {
+
+    // ===== Google Analytics =====
+    var ga = document.createElement('script');
+    ga.src = 'https://www.googletagmanager.com/gtag/js?id=G-F9FNXQ8G6F';
+    ga.async = true;
+    document.head.appendChild(ga);
+
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-F9FNXQ8G6F');
+
+    // ===== Google AdSense =====
+    var ads = document.createElement('script');
+    ads.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8357381444082200';
+    ads.async = true;
+    ads.crossOrigin = 'anonymous';
+    document.head.appendChild(ads);
+
+  });
+</script>
+  
    {% include tracking-footer.html %}
    </body>
 </html>
