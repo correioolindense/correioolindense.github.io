@@ -29,7 +29,14 @@
         <!-- Para telas grandes (imagem como img normal) -->
         <div class="col-4 d-none d-lg-block" style="border-radius: 5px; box-sizing: border-box; overflow: hidden; max-width: 280px; max-height: 280px;">
             <a href="{{site.baseurl}}{{post.url}}">
-                <img class="w-100 h-100 img-fixed" src="{% if post.image contains '://' %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}" alt="{{ post.title }}">
+                <img class="w-100 h-100 img-fixed"
+     src="{% if post.image contains '://' %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}"
+     alt="{{ post.title }}"
+     loading="lazy"
+     decoding="async"
+     width="800"
+     height="450">
+
             </a>
         </div>
     {% endif %}
