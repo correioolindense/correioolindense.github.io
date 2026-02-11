@@ -3,7 +3,7 @@ layout: post
 title: "JÚLIO CÉSAR CONSOLIDA ARTICULAÇÃO POLÍTICA E FORTALECE A GOVERNABILIDADE EM OLINDA"
 categories: [ Olinda, Cidades ]
 image: assets/images/2026/fevereiro/11/01.jpg
-date:   2026-02-11 05:14:00 -0300
+date:   2026-02-11 06:14:00 -0300
 tags: [ featured]
 ---
 À frente da Secretaria de Governo de Olinda, Júlio César tem desempenhado um papel estratégico na consolidação da governabilidade e no fortalecimento institucional da gestão municipal. Com perfil técnico e postura conciliadora, o secretário se destaca pela capacidade de diálogo e articulação entre os diversos setores da administração pública.
