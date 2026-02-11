@@ -3,7 +3,7 @@ layout: post
 title: "ORQUESTRA 100% MULHER ANIMA BLOCO DA FACULDADE DE MEDICINA DE OLINDA"
 categories: [ Olinda, Cidades ]
 image: assets/images/2026/fevereiro/10/01.jpg
-date:   2026-02-10 08:14:00 -0300
+date:   202602-10 08:14:00 -0300
 tags: [ featured]
 ---
 A Faculdade de Medicina de Olinda (FMO) promove uma grande prévia carnavalesca com o Bloco FMO na Folia, nesta quarta-feira (11). A festa será animada pela Orquestra 100% Mulher e passistas da Cia de Dança Angélica Lins.
