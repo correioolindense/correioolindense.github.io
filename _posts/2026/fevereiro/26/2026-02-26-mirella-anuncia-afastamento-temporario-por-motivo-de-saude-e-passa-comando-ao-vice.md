@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIRELLA ANUNCIA AFASTAMENTO TEMPORÁRIO POR MOTIVO DE SAÚDE E PASSA COMANDO AO VICE"
+title: "MIRELLA ANUNCIA AFASTAMENTO TEMPORÁRIO E PASSA COMANDO AO VICE"
 categories: [ Olinda, Cidades ]
 image: assets/images/2026/fevereiro/26/01.jpg
 date:   2026-02-26 14:04:00 -0300
