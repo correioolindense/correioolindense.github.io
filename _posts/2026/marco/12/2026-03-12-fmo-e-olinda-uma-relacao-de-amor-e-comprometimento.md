@@ -10,7 +10,7 @@ O dia 12 de março de 1535 marca a fundação de Olinda. Nesta data, Duarte Coel
 
 Quase 500 anos depois um jovem e ousado empreendedor também apostou suas fichas no município, quando o escolheu para sediar o que viria se tornar uma das maiores empresas da Cidade Patrimônio.
 
-O advogado Inácio de Barros Melo Neto, recifense, mas apaixonado por Olinda, fundou a Faculdade de Medicina de Olinda (FMO), em 2015, com a seguinte convicção: "Olinda, uma cidade boa para trabalhar".
+O educador Inácio de Barros Melo Neto, recifense, mas apaixonado por Olinda, fundou a Faculdade de Medicina de Olinda (FMO), em 2015, com a seguinte convicção: "Olinda, uma cidade boa para trabalhar".
 
 Esta conexão com a Marim dos Caetés fez com que a Câmara de Vereadores concedesse a ele o título de cidadão da cidade, em 2024, reconhecendo a contribuição que a instituição tem dado ao seu desenvolvimento.
 
