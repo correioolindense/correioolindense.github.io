@@ -21,3 +21,5 @@ Também houve espaço para reflexões sobre o papel dos homens na construção d
 Ao final da sessão, o presidente da Câmara, Saulo Holanda, agradeceu a todos os envolvidos na organização do evento e reforçou a importância de manter o tema em evidência. Segundo ele, discutir respeito, dignidade e proteção às mulheres é uma responsabilidade coletiva e permanente do poder público, da sociedade e das famílias.
 
 A sessão solene deixou como mensagem central a necessidade de transformar informação em ação. Mais do que um ato simbólico, o encontro representou um posicionamento institucional da Câmara de Olinda em defesa dos direitos das mulheres e no fortalecimento de uma cultura de enfrentamento à violência.
+
+Foto: Manu Labanca/CMO
