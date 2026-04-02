@@ -8,7 +8,7 @@ tags: [featured]
 ---
 Nos bastidores da política pernambucana, um movimento começa a ganhar força e pode redesenhar articulações importantes para os próximos pleitos eleitorais. Tudo indica que a ex-secretária municipal Izabel Urquiza está prestes a se filiar ao partido Republicanos, ampliando sua atuação dentro de uma nova estrutura partidária.
 
-A possível filiação ainda não foi oficializada, mas interlocutores próximos afirmam que as conversas estão avançadas e que o anúncio pode acontecer em breve. A movimentação é vista como estratégica tanto para Izabel quanto para o partido, que busca fortalecer seus quadros com nomes já conhecidos do eleitorado.
+A possível filiação ainda não foi oficializada, mas interlocutores próximos afirmam que as conversas estão avançadas e que o anúncio pode acontecer em breve. A movimentação é vista como estratégica tanto para Izabel quanto para o partido, que busca fortalecer seus quadros com nomes já conhecidos do eleitorado, a filiaçao tende em resultar em uma dobradinha com o deputado estadual Joã Paulo Costa.
 
 Izabel Urquiza tem trajetória consolidada na gestão pública. Ao longo dos anos, acumulou experiência como secretária em cidades importantes da Região Metropolitana, como Olinda, Jaboatão dos Guararapes e Cabo de Santo Agostinho. Essa vivência administrativa é apontada como um dos trunfos que podem pesar na decisão do partido.
 
