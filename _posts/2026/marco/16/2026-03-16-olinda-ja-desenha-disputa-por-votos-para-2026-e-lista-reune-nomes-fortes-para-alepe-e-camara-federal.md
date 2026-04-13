@@ -1,0 +1,17 @@
+---
+layout: post
+title: "OLINDA JÁ DESENHA DISPUTA POR VOTOS PARA 2026 E LISTA REÚNE NOMES FORTES PARA ALEPE E CÂMARA FEDERAL"
+categories: [ Olinda, Cidades ]
+image: assets/images/2026/marco/16/01.jpg
+date:   2026-03-16 08:19:00 -0300
+tags: [featured]
+---
+Mesmo ainda longe da abertura oficial do calendário eleitoral, os bastidores políticos de Olinda já começam a apontar quais nomes tendem a polarizar a disputa por votos no município nas eleições de 2026. A avaliação circula entre lideranças comunitárias, suplentes, vereadores, ex-candidatos e articuladores locais, e indica um cenário competitivo tanto para deputado estadual quanto para deputado federal. No caso dos nomes citados, há perfis com base consolidada, mandato em curso, atuação regional e vínculos diretos ou indiretos com grupos políticos da cidade. Formalmente, porém, as candidaturas só se confirmam mais adiante, durante as convenções partidárias e o registro na Justiça Eleitoral.  
+
+Na corrida para a Assembleia Legislativa de Pernambuco, a projeção inclui Professor Lupércio, Ivete Caetano, Eugênia Lima, Batista Cabral, Vinícius Castello, Beto Acioly, Manoel Sátiro, João de Nadegi, Simone Santana, Aglailson Victor e Francismar Pontes. Entre eles, alguns nomes partem com maior grau de visibilidade pública. Lupércio, por exemplo, governou Olinda de 2017 a 2024 e já anunciou que pretende disputar uma vaga de deputado estadual em 2026, o que naturalmente o coloca entre os nomes mais observados no município. João de Nadegi, Simone Santana e Aglailson Victor também já têm assento na Alepe, o que amplia capilaridade, recall eleitoral e presença institucional. Vinícius Castello, por sua vez, disputou a Prefeitura de Olinda em 2024 e segue como nome conhecido no debate político local.  
+
+No campo dos federais, a leitura de bastidor aponta para Daniel Coelho, Juliana de Chaparral, Liana Cirne, Ricardo Teobaldo, Gabriel Porto, Clodoaldo Magalhães, Augusto Coutinho e Waldemar de Oliveira como nomes com maior potencial de votação em Olinda. O grupo mistura figuras com mandato, lideranças em ascensão e quadros que tentam expandir presença na Região Metropolitana. Daniel Coelho, ex-deputado federal, hoje aparece fora do mandato na Câmara e passou pelo comando da Secretaria de Turismo e Lazer de Pernambuco. Juliana de Chaparral é prefeita reeleita de Casinhas e já vem cumprindo agenda política em Olinda como pré-candidata a deputada federal. Liana Cirne é vereadora do Recife e mantém atuação política de forte repercussão nas redes e no debate público. Já Clodoaldo Magalhães, Augusto Coutinho e Waldemar Oliveira exercem atualmente mandato de deputado federal por Pernambuco.  
+
+A tendência é que Olinda volte a ser um dos colégios eleitorais mais disputados da Região Metropolitana, especialmente porque a cidade combina voto de opinião, influência de lideranças comunitárias, força de grupos religiosos, peso do funcionalismo e articulação de vereadores e ex-vereadores. Nesse cenário, apoio político local pode ser tão importante quanto estrutura partidária ou tempo de mídia. Por isso, a movimentação desde já tem sido acompanhada com atenção por quem vive a política da cidade.
+
+Na prática, a lista que circula hoje não representa pesquisa oficial nem crava resultado eleitoral, mas mostra quem já está conseguindo entrar no radar das articulações e dos apoios. Em uma eleição proporcional, isso costuma fazer diferença: quem larga com base montada, rede territorial e presença em Olinda tende a chegar mais forte quando a campanha realmente começar.

@@ -8,8 +8,6 @@
       <title>{{page.title}}</title>
       {% seo %}
       <link rel="shortcut icon" type="image/x-icon" href="{{site.baseurl}}/{{site.favicon}}">
-      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8357381444082200"
-         crossorigin="anonymous"></script>
       <script async src="https://www.googletagmanager.com/gtag/js?id=G-F9FNXQ8G6F"></script>
       <script>
          window.dataLayer = window.dataLayer || [];
@@ -38,7 +36,14 @@
    <nav id="MagicMenu" class="navbar navbar-expand-lg navbar-light fixed-top shadow-sm">
       <div class="container">
          <a class="navbar-brand" href="{{ site.baseurl }}/index.html">
-            <img src="/assets/images/core/logo_horizontal_sem_bg.png" alt="Logo" style="width: 75px; height: auto;">
+            <img
+  src="{{ site.baseurl }}/assets/images/core/logo_horizontal_sem_bg.png"
+  alt="Logo"
+  style="width: 75px; height: auto;"
+  loading="eager"
+  fetchpriority="high"
+  decoding="async">
+
          </a>
          <!-- Botão do menu responsivo -->
          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor02"
@@ -106,6 +111,30 @@
          </div>
       </div>
    </footer>
+  <script>
+  window.addEventListener('load', function () {
+
+    // ===== Google Analytics =====
+    var ga = document.createElement('script');
+    ga.src = 'https://www.googletagmanager.com/gtag/js?id=G-F9FNXQ8G6F';
+    ga.async = true;
+    document.head.appendChild(ga);
+
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-F9FNXQ8G6F');
+
+    // ===== Google AdSense =====
+    var ads = document.createElement('script');
+    ads.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8357381444082200';
+    ads.async = true;
+    ads.crossOrigin = 'anonymous';
+    document.head.appendChild(ads);
+
+  });
+</script>
+  
    {% include tracking-footer.html %}
    </body>
 </html>
