@@ -5,9 +5,9 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://correioempauta.com.br/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: correioolindense
-github_username:  correioolindense
-disqus: 'correioolindense'
+twitter_username: correioempauta
+github_username:  correioempauta
+disqus: 'correioempauta'
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
