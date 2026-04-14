@@ -8,11 +8,11 @@ tags: [featured]
 ---
 Após almoço, nesta terça-feira (14), a prefeita Mirella Almeida solidificou sua liderança na cidade, formando uma base com 15 dos 17 vereadores da Casa Bernardo Vieira de Melo. 
 
-O entendimento, em prol de Olinda, veio através de muito diálogo de ambas as partes e do reconhecimento da intensificação de obras estruturadoras na cidade. 
+O entendimento em prol de Olinda, veio através de muito diálogo de ambas as partes e do reconhecimento da intensificação de obras estruturadoras na cidade. 
 
 Na ocasião, a prefeita anunciou a abertura de uma frente de trabalho de mais de R$ 200 milhões, ainda este ano, em Olinda. A iniciativa abrange obras de encostas, pavimentação de vias, recapeamento e tapa-buracos.
 
-Além da infraestrutura, o Patrimônio também passará por grandes intervenções. Dentre elas, as reformas do Mercado da Ribeira, do Clube Atlântico e do Fortim do Queijo. 
+Além da infraestrutura o Patrimônio também passará por grandes intervenções. Dentre elas, as reformas do Mercado da Ribeira, do Clube Atlântico e do Fortim do Queijo. 
 
 Outro ponto favorável ao entendimento é fato de que cerca de 35% do Carnaval de 2026 já foi pago e espera-se que, nos próximos 30 dias, o número de pagamentos seja dobrado. 
 
