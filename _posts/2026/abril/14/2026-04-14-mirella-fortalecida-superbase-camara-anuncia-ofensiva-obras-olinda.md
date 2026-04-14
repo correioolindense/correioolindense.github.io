@@ -10,7 +10,7 @@ Após almoço, nesta terça-feira (14), a prefeita Mirella Almeida solidificou s
 
 O entendimento, em prol de Olinda, veio através de muito diálogo de ambas as partes e do reconhecimento da intensificação de obras estruturadoras na cidade. 
 
-Na ocasião, a prefeita anunciou a abertura de uma frente de trabalho de mais de R$ 120 milhões, ainda este ano, em Olinda. A iniciativa abrange obras de encostas, pavimentação de vias, recapeamento e tapa-buracos.
+Na ocasião, a prefeita anunciou a abertura de uma frente de trabalho de mais de R$ 200 milhões, ainda este ano, em Olinda. A iniciativa abrange obras de encostas, pavimentação de vias, recapeamento e tapa-buracos.
 
 Além da infraestrutura, o Patrimônio também passará por grandes intervenções. Dentre elas, as reformas do Mercado da Ribeira, do Clube Atlântico e do Fortim do Queijo. 
 
