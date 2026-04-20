@@ -10,7 +10,7 @@ Com a eleição se aproximando, as articulações começam a ganhar forma em Oli
 
 Entre os mais bem colocados, o presidente da Câmara, Saulo Holanda (MDB), aparece ligado a Batista Cabral para estadual e Gabriel Porto para federal. Já Eugênia Lima (PT) surge como apoiadora de si mesma na disputa estadual, enquanto, no plano federal, o cenário ainda é de indefinição no blog, com três possibilidades citadas: Carlos Veras, Rosa Amorim ou Augusto Coutinho.
 
-No grupo dos reeleitos e eleitos com maior votação, também aparecem nomes como Mizael Prestanista (PSD), associado a Antônio Coelho e Fernando Filho; Felipe Nascimento (PSD), com indicação de apoio a Professor Lupércio e Daniel Coelho; e Professor Marcelo (PSD), que estaria com Simone Santana para estadual e Augusto Coutinho para federal.
+No grupo dos reeleitos e eleitos com maior votação, também aparecem nomes como Mizael Prestanista (PSD), associado a Antônio Coelho e Fernando Filho; Felipe Nascimento (PSD), com indicação de apoio a Professor Lupércio e Daniel Coelho; e Professor Marcelo (PSD), que estaria com Lara Santana para estadual e Augusto Coutinho para federal.
 
 Entre os demais mais votados, o levantamento aponta Simplício (PV) com Aglaílson Victor e Clodoaldo Magalhães; Ricardo Sousa (Avante) com Sebastião Oliveira e ele próprio pra federal; Márcio Barbosa (Avante) com Romerinho Jatobá e Augusto Coutinho; Denise Almeida (PSD) com William Brigido e Ossesio Silva; e Jesuíno Araújo (PSD) com João de Nadegi e Daniel Coelho.
 
@@ -18,7 +18,7 @@ O mapeamento também mostra que Labanca (PV) aparece ligado a Rodrigo Farias e C
 
 Há ainda casos em que o cenário segue em aberto. Tostão de Olinda (Avante) aparece apoiando ele mesmo para estadual, mas com o nome federal em definição. O mesmo ocorre com Mateus Olinda Ordinária (Agir), ligado a Jefferson Timóteo para estadual, mas ainda sem definição para federal. Sarmento (PL) também aparece com projeto estadual próprio, enquanto o apoio federal segue a definir. Já Jaco Projeto de Deus (MDB) surge com Joel da Harpa para estadual e ele mesmo para federal.
 
-No bloco intermediário da lista, aparecem ainda Flávio Nascimento (PSD) com Francismar Pontes e Juliana de Chaparral; Churro (PSD) com Professor Lupércio e Juliana de Chaparral; Everaldo Silva (PSD) com Eriberto Filho e Maurício Hands; Jojó Guerra (PL) com Beto Accioly e Ricardo Teobaldo; Iran Barbosa (DC) com Simone Santana e Guilherme Uchôa Jr.; Milcon Rangel (MDB) com Moacir Bezerra Filho e Gabriel Porto; Sardinha (Agir) com Sileno Guedes e Felipe Carreras; e Edinho Doido (DC) com Francismar Pontes e Gabriel Porto.
+No bloco intermediário da lista, aparecem ainda Flávio Nascimento (PSD) com Francismar Pontes e Juliana de Chaparral; Churro (PSD) com Professor Lupércio e Juliana de Chaparral; Everaldo Silva (PSD) com Eriberto Filho e Maurício Hands; Jojó Guerra (PL) com Beto Accioly e Ricardo Teobaldo; Iran Barbosa (DC) com Lara Santana e Guilherme Uchôa Jr.; Milcon Rangel (MDB) com Moacir Bezerra Filho e Gabriel Porto; Sardinha (Agir) com Sileno Guedes e Felipe Carreras; e Edinho Doido (DC) com Francismar Pontes e Gabriel Porto.
 
 Fechando a relação dos 30 mais votados, Flávio Urquisa (PL) aparece com Beto Accioly e Ricardo Teobaldo; Rafaela Crispim (PT) com Ivete Caetano e Liana Cirne; Mô da Barraca (DC) com Professor Lupércio e Juliana de Chaparral; Nedilson Amigo Tota (MDB) com Francismar Pontes e Guilherme Uchôa Jr.; e Dete Silva (PCdoB) com dúvida no apoio estadual entre Vinicius Castello e Cida Pedrosa, além de indicação para Renildo Calheiros no plano federal.
 
@@ -34,7 +34,7 @@ Resumo dos 30 mais votados e seus apoios mapeados pelo blog
 
 	4.	Felipe Nascimento — Estadual: Professor Lupércio | Federal: Daniel Coelho
 
-	5.	Professor Marcelo — Estadual: Simone Santana | Federal: Augusto Coutinho
+	5.	Professor Marcelo — Estadual: Lara Santana | Federal: Augusto Coutinho
 
 	6.	Simplício — Estadual: Aglaílson Victor | Federal: Clodoaldo Magalhães
 
@@ -64,7 +64,7 @@ Resumo dos 30 mais votados e seus apoios mapeados pelo blog
 
 	19.	Jojó Guerra — Estadual: Beto Accioly | Federal: Ricardo Teobaldo
 
-	20.	Iran Barbosa — Estadual: Simone Santana | Federal: Guilherme Uchôa Jr.
+	20.	Iran Barbosa — Estadual: Lara Santana | Federal: Guilherme Uchôa Jr.
 
 	21.	Milcon Rangel — Estadual: Moacir Bezerra Filho | Federal: Gabriel Porto
 
