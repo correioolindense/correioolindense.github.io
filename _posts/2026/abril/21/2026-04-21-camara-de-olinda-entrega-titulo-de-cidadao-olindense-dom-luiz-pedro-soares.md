@@ -2,7 +2,7 @@
 layout: post
 title: "CÂMARA DE OLINDA ENTREGA TÍTULO DE CIDADÃO OLINDENSE A DOM LUIZ PEDRO SOARES"
 categories: [ Olinda, Cidades ]
-image: assets/images/2025/abril/21/02.jpg
+image: assets/images/2026/abril/21/02.jpg
 date:   2026-04-21 14:10:00 -0300
 tags: [ featured]
 ---
