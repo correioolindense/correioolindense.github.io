@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DEPOIS DE BEBER E MATAR CRIANÇA ATROPELADA, MOTORISTA É SOLTO E CAUSA INDICAÇÃO"
+title: "DEPOIS DE BEBER E MATAR CRIANÇA ATROPELADA, MOTORISTA É SOLTO E CAUSA INDIGNAÇÃO"
 categories: [ Olinda, Cidades ]
 image: assets/images/2026/abril/22/01.jpg
 date:   2026-04-22 06:34:00 -0300
