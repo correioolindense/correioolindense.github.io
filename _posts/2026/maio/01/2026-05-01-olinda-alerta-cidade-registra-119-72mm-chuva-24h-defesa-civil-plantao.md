@@ -12,7 +12,7 @@ Dados da APAC apontam que Olinda registrou 197,03 milímetros de chuva em apenas
 
 Diante da gravidade, a Prefeitura de Olinda publicou no Diário Oficial em edição extraordinária o Decreto nº 032/2026, declarando situação de emergência por até 180 dias. O documento, assinado pela prefeita Mirella Almeida, reconhece o elevado risco geo-hidrológico, especialmente para alagamentos e deslizamentos de encostas, e autoriza medidas emergenciais como contratação direta de serviços, mobilização de servidores, remoções preventivas, abertura de abrigos e assistência social e de saúde às famílias atingidas.
 
-Os efeitos das chuvas já são sentidos em diferentes pontos da cidade. No bairro de Peixinhos, dezenas de moradores ficaram cercados pela água, e mais de 50 pessoas precisaram ser resgatadas por equipes de salvamento após ficarem ilhadas. Um abrigo emergencial foi montado para acolher famílias retiradas de áreas de risco.
+Os efeitos das chuvas já são sentidos em diferentes pontos da cidade. No bairro de Peixinhos, dezenas de moradores ficaram cercados pela água, e mais de 50 pessoas precisaram ser resgatadas por equipes de salvamento após ficarem ilhadas. Três abrigos emergenciais foram montados para acolher famílias retiradas de áreas de risco.
 
 Em Passarinho, um deslizamento de barreira deixou um casal de idosos soterrado, mobilizando bombeiros e equipes de resgate. Já no bairro de Águas Compridas, um adolescente ficou ferido após outro desmoronamento.
 
