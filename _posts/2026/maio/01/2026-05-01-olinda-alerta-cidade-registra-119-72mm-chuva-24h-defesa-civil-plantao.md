@@ -1,35 +1,23 @@
 ---
 layout: post
-title: "OLINDA EM ALERTA: CIDADE REGISTRA 119,72MM DE CHUVA EM 24H E DEFESA CIVIL MANTÉM PLANTÃO"
+title: "DIA DRAMÁTICO EM OLINDA QUE RECEBEU QUASE 200MM DE CHUVAS, PREFEITURA DECRETA EMERGÊNCIA"
 categories: [ Olinda, Cidades ]
-image: assets/images/2026/maio/01/01.jpg
+image: assets/images/2026/maio/01/02.jpg
 date:   2026-05-01 09:10:00 -0300
 tags: [ featured]
 ---
-A madrugada e a manhã desta sexta-feira (1º) foram de atenção máxima em Olinda e em toda a Região Metropolitana do Recife. Dados da Agência Pernambucana de Águas e Clima (APAC) mostram que o município de Olinda registrou um dos maiores acumulados de chuva do Estado nas últimas horas, chegando a 119,72 milímetros em 24 horas, medidos na estação de Ouro Preto.
+A cidade de Olinda vive nesta sexta-feira (1º) um dos dias mais críticos dos últimos anos após ser atingida por fortes chuvas que provocaram alagamentos, deslizamentos de barreiras, famílias ilhadas e mobilização total das equipes de emergência.
 
-Os números chamam atenção pela intensidade e pela rapidez com que a precipitação avançou. Nas últimas 3 horas, Olinda acumulou 44,87 mm. O volume subiu para 95,85 mm em 6 horas, alcançou 113,37 mm em 12 horas e fechou a manhã com 119,72 mm em 24 horas, colocando a cidade nas cabeças do monitoramento estadual.
+Dados da APAC apontam que Olinda registrou 197,03 milímetros de chuva em apenas 24 horas, o maior acumulado dos últimos anos. O volume elevou o nível de alerta em todo o município e agravou a situação em áreas vulneráveis.
 
-Diante do cenário, a APAC renovou o Estado de Alerta Meteorológico nº 47/2026, válido até as 16h deste sábado (2), prevendo continuidade de pancadas de chuva de intensidade moderada a forte para a Região Metropolitana do Recife e Mata Norte.
+Diante da gravidade, a Prefeitura de Olinda publicou no Diário Oficial em edição extraordinária o Decreto nº 032/2026, declarando situação de emergência por até 180 dias. O documento, assinado pela prefeita Mirella Almeida, reconhece o elevado risco geo-hidrológico, especialmente para alagamentos e deslizamentos de encostas, e autoriza medidas emergenciais como contratação direta de serviços, mobilização de servidores, remoções preventivas, abertura de abrigos e assistência social e de saúde às famílias atingidas.
 
-Olinda também entrou em estado de alerta municipal. A Defesa Civil da cidade informou que segue em plantão 24 horas e orientou a população a evitar áreas de encosta, pontos de alagamento e regiões historicamente vulneráveis durante o período crítico.
+Os efeitos das chuvas já são sentidos em diferentes pontos da cidade. No bairro de Peixinhos, dezenas de moradores ficaram cercados pela água, e mais de 50 pessoas precisaram ser resgatadas por equipes de salvamento após ficarem ilhadas. Um abrigo emergencial foi montado para acolher famílias retiradas de áreas de risco.
 
-Segundo a previsão oficial da APAC, o sábado (2) ainda deverá ser de céu nublado com pancadas de chuva na madrugada e nas primeiras horas da manhã, com intensidade moderada a forte na Região Metropolitana.
+Em Passarinho, um deslizamento de barreira deixou um casal de idosos soterrado, mobilizando bombeiros e equipes de resgate. Já no bairro de Águas Compridas, um adolescente ficou ferido após outro desmoronamento.
 
-Outro fator que exige atenção é a previsão de maré alta no litoral do Recife, o que pode dificultar o escoamento das águas e ampliar pontos de alagamento em algumas áreas.
+Além dos impactos já registrados, a previsão da APAC mantém o alerta para a Região Metropolitana do Recife. Para esta sexta-feira, a tendência é de céu nublado com pancadas de chuva isoladas entre moderadas e fortes durante a noite. Já para o sábado (2), a previsão indica chuvas em toda a região entre a madrugada e as primeiras horas da manhã, com intensidade moderada a forte.
 
-No interior da Região Metropolitana, municípios como Abreu e Lima e Paulista também registraram volumes expressivos, com 115,6 mm e 112,59 mm, respectivamente, reforçando o cenário de instabilidade em toda a faixa litorânea.
+A Defesa Civil segue monitorando áreas críticas e orienta que moradores de regiões de encosta, locais com histórico de alagamentos ou sinais de movimentação de solo deixem imediatamente áreas de risco e acionem os órgãos competentes em caso de emergência.
 
-A recomendação das autoridades é clara: moradores devem acompanhar exclusivamente os canais oficiais da Prefeitura e da APAC e, em situações de emergência, acionar imediatamente a Defesa Civil.
-
-Números da chuva em Olinda nesta sexta (1º):
-
-• 3h: 44,87 mm
-
-• 6h: 95,85 mm
-
-• 12h: 113,37 mm
-
-• 24h: 119,72 mm
-
-Correio Olindense segue acompanhando em tempo real os desdobramentos das chuvas na cidade e na Região Metropolitana.
+Olinda segue em estado máximo de atenção.
